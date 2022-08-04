@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ConfigADC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	59;"	f	line:59
+DelayMs	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	169;"	f	line:169	signature:(void)
+Master_Write	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	361;"	f	line:361	signature:(int data)
+My_Read_SPI	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	369;"	f	line:369	signature:(void)
+ReadADC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	72;"	f	line:72	signature:(int ch)
+RemapPins_spi	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	251;"	f	line:251	signature:(int m)
+RemapPins_usart4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	209;"	f	line:209	signature:(void)
+Rx_UARTS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	185;"	f	line:185	signature:(unsigned char uno)
+Rx_UARTS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	58;"	p	line:58	file:	signature:(unsigned char uno)
+SPICON1Value	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	321;"	l	line:321
+SPICON1Value	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	371;"	l	line:371
+SPICON2Value	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	322;"	l	line:322
+SPICON2Value	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	372;"	l	line:372
+SPISTATValue	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	323;"	l	line:323
+SPISTATValue	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	373;"	l	line:373
+Test_SPI	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	319;"	f	line:319	signature:(void)
+Tx_UARTS4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	177;"	f	line:177	signature:(unsigned char Txdata)
+USE_AND_OR::	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	25;"	d	line:25	file:
+_ADC1Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	83;"	p	line:83	file:	signature:(void)
+_ADC1Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	84;"	f	line:84	signature:(void)
+_SPI2Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	312;"	f	line:312	signature:(void)
+a	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	94;"	l	line:94
+config_USART4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	159;"	f	line:159	signature:(void)
+datard	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	118;"	l	line:118
+datard	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	324;"	l	line:324
+datard	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	374;"	l	line:374
+f	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	171;"	l	line:171
+i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	123;"	l	line:123
+j	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	171;"	l	line:171
+main	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	92;"	f	line:92
+master::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	30;"	d	line:30	file:
+slave::2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	31;"	d	line:31	file:
+uart_no	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	97;"	l	line:97
+udata	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	89;"	v	line:89
+umer	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F_TEST_C\spi\adc_test_2.c	98;"	l	line:98

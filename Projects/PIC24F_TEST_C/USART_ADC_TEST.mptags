@@ -1,0 +1,48 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+CL::2	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	39;"	d	line:39	file:
+ConfigADC	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	1;"	f	line:1	signature:()
+DelayMs	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	206;"	f	line:206	signature:(void)
+ELE::4	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	40;"	d	line:40	file:
+ERM::1	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	38;"	d	line:38	file:
+MAS::3	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	41;"	d	line:41	file:
+ReadADC	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	72;"	f	line:72	signature:(int ch)
+RemapPins	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	113;"	f	line:113	signature:(void)
+RemapPins	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	23;"	p	line:23	file:	signature:(void)
+Rx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	213;"	f	line:213	signature:(unsigned char uno)
+Rx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	21;"	p	line:21	file:	signature:(unsigned char)
+Tx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	25;"	p	line:25	file:	signature:(volatile unsigned char,volatile int)
+Tx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	85;"	f	line:85	signature:(unsigned char uartno,int Txdata)
+USART2_TX	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	22;"	p	line:22	file:	signature:(unsigned char)
+_ADC1Interrupt	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	260;"	f	line:260	signature:(void)
+_ADC1Interrupt	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	83;"	p	line:83	signature:(void)
+adc_buff	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	15;"	v	line:15
+adc_num	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	10;"	v	line:10
+adc_val	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	13;"	v	line:13
+adcval	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	42;"	v	line:42
+adcvalH	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	43;"	v	line:43
+adcvalL	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	43;"	v	line:43
+chno	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	43;"	v	line:43
+config_Ports	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	149;"	f	line:149	signature:(void)
+config_Ports	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	24;"	p	line:24	file:	signature:(void)
+config_USARTs	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	158;"	f	line:158	signature:(void)
+config_USARTs	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	26;"	p	line:26	file:	signature:(void)
+count	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	13;"	v	line:13
+f	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	208;"	l	line:208
+i	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	15;"	v	line:15
+j	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	13;"	v	line:13
+main	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	45;"	f	line:45	signature:(void)
+rx_1	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	14;"	v	line:14
+rx_2	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	14;"	v	line:14
+rx_3	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	14;"	v	line:14
+rx_4	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	14;"	v	line:14
+stby	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	9;"	v	line:9
+stbyp	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	12;"	v	line:12
+sys	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	8;"	v	line:8
+sysp	D:\Electronics\ALL PIC\PIC24F_TEST_C\PIC24F_UART_1.C	12;"	v	line:12

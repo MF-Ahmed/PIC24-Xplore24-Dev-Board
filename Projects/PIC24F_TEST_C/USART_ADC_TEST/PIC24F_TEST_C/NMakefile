@@ -1,0 +1,23 @@
+# MPLAB IDE generated this makefile for use with Microsoft `nmake'.
+# Project: USART_ADC_TEST.mcp
+# Date: Thu Mar 14 12:14:37 2013
+
+AS = pic30-as.exe
+CC = pic30-gcc.exe
+LD = pic30-ld.exe
+AR = pic30-ar.exe
+HX = pic30-bin2hex.exe
+RM = del
+
+"USART_ADC_TEST.hex" : "USART_ADC_TEST.cof"
+	$(HX) "USART_ADC_TEST.cof"
+
+"USART_ADC_TEST.cof" : "PIC24F_UART_1.o"
+	$(CC) -mcpu=24FJ256GA106 "PIC24F_UART_1.o" -o"USART_ADC_TEST.cof" -Wl,-L"C:\Program Files\Microchip\MPLAB C30\lib",--script="C:\Program Files\Microchip\MPLAB C30\support\PIC24F\gld\p24FJ256GA106.gld",--defsym=__MPLAB_BUILD=1,--defsym=__MPLAB_DEBUG=1,-Map="USART_ADC_TEST.map",--report-mem
+
+"PIC24F_UART_1.o" : "c:\program files\microchip\mplab c30\support\PIC24F\h\p24FJ256GA106.h" "PIC24F_UART_1.C"
+	$(CC) -mcpu=24FJ256GA106 -x c -c "PIC24F_UART_1.C" -o"PIC24F_UART_1.o" -D__DEBUG -g -Wall
+
+"clean" : 
+	$(RM) "PIC24F_UART_1.o" "USART_ADC_TEST.cof" "USART_ADC_TEST.hex"
+

@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ConfigADC	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	1;"	f	line:1	signature:()
+ConfigADC	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	58;"	f	line:58
+DelayMs	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	147;"	f	line:147	signature:(void)
+ReadADC	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	72;"	f	line:72	signature:(int ch)
+ReadADC	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	71;"	f	line:71	signature:(int ch)
+RemapPins_usart4	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	187;"	f	line:187	signature:(void)
+Rx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	163;"	f	line:163	signature:(unsigned char uno)
+Rx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	57;"	p	line:57	file:	signature:(unsigned char uno)
+Tx_UARTS	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	85;"	f	line:85	signature:(unsigned char uartno,int Txdata)
+Tx_UARTS4	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	155;"	f	line:155	signature:(unsigned char Txdata)
+USE_AND_OR::	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	25;"	d	line:25	file:
+_ADC1Interrupt	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test.h	83;"	p	line:83	signature:(void)
+_ADC1Interrupt	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	82;"	p	line:82	file:	signature:(void)
+_ADC1Interrupt	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	83;"	f	line:83	signature:(void)
+a	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	91;"	l	line:91
+config_USART4	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	137;"	f	line:137	signature:(void)
+f	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	149;"	l	line:149
+j	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	149;"	l	line:149
+main	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	89;"	f	line:89
+uart_no	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	93;"	l	line:93
+udata	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	88;"	v	line:88
+umer	D:\Electronics\ALL PIC\PIC24F_TEST_C\adc_test_2.c	94;"	l	line:94

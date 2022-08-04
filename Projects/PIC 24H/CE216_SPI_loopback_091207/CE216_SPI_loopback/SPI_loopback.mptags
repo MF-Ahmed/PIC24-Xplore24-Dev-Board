@@ -1,0 +1,61 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+FNOSC_FRC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\main.c	64;"	v	line:64
+FWDTEN_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\main.c	70;"	v	line:70
+POSCMD_NONE	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\main.c	65;"	v	line:65
+ProcessSpiRxSamples	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	201;"	f	line:201	signature:(unsigned int * SpiRxBuffer)
+ProcessSpiRxSamples	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	57;"	p	line:57	file:	signature:(unsigned int * SpiRxBuffer)
+RxDmaBuffer	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	172;"	v	line:172
+Spi1RxBuffA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	59;"	v	line:59
+Spi1RxBuffB	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	60;"	v	line:60
+Spi1TxBuffA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	61;"	v	line:61
+Spi1TxBuffB	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	62;"	v	line:62
+_AddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	61;"	p	line:61	file:	signature:(void)
+_AddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	86;"	f	line:86	signature:(void)
+_AltAddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	128;"	f	line:128	signature:(void)
+_AltAddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	67;"	p	line:67	file:	signature:(void)
+_AltDMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	146;"	f	line:146	signature:(void)
+_AltDMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	70;"	p	line:70	file:	signature:(void)
+_AltMathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	140;"	f	line:140	signature:(void)
+_AltMathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	69;"	p	line:69	file:	signature:(void)
+_AltOscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	122;"	f	line:122	signature:(void)
+_AltOscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	66;"	p	line:66	file:	signature:(void)
+_AltStackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	134;"	f	line:134	signature:(void)
+_AltStackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	68;"	p	line:68	file:	signature:(void)
+_DMA0Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	57;"	p	line:57	signature:(void)
+_DMA0Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	174;"	f	line:174	signature:(void)
+_DMA1Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	58;"	p	line:58	signature:(void)
+_DMA1Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	183;"	f	line:183	signature:(void)
+_DMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	103;"	f	line:103	signature:(void)
+_DMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	64;"	p	line:64	file:	signature:(void)
+_MathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	63;"	p	line:63	file:	signature:(void)
+_MathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	97;"	f	line:97	signature:(void)
+_OscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	60;"	p	line:60	file:	signature:(void)
+_OscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	80;"	f	line:80	signature:(void)
+_StackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	62;"	p	line:62	file:	signature:(void)
+_StackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\traps.c	91;"	f	line:91	signature:(void)
+__SPI1DRV_H__	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	48;"	d	line:48
+__TGLPIN_H__	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\tglPin.h	47;"	d	line:47
+_tglPin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\tglPin.s	67;"	l	line:67
+_tglPinInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\tglPin.s	61;"	l	line:61
+cfgDma0SpiTx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	51;"	p	line:51	signature:(void)
+cfgDma0SpiTx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	53;"	p	line:53	file:	signature:(void)
+cfgDma0SpiTx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	72;"	f	line:72	signature:(void)
+cfgDma1SpiRx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	52;"	p	line:52	signature:(void)
+cfgDma1SpiRx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	54;"	p	line:54	file:	signature:(void)
+cfgDma1SpiRx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	95;"	f	line:95	signature:(void)
+cfgSPI1Master	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	55;"	p	line:55	file:	signature:(void)
+cfgSpi1Master	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	53;"	p	line:53	signature:(void)
+cfgSpi1Master	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	112;"	f	line:112	signature:(void)
+i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	152;"	l	line:152
+initSPIBuff	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\spi1Drv.h	54;"	p	line:54	signature:(void)
+initSPIBuff	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\spi1Drv.c	150;"	f	line:150	signature:(void)
+main	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\src\main.c	74;"	f	line:74	signature:(void)
+tglPin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\tglPin.h	51;"	p	line:51	signature:(void)
+tglPinInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE216_SPI_loopback_091207\CE216_SPI_loopback\h\tglPin.h	50;"	p	line:50	signature:(void)

@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BAUDRATE::9600	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	55;"	d	line:55	file:
+BRGVAL::((FCY/BAUDRATE)/16)-1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	56;"	d	line:56	file:
+BufferA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	62;"	v	line:62
+BufferB	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	63;"	v	line:63
+BufferCount	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	200;"	l	line:200	file:
+FCY::40000000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	54;"	d	line:54	file:
+FNOSC_FRC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\main.c	58;"	v	line:58
+FWDTEN_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\main.c	62;"	v	line:62
+POSCMD_XT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\main.c	59;"	v	line:59
+_DMA0Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	193;"	f	line:193	signature:(void)
+_DMA1Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	198;"	f	line:198	signature:(void)
+_U2ErrInterrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	220;"	f	line:220	signature:(void)
+cfgDma0UartTx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	98;"	f	line:98	signature:(void)
+cfgDma1UartRx	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	140;"	f	line:140	signature:(void)
+cfgUart2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\uart1Drv.c	67;"	f	line:67	signature:(void)
+main	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE214_UART_loopback_091207\CE214_UART_loopback\src\main.c	65;"	f	line:65	signature:(void)

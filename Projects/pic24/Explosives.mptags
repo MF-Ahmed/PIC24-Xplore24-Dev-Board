@@ -1,0 +1,60 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BAUDRATE::9600	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	46;"	d	line:46	file:
+BRGVAL::(((FOSC/2)/BAUDRATE)/4)-1	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	47;"	d	line:47	file:
+CHANNELS::20	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	33;"	d	line:33	file:
+CH_SEL::LATA	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	31;"	d	line:31	file:
+CR::0x0D	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	38;"	d	line:38	file:
+CS::_LATG12	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	42;"	d	line:42	file:
+DATA::SPI2BUF	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	41;"	d	line:41	file:
+FOSC::32000000	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	45;"	d	line:45	file:
+LF::0x0A	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	39;"	d	line:39	file:
+PRINT::_RD6	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	36;"	d	line:36	file:
+RST::_LATG15	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	43;"	d	line:43	file:
+STOPPED::_RD0	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	35;"	d	line:35	file:
+_SPI2Interrupt	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	397;"	f	line:397	signature:(void)
+bcd	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	279;"	l	line:279
+ch	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	51;"	v	line:51
+count	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	50;"	v	line:50
+dat	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	52;"	v	line:52
+data	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	207;"	l	line:207
+data	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	278;"	l	line:278
+delay	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	163;"	f	line:163	signature:(int m)
+delay	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	55;"	p	line:55	file:	signature:(int)
+done	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	83;"	l	line:83
+getByte	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	71;"	f	line:71	signature:(void)
+i	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	165;"	l	line:165
+i	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	206;"	l	line:206
+i	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	252;"	l	line:252
+i	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	277;"	l	line:277
+i	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	83;"	l	line:83
+initSPI	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	172;"	f	line:172	signature:(void)
+initSPI	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	57;"	p	line:57	file:	signature:(void)
+j	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	165;"	l	line:165
+j	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	206;"	l	line:206
+j	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	252;"	l	line:252
+j	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	277;"	l	line:277
+k	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	165;"	l	line:165
+k	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	277;"	l	line:277
+main	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	80;"	f	line:80	signature:(void)
+printChar	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	155;"	f	line:155	signature:(char data)
+printChar	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	54;"	p	line:54	file:	signature:(char)
+printData	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	275;"	f	line:275	signature:(void)
+printData	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	62;"	p	line:62	file:	signature:(void)
+readMemory	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	250;"	f	line:250
+readMemory	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	61;"	p	line:61	file:	signature:(void)
+ready	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	50;"	v	line:50
+sendByte	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	64;"	f	line:64	signature:(unsigned char byte)
+str	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	281;"	l	line:281
+str	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	82;"	l	line:82
+str2	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	282;"	l	line:282
+waitTilDone	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	195;"	f	line:195	signature:(void)
+waitTilDone	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	58;"	p	line:58	file:	signature:(void)
+writeMemory	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	204;"	f	line:204	signature:(void)
+writeMemory	D:\ESL ALL DATA\Microcontroller Projects\PIC24 Projects\explosives.c	60;"	p	line:60	file:	signature:(void)

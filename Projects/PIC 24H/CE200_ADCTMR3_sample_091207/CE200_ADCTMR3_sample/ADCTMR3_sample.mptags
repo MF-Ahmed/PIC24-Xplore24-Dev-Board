@@ -1,0 +1,164 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BART_0::2.0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	74;"	d	line:74
+BLCK_0::0.42	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	82;"	d	line:82
+BLCK_1::-0.50	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	83;"	d	line:83
+BLCK_2::0.08	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	84;"	d	line:84
+BartlettInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	445;"	p	line:445	signature:( int numElems, fractional* window )
+BitReverseComplex	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1247;"	p	line:1247	signature:( int log2N, fractcomplex* srcCV )
+BlackmanInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	456;"	p	line:456	signature:( int numElems, fractional* window )
+COEFFS_IN_DATA::0xFF00	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	86;"	d	line:86
+CosFactorInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1375;"	p	line:1375	signature:( int log2N, fractcomplex* cosFactors )
+DATA_TYPE::FRACTIONAL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	58;"	d	line:58
+DCT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1392;"	p	line:1392	signature:( int log2N, fractional* dstV, fractional* srcV, fractcomplex* cosFactors, fractcomplex* twidFactors, int factPage )
+DCTIP	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1441;"	p	line:1441	signature:( int log2N, fractional* srcV, fractcomplex* cosFactors, fractcomplex* twidFactors, int factPage )
+FFTComplex	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1258;"	p	line:1258	signature:( int log2N, fractcomplex* dstCV, fractcomplex* srcCV, fractcomplex* twidFactors, int factPage )
+FFTComplexIP	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1290;"	p	line:1290	signature:( int log2N, fractcomplex* srcCV, fractcomplex* twidFactors, int factPage )
+FIR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	851;"	p	line:851	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, FIRStruct* filter )
+FIRDecimate	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	869;"	p	line:869	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, FIRStruct* filter, int rate )
+FIRDelayInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	837;"	p	line:837	signature:( FIRStruct* filter )
+FIRInterpDelayInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	844;"	p	line:844	signature:( FIRStruct* filter, int rate )
+FIRInterpolate	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	888;"	p	line:888	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, FIRStruct* filter, int rate )
+FIRLMS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	923;"	p	line:923	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, FIRStruct* filter, fractional* refSamps, fractional muVal )
+FIRLMSNorm	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	952;"	p	line:952	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, FIRStruct* filter, fractional* refSamps, fractional muVal, fractional* energyEstimate )
+FIRLattice	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	906;"	p	line:906	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, FIRStruct* filter )
+FIRStruct	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	799;"	t	line:799
+FIRStructInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	802;"	p	line:802	signature:( FIRStruct* FIRFilter, int numCoeffs, fractional* coeffsBase, int coeffsPage, fractional* delayBase )
+FLOATING::-1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	55;"	d	line:55
+FNOSC_FRC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	67;"	v	line:67
+FPWRT_PWR1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	75;"	v	line:75
+FRACTIONAL::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	56;"	d	line:56
+FWDTEN_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	73;"	v	line:73
+Fcy::(Fosc/2)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	51;"	d	line:51
+Float2Fract	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	137;"	p	line:137	signature:( float aVal )
+Float2Fract::(aVal)(aVal)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	134;"	d	line:134
+Fosc::80000000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	50;"	d	line:50
+Fract2Float	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	140;"	p	line:140	signature:( fractional aVal )
+Fract2Float::(aVal)(aVal)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	135;"	d	line:135
+Fs::8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	52;"	d	line:52
+GCP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	76;"	v	line:76
+HAMM_0::0.53836	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	79;"	d	line:79
+HAMM_1::-0.46164	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	80;"	d	line:80
+HANN_0::0.50	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	76;"	d	line:76
+HANN_1::-0.50	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	77;"	d	line:77
+HammingInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	467;"	p	line:467	signature:( int numElems, fractional* window )
+HanningInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	478;"	p	line:478	signature:( int numElems, fractional* window )
+IFFTComplex	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1318;"	p	line:1318	signature:( int log2N, fractcomplex* dstCV, fractcomplex* srcCV, fractcomplex* twidFactors, int factPage )
+IFFTComplexIP	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1347;"	p	line:1347	signature:( int log2N, fractcomplex* srcCV, fractcomplex* twidFactors, int factPage )
+IIRCanonic	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1078;"	p	line:1078	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, IIRCanonicStruct* filter )
+IIRCanonicInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1090;"	p	line:1090	signature:( IIRCanonicStruct* filter )
+IIRCanonicStruct	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1076;"	t	line:1076
+IIRLattice	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1157;"	p	line:1157	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, IIRLatticeStruct* filter )
+IIRLatticeInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1168;"	p	line:1168	signature:( IIRLatticeStruct* filter )
+IIRLatticeStruct	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1155;"	t	line:1155
+IIRTransposed	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1121;"	p	line:1121	signature:( int numSamps, fractional* dstSamps, fractional* srcSamps, IIRTransposedStruct* filter )
+IIRTransposedInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1133;"	p	line:1133	signature:( IIRTransposedStruct* filter )
+IIRTransposedStruct	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1119;"	t	line:1119
+INV_SQRT2::SIN_PI_Q	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	70;"	d	line:70
+KaiserInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	489;"	p	line:489	signature:( int numElems, fractional* window, float betaVal )
+MatrixAdd	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	654;"	p	line:654	signature:( int numRows, int numCols, fractional* dstM, fractional* srcM1, fractional* srcM2 )
+MatrixInvert	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	634;"	p	line:634	signature:( int numRowsCols, float* dstM, float* srcM, float* pivotFlag, int* swappedRows, int* swappedCols )
+MatrixMultiply	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	686;"	p	line:686	signature:( int numRows1, int numCols1Rows2, int numCols2, fractional* dstM, fractional* srcM1, fractional* srcM2 )
+MatrixScale	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	607;"	p	line:607	signature:( int numRows, int numCols, fractional* dstM, fractional* srcM, fractional sclVal )
+MatrixSubtract	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	670;"	p	line:670	signature:( int numRows, int numCols, fractional* dstM, fractional* srcM1, fractional* srcM2 )
+MatrixTranspose	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	621;"	p	line:621	signature:( int numRows, int numCols, fractional* dstM, fractional* srcM )
+NUMSAMP::256	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	54;"	d	line:54
+PI::3.1415926535897931159979634685	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	63;"	d	line:63
+POSCMD_XT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	68;"	v	line:68
+SAMPPRD::(Fcy/Fs)-1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	53;"	d	line:53
+SIN_PI_Q::0.7071067811865474617150084668	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	66;"	d	line:66
+TwidFactorInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1225;"	p	line:1225	signature:( int log2N, fractcomplex* twidFactors, int conjFlag )
+VectorAdd	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	308;"	p	line:308	signature:( int numElems, fractional* dstV, fractional* srcV1, fractional* srcV2 )
+VectorConvolve	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	377;"	p	line:377	signature:( int numElems1, int numElems2, fractional* dstV, fractional* srcV1, fractional* srcV2 )
+VectorCopy	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	252;"	p	line:252	signature:( int numElems, fractional* dstV, fractional* srcV )
+VectorCorrelate	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	392;"	p	line:392	signature:( int numElems1, int numElems2, fractional* dstV, fractional* srcV1, fractional* srcV2 )
+VectorDotProduct	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	353;"	p	line:353	signature:( int numElems, fractional* srcV1, fractional* srcV2 )
+VectorMax	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	226;"	p	line:226	signature:( int numElems, fractional* srcV, int* maxIndex )
+VectorMin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	239;"	p	line:239	signature:( int numElems, fractional* srcV, int* minIndex )
+VectorMultiply	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	338;"	p	line:338	signature:( int numElems, fractional* dstV, fractional* srcV1, fractional* srcV2 )
+VectorNegate	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	283;"	p	line:283	signature:( int numElems, fractional* dstV, fractional* srcV )
+VectorPower	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	366;"	p	line:366	signature:( int numElems, fractional* srcV )
+VectorScale	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	295;"	p	line:295	signature:( int numElems, fractional* dstV, fractional* srcV, fractional sclVal )
+VectorSubtract	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	323;"	p	line:323	signature:( int numElems, fractional* dstV, fractional* srcV1, fractional* srcV2 )
+VectorWindow	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	501;"	p	line:501	signature:( int numElems, fractional* dstV, fractional* srcV, fractional* window )
+VectorZeroPad	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	267;"	p	line:267	signature:( int numElems, int numZeros, fractional* dstV, fractional* srcV )
+_AddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	61;"	p	line:61	file:	signature:(void)
+_AddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	86;"	f	line:86	signature:(void)
+_AltAddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	128;"	f	line:128	signature:(void)
+_AltAddressError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	67;"	p	line:67	file:	signature:(void)
+_AltDMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	146;"	f	line:146	signature:(void)
+_AltDMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	70;"	p	line:70	file:	signature:(void)
+_AltMathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	140;"	f	line:140	signature:(void)
+_AltMathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	69;"	p	line:69	file:	signature:(void)
+_AltOscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	122;"	f	line:122	signature:(void)
+_AltOscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	66;"	p	line:66	file:	signature:(void)
+_AltStackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	134;"	f	line:134	signature:(void)
+_AltStackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	68;"	p	line:68	file:	signature:(void)
+_DMA0Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	60;"	p	line:60	signature:(void)
+_DMA0Interrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	164;"	f	line:164	signature:(void)
+_DMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	103;"	f	line:103	signature:(void)
+_DMACError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	64;"	p	line:64	file:	signature:(void)
+_MathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	63;"	p	line:63	file:	signature:(void)
+_MathError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	97;"	f	line:97	signature:(void)
+_OscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	60;"	p	line:60	file:	signature:(void)
+_OscillatorFail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	80;"	f	line:80	signature:(void)
+_StackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	62;"	p	line:62	file:	signature:(void)
+_StackError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\traps.c	91;"	f	line:91	signature:(void)
+__ADCDRV1_H__	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	47;"	d	line:47
+__DSP_LIB__	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	42;"	d	line:42
+__TGLPIN_H__	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\tglPin.h	47;"	d	line:47
+_tglPin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\tglPin.s	71;"	l	line:71
+_tglPinInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\tglPin.s	65;"	l	line:65
+adcBuff	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	162;"	v	line:162
+adcCntr	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	162;"	v	line:162
+adcPtr	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	167;"	l	line:167
+coeffsBase	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1057;"	m	line:1057
+coeffsBase	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1099;"	m	line:1099
+coeffsBase	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	765;"	m	line:765
+coeffsEnd	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	777;"	m	line:777
+coeffsPage	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1062;"	m	line:1062
+coeffsPage	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1104;"	m	line:1104
+coeffsPage	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1149;"	m	line:1149
+coeffsPage	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	784;"	m	line:784
+delay	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1152;"	m	line:1152
+delay	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	798;"	m	line:798
+delayBase	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1065;"	m	line:1065
+delayBase	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	789;"	m	line:789
+delayBase1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1107;"	m	line:1107
+delayBase2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1110;"	m	line:1110
+delayEnd	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	796;"	m	line:796
+dma0BufSel	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	139;"	v	line:139
+dummyWrite	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	125;"	f	line:125	signature:(void)
+dummyWrite	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	78;"	p	line:78	file:	signature:(void)
+finalShift	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1069;"	m	line:1069
+finalShift	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1113;"	m	line:1113
+fractcomplex	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	107;"	t	line:107
+fractional	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	100;"	t	line:100
+fractional	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	98;"	t	line:98
+gammaVals	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1145;"	m	line:1145
+i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	166;"	l	line:166
+i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	128;"	l	line:128
+imag	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	106;"	m	line:106
+initAdc1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	57;"	p	line:57	signature:(void)
+initAdc1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	64;"	f	line:64	signature:(void)
+initDma0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	59;"	p	line:59	signature:(void)
+initDma0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	141;"	f	line:141	signature:(void)
+initTmr3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\adcDrv1.h	58;"	p	line:58	signature:()
+initTmr3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\adcDrv1.c	119;"	f	line:119
+initialGain	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1068;"	m	line:1068
+kappaVals	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1142;"	m	line:1142
+main	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	81;"	f	line:81	signature:(void)
+numCoeffs	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	761;"	m	line:761
+numSectionsLess1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1055;"	m	line:1055
+numSectionsLess1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1097;"	m	line:1097
+order	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	1140;"	m	line:1140
+real	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\dsp.h	105;"	m	line:105
+tglPin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\tglPin.h	51;"	p	line:51	signature:(void)
+tglPinInit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\h\tglPin.h	50;"	p	line:50	signature:(void)
+txMsgBox	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC 24H\CE200_ADCTMR3_sample_091207\CE200_ADCTMR3_sample\src\main.c	127;"	l	line:127

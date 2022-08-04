@@ -1,0 +1,1199 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADC_10BIT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	73;"	d	line:73
+ADC_128_WORD_PER_INPUT::7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	604;"	d	line:604
+ADC_12BIT::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	72;"	d	line:72
+ADC_16_WORD_PER_INPUT::4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	601;"	d	line:601
+ADC_1_WORD_PER_INPUT::0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	597;"	d	line:597
+ADC_2_WORD_PER_INPUT::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	598;"	d	line:598
+ADC_32_WORD_PER_INPUT::5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	602;"	d	line:602
+ADC_4_WORD_PER_INPUT::2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	599;"	d	line:599
+ADC_64_WORD_PER_INPUT::6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	603;"	d	line:603
+ADC_8_WORD_PER_INPUT::3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	600;"	d	line:600
+ADC_ADDMABM_MASK::(~ADC_ADDMABM_ORDER)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	70;"	d	line:70
+ADC_ADDMABM_ORDER::0x1000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	69;"	d	line:69
+ADC_ADDMABM_SCATTER::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	68;"	d	line:68
+ADC_ALT_BUF_MASK::(~ADC_ALT_BUF_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	136;"	d	line:136
+ADC_ALT_BUF_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	135;"	d	line:135
+ADC_ALT_BUF_ON::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	134;"	d	line:134
+ADC_ALT_BUF_STATUS_2::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	138;"	d	line:138
+ADC_ALT_BUF_STATUS_MASK::(~ADC_ALT_BUF_STATUS_MASK)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	139;"	d	line:139
+ADC_ALT_INPUT_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	144;"	d	line:144
+ADC_ALT_INPUT_ON::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	142;"	d	line:142
+ADC_ALT_MASK::(~ADC_ALT_INPUT_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	145;"	d	line:145
+ADC_AUTO_SAMPLING_MASK::(~ADC_AUTO_SAMPLING_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	93;"	d	line:93
+ADC_AUTO_SAMPLING_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	92;"	d	line:92
+ADC_AUTO_SAMPLING_ON::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	91;"	d	line:91
+ADC_CH0_NEG_SAMPLEA_AN1::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	479;"	d	line:479
+ADC_CH0_NEG_SAMPLEA_MASK::(~ADC_CH0_NEG_SAMPLEA_AN1)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	481;"	d	line:481
+ADC_CH0_NEG_SAMPLEA_VREFN::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	480;"	d	line:480
+ADC_CH0_NEG_SAMPLEB_AN1::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	457;"	d	line:457
+ADC_CH0_NEG_SAMPLEB_MASK::(~ADC_CH0_NEG_SAMPLEB_AN1)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	459;"	d	line:459
+ADC_CH0_NEG_SAMPLEB_VREFN::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	458;"	d	line:458
+ADC_CH0_POS_SAMPLEA_AN0::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	498;"	d	line:498
+ADC_CH0_POS_SAMPLEA_AN10::0x000A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	488;"	d	line:488
+ADC_CH0_POS_SAMPLEA_AN11::0x000B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	487;"	d	line:487
+ADC_CH0_POS_SAMPLEA_AN12::0x000C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	486;"	d	line:486
+ADC_CH0_POS_SAMPLEA_AN13::0x000D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	485;"	d	line:485
+ADC_CH0_POS_SAMPLEA_AN14::0x000E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	484;"	d	line:484
+ADC_CH0_POS_SAMPLEA_AN15::0x000F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	483;"	d	line:483
+ADC_CH0_POS_SAMPLEA_AN1::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	497;"	d	line:497
+ADC_CH0_POS_SAMPLEA_AN2::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	496;"	d	line:496
+ADC_CH0_POS_SAMPLEA_AN3::0x0003	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	495;"	d	line:495
+ADC_CH0_POS_SAMPLEA_AN4::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	494;"	d	line:494
+ADC_CH0_POS_SAMPLEA_AN5::0x0005	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	493;"	d	line:493
+ADC_CH0_POS_SAMPLEA_AN6::0x0006	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	492;"	d	line:492
+ADC_CH0_POS_SAMPLEA_AN7::0x0007	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	491;"	d	line:491
+ADC_CH0_POS_SAMPLEA_AN8::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	490;"	d	line:490
+ADC_CH0_POS_SAMPLEA_AN9::0x0009	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	489;"	d	line:489
+ADC_CH0_POS_SAMPLEA_MASK::(~ADC_CH0_POS_SAMPLEA_AN15)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	499;"	d	line:499
+ADC_CH0_POS_SAMPLEB_AN0::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	476;"	d	line:476
+ADC_CH0_POS_SAMPLEB_AN10::0x0A00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	466;"	d	line:466
+ADC_CH0_POS_SAMPLEB_AN11::0x0B00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	465;"	d	line:465
+ADC_CH0_POS_SAMPLEB_AN12::0x0C00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	464;"	d	line:464
+ADC_CH0_POS_SAMPLEB_AN13::0x0D00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	463;"	d	line:463
+ADC_CH0_POS_SAMPLEB_AN14::0x0E00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	462;"	d	line:462
+ADC_CH0_POS_SAMPLEB_AN15::0x0F00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	461;"	d	line:461
+ADC_CH0_POS_SAMPLEB_AN1::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	475;"	d	line:475
+ADC_CH0_POS_SAMPLEB_AN2::0x0200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	474;"	d	line:474
+ADC_CH0_POS_SAMPLEB_AN3::0x0300	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	473;"	d	line:473
+ADC_CH0_POS_SAMPLEB_AN4::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	472;"	d	line:472
+ADC_CH0_POS_SAMPLEB_AN5::0x0500	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	471;"	d	line:471
+ADC_CH0_POS_SAMPLEB_AN6::0x0600	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	470;"	d	line:470
+ADC_CH0_POS_SAMPLEB_AN7::0x0700	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	469;"	d	line:469
+ADC_CH0_POS_SAMPLEB_AN8::0x0800	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	468;"	d	line:468
+ADC_CH0_POS_SAMPLEB_AN9::0x0900	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	467;"	d	line:467
+ADC_CH0_POS_SAMPLEB_MASK::(~ADC_CH0_POS_SAMPLEB_AN15)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	477;"	d	line:477
+ADC_CH123_NEG_SAMPLEA_AN6AN7AN8::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	512;"	d	line:512
+ADC_CH123_NEG_SAMPLEA_AN9AN10AN11::0x0006	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	511;"	d	line:511
+ADC_CH123_NEG_SAMPLEA_MASK::(~ADC_CH123_NEG_SAMPLEA_AN9_AN	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	514;"	d	line:514
+ADC_CH123_NEG_SAMPLEA_VREFN::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	513;"	d	line:513
+ADC_CH123_NEG_SAMPLEB_AN6AN7AN8::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	503;"	d	line:503
+ADC_CH123_NEG_SAMPLEB_AN9AN10AN11::0x0600	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	502;"	d	line:502
+ADC_CH123_NEG_SAMPLEB_MASK::(~ADC_CH123_NEG_SAMPLEB_AN9_AN	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	505;"	d	line:505
+ADC_CH123_NEG_SAMPLEB_VREFN::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	504;"	d	line:504
+ADC_CH123_POS_SAMPLEA_AN0AN1AN2::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	517;"	d	line:517
+ADC_CH123_POS_SAMPLEA_AN3AN4AN5::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	516;"	d	line:516
+ADC_CH123_POS_SAMPLEA_MASK::(~ADC_CH123_POS_SAMPLEA_AN3_AN	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	518;"	d	line:518
+ADC_CH123_POS_SAMPLEB_AN0AN1AN2::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	508;"	d	line:508
+ADC_CH123_POS_SAMPLEB_AN3AN4AN5::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	507;"	d	line:507
+ADC_CH123_POS_SAMPLEB_MASK::(~ADC_CH123_POS_SAMPLEB_AN3_AN	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	509;"	d	line:509
+ADC_CLK_AUTO::0x00E0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	81;"	d	line:81
+ADC_CLK_INT0::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	84;"	d	line:84
+ADC_CLK_MANUAL::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	85;"	d	line:85
+ADC_CLK_MASK::(~ADC_CLK_AUTO)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	86;"	d	line:86
+ADC_CLK_MPWM::0x0060	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	82;"	d	line:82
+ADC_CLK_TMR::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	83;"	d	line:83
+ADC_CONVERT_CH0123::0x0300	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	113;"	d	line:113
+ADC_CONVERT_CH01::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	112;"	d	line:112
+ADC_CONVERT_CH0::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	111;"	d	line:111
+ADC_CONV_CLK_100Tcy::0x0063	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	343;"	d	line:343
+ADC_CONV_CLK_101Tcy::0x0064	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	342;"	d	line:342
+ADC_CONV_CLK_102Tcy::0x0065	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	341;"	d	line:341
+ADC_CONV_CLK_103Tcy::0x0066	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	340;"	d	line:340
+ADC_CONV_CLK_104Tcy::0x0067	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	339;"	d	line:339
+ADC_CONV_CLK_105Tcy::0x0068	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	338;"	d	line:338
+ADC_CONV_CLK_106Tcy::0x0069	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	337;"	d	line:337
+ADC_CONV_CLK_107Tcy::0x006A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	336;"	d	line:336
+ADC_CONV_CLK_108Tcy::0x006B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	335;"	d	line:335
+ADC_CONV_CLK_109Tcy::0x006C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	334;"	d	line:334
+ADC_CONV_CLK_10Tcy::0x0009	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	433;"	d	line:433
+ADC_CONV_CLK_110Tcy::0x006D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	333;"	d	line:333
+ADC_CONV_CLK_111Tcy::0x006E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	332;"	d	line:332
+ADC_CONV_CLK_112Tcy::0x006F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	331;"	d	line:331
+ADC_CONV_CLK_113Tcy::0x0070	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	330;"	d	line:330
+ADC_CONV_CLK_114Tcy::0x0071	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	329;"	d	line:329
+ADC_CONV_CLK_115Tcy::0x0072	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	328;"	d	line:328
+ADC_CONV_CLK_116Tcy::0x0073	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	327;"	d	line:327
+ADC_CONV_CLK_117Tcy::0x0074	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	326;"	d	line:326
+ADC_CONV_CLK_118Tcy::0x0075	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	325;"	d	line:325
+ADC_CONV_CLK_119Tcy::0x0076	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	324;"	d	line:324
+ADC_CONV_CLK_11Tcy::0x000A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	432;"	d	line:432
+ADC_CONV_CLK_120Tcy::0x0077	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	323;"	d	line:323
+ADC_CONV_CLK_121Tcy::0x0078	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	322;"	d	line:322
+ADC_CONV_CLK_122Tcy::0x0079	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	321;"	d	line:321
+ADC_CONV_CLK_123Tcy::0x007A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	320;"	d	line:320
+ADC_CONV_CLK_124Tcy::0x007B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	319;"	d	line:319
+ADC_CONV_CLK_125Tcy::0x007C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	318;"	d	line:318
+ADC_CONV_CLK_126Tcy::0x007D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	317;"	d	line:317
+ADC_CONV_CLK_127Tcy::0x007E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	316;"	d	line:316
+ADC_CONV_CLK_128Tcy::0x007F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	315;"	d	line:315
+ADC_CONV_CLK_129Tcy::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	314;"	d	line:314
+ADC_CONV_CLK_12Tcy::0x000B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	431;"	d	line:431
+ADC_CONV_CLK_130Tcy::0x0081	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	313;"	d	line:313
+ADC_CONV_CLK_131Tcy::0x0082	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	312;"	d	line:312
+ADC_CONV_CLK_132Tcy::0x0083	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	311;"	d	line:311
+ADC_CONV_CLK_133Tcy::0x0084	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	310;"	d	line:310
+ADC_CONV_CLK_134Tcy::0x0085	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	309;"	d	line:309
+ADC_CONV_CLK_135Tcy::0x0086	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	308;"	d	line:308
+ADC_CONV_CLK_136Tcy::0x0087	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	307;"	d	line:307
+ADC_CONV_CLK_137Tcy::0x0088	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	306;"	d	line:306
+ADC_CONV_CLK_138Tcy::0x0089	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	305;"	d	line:305
+ADC_CONV_CLK_139Tcy::0x008A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	304;"	d	line:304
+ADC_CONV_CLK_13Tcy::0x000C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	430;"	d	line:430
+ADC_CONV_CLK_140Tcy::0x008B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	303;"	d	line:303
+ADC_CONV_CLK_141Tcy::0x008C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	302;"	d	line:302
+ADC_CONV_CLK_142Tcy::0x008D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	301;"	d	line:301
+ADC_CONV_CLK_143Tcy::0x008E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	300;"	d	line:300
+ADC_CONV_CLK_144Tcy::0x008F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	299;"	d	line:299
+ADC_CONV_CLK_145Tcy::0x0090	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	298;"	d	line:298
+ADC_CONV_CLK_146Tcy::0x0091	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	297;"	d	line:297
+ADC_CONV_CLK_147Tcy::0x0092	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	296;"	d	line:296
+ADC_CONV_CLK_148Tcy::0x0093	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	295;"	d	line:295
+ADC_CONV_CLK_149Tcy::0x0094	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	294;"	d	line:294
+ADC_CONV_CLK_14Tcy::0x000D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	429;"	d	line:429
+ADC_CONV_CLK_150Tcy::0x0095	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	293;"	d	line:293
+ADC_CONV_CLK_151Tcy::0x0096	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	292;"	d	line:292
+ADC_CONV_CLK_152Tcy::0x0097	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	291;"	d	line:291
+ADC_CONV_CLK_153Tcy::0x0098	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	290;"	d	line:290
+ADC_CONV_CLK_154Tcy::0x0099	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	289;"	d	line:289
+ADC_CONV_CLK_155Tcy::0x009A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	288;"	d	line:288
+ADC_CONV_CLK_156Tcy::0x009B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	287;"	d	line:287
+ADC_CONV_CLK_157Tcy::0x009C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	286;"	d	line:286
+ADC_CONV_CLK_158Tcy::0x009D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	285;"	d	line:285
+ADC_CONV_CLK_159Tcy::0x009E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	284;"	d	line:284
+ADC_CONV_CLK_15Tcy::0x000E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	428;"	d	line:428
+ADC_CONV_CLK_160Tcy::0x009F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	283;"	d	line:283
+ADC_CONV_CLK_161Tcy::0x00A0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	282;"	d	line:282
+ADC_CONV_CLK_162Tcy::0x00A1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	281;"	d	line:281
+ADC_CONV_CLK_163Tcy::0x00A2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	280;"	d	line:280
+ADC_CONV_CLK_164Tcy::0x00A3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	279;"	d	line:279
+ADC_CONV_CLK_165Tcy::0x00A4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	278;"	d	line:278
+ADC_CONV_CLK_166Tcy::0x00A5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	277;"	d	line:277
+ADC_CONV_CLK_167Tcy::0x00A6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	276;"	d	line:276
+ADC_CONV_CLK_168Tcy::0x00A7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	275;"	d	line:275
+ADC_CONV_CLK_169Tcy::0x00A8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	274;"	d	line:274
+ADC_CONV_CLK_16Tcy::0x000F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	427;"	d	line:427
+ADC_CONV_CLK_170Tcy::0x00A9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	273;"	d	line:273
+ADC_CONV_CLK_171Tcy::0x00AA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	272;"	d	line:272
+ADC_CONV_CLK_172Tcy::0x00AB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	271;"	d	line:271
+ADC_CONV_CLK_173Tcy::0x00AC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	270;"	d	line:270
+ADC_CONV_CLK_174Tcy::0x00AD	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	269;"	d	line:269
+ADC_CONV_CLK_175Tcy::0x00AE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	268;"	d	line:268
+ADC_CONV_CLK_176Tcy::0x00AF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	267;"	d	line:267
+ADC_CONV_CLK_177Tcy::0x00B0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	266;"	d	line:266
+ADC_CONV_CLK_178Tcy::0x00B1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	265;"	d	line:265
+ADC_CONV_CLK_179Tcy::0x00B2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	264;"	d	line:264
+ADC_CONV_CLK_17Tcy::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	426;"	d	line:426
+ADC_CONV_CLK_180Tcy::0x00B3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	263;"	d	line:263
+ADC_CONV_CLK_181Tcy::0x00B4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	262;"	d	line:262
+ADC_CONV_CLK_182Tcy::0x00B5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	261;"	d	line:261
+ADC_CONV_CLK_183Tcy::0x00B6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	260;"	d	line:260
+ADC_CONV_CLK_184Tcy::0x00B7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	259;"	d	line:259
+ADC_CONV_CLK_185Tcy::0x00B8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	258;"	d	line:258
+ADC_CONV_CLK_186Tcy::0x00B9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	257;"	d	line:257
+ADC_CONV_CLK_187Tcy::0x00BA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	256;"	d	line:256
+ADC_CONV_CLK_188Tcy::0x00BB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	255;"	d	line:255
+ADC_CONV_CLK_189Tcy::0x00BC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	254;"	d	line:254
+ADC_CONV_CLK_18Tcy::0x0011	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	425;"	d	line:425
+ADC_CONV_CLK_190Tcy::0x00BD	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	253;"	d	line:253
+ADC_CONV_CLK_191Tcy::0x00BE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	252;"	d	line:252
+ADC_CONV_CLK_192Tcy::0x00BF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	251;"	d	line:251
+ADC_CONV_CLK_193Tcy::0x00C0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	250;"	d	line:250
+ADC_CONV_CLK_194Tcy::0x00C1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	249;"	d	line:249
+ADC_CONV_CLK_195Tcy::0x00C2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	248;"	d	line:248
+ADC_CONV_CLK_196Tcy::0x00C3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	247;"	d	line:247
+ADC_CONV_CLK_197Tcy::0x00C4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	246;"	d	line:246
+ADC_CONV_CLK_198Tcy::0x00C5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	245;"	d	line:245
+ADC_CONV_CLK_199Tcy::0x00C6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	244;"	d	line:244
+ADC_CONV_CLK_19Tcy::0x0012	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	424;"	d	line:424
+ADC_CONV_CLK_1Tcy::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	442;"	d	line:442
+ADC_CONV_CLK_200Tcy::0x00C7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	243;"	d	line:243
+ADC_CONV_CLK_201Tcy::0x00C8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	242;"	d	line:242
+ADC_CONV_CLK_202Tcy::0x00C9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	241;"	d	line:241
+ADC_CONV_CLK_203Tcy::0x00CA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	240;"	d	line:240
+ADC_CONV_CLK_204Tcy::0x00CB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	239;"	d	line:239
+ADC_CONV_CLK_205Tcy::0x00CC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	238;"	d	line:238
+ADC_CONV_CLK_206Tcy::0x00CD	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	237;"	d	line:237
+ADC_CONV_CLK_207Tcy::0x00CE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	236;"	d	line:236
+ADC_CONV_CLK_208Tcy::0x00CF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	235;"	d	line:235
+ADC_CONV_CLK_209Tcy::0x00D0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	234;"	d	line:234
+ADC_CONV_CLK_20Tcy::0x0013	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	423;"	d	line:423
+ADC_CONV_CLK_210Tcy::0x00D1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	233;"	d	line:233
+ADC_CONV_CLK_211Tcy::0x00D2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	232;"	d	line:232
+ADC_CONV_CLK_212Tcy::0x00D3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	231;"	d	line:231
+ADC_CONV_CLK_213Tcy::0x00D4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	230;"	d	line:230
+ADC_CONV_CLK_214Tcy::0x00D5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	229;"	d	line:229
+ADC_CONV_CLK_215Tcy::0x00D6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	228;"	d	line:228
+ADC_CONV_CLK_216Tcy::0x00D7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	227;"	d	line:227
+ADC_CONV_CLK_217Tcy::0x00D8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	226;"	d	line:226
+ADC_CONV_CLK_218Tcy::0x00D9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	225;"	d	line:225
+ADC_CONV_CLK_219Tcy::0x00DA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	224;"	d	line:224
+ADC_CONV_CLK_21Tcy::0x0014	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	422;"	d	line:422
+ADC_CONV_CLK_220Tcy::0x00DB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	223;"	d	line:223
+ADC_CONV_CLK_221Tcy::0x00DC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	222;"	d	line:222
+ADC_CONV_CLK_222Tcy::0x00DD	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	221;"	d	line:221
+ADC_CONV_CLK_223Tcy::0x00DE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	220;"	d	line:220
+ADC_CONV_CLK_224Tcy::0x00DF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	219;"	d	line:219
+ADC_CONV_CLK_225Tcy::0x00E0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	218;"	d	line:218
+ADC_CONV_CLK_226Tcy::0x00E1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	217;"	d	line:217
+ADC_CONV_CLK_227Tcy::0x00E2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	216;"	d	line:216
+ADC_CONV_CLK_228Tcy::0x00E3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	215;"	d	line:215
+ADC_CONV_CLK_229Tcy::0x00E4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	214;"	d	line:214
+ADC_CONV_CLK_22Tcy::0x0015	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	421;"	d	line:421
+ADC_CONV_CLK_230Tcy::0x00E5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	213;"	d	line:213
+ADC_CONV_CLK_231Tcy::0x00E6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	212;"	d	line:212
+ADC_CONV_CLK_232Tcy::0x00E7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	211;"	d	line:211
+ADC_CONV_CLK_233Tcy::0x00E8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	210;"	d	line:210
+ADC_CONV_CLK_234Tcy::0x00E9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	209;"	d	line:209
+ADC_CONV_CLK_235Tcy::0x00EA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	208;"	d	line:208
+ADC_CONV_CLK_236Tcy::0x00EB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	207;"	d	line:207
+ADC_CONV_CLK_237Tcy::0x00EC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	206;"	d	line:206
+ADC_CONV_CLK_238Tcy::0x00ED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	205;"	d	line:205
+ADC_CONV_CLK_239Tcy::0x00EE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	204;"	d	line:204
+ADC_CONV_CLK_23Tcy::0x0016	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	420;"	d	line:420
+ADC_CONV_CLK_240Tcy::0x00EF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	203;"	d	line:203
+ADC_CONV_CLK_241Tcy::0x00F0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	202;"	d	line:202
+ADC_CONV_CLK_242Tcy::0x00F1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	201;"	d	line:201
+ADC_CONV_CLK_243Tcy::0x00F2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	200;"	d	line:200
+ADC_CONV_CLK_244Tcy::0x00F3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	199;"	d	line:199
+ADC_CONV_CLK_245Tcy::0x00F4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	198;"	d	line:198
+ADC_CONV_CLK_246Tcy::0x00F5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	197;"	d	line:197
+ADC_CONV_CLK_247Tcy::0x00F6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	196;"	d	line:196
+ADC_CONV_CLK_248Tcy::0x00F7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	195;"	d	line:195
+ADC_CONV_CLK_249Tcy::0x00F8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	194;"	d	line:194
+ADC_CONV_CLK_24Tcy::0x0017	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	419;"	d	line:419
+ADC_CONV_CLK_250Tcy::0x00F9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	193;"	d	line:193
+ADC_CONV_CLK_251Tcy::0x00FA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	192;"	d	line:192
+ADC_CONV_CLK_252Tcy::0x00FB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	191;"	d	line:191
+ADC_CONV_CLK_253Tcy::0x00FC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	190;"	d	line:190
+ADC_CONV_CLK_254Tcy::0x00FD	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	189;"	d	line:189
+ADC_CONV_CLK_255Tcy::0x00FE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	188;"	d	line:188
+ADC_CONV_CLK_256Tcy::0x00FF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	187;"	d	line:187
+ADC_CONV_CLK_25Tcy::0x0018	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	418;"	d	line:418
+ADC_CONV_CLK_26Tcy::0x0019	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	417;"	d	line:417
+ADC_CONV_CLK_27Tcy::0x001A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	416;"	d	line:416
+ADC_CONV_CLK_28Tcy::0x001B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	415;"	d	line:415
+ADC_CONV_CLK_29Tcy::0x001C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	414;"	d	line:414
+ADC_CONV_CLK_2Tcy::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	441;"	d	line:441
+ADC_CONV_CLK_30Tcy::0x001D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	413;"	d	line:413
+ADC_CONV_CLK_31Tcy::0x001E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	412;"	d	line:412
+ADC_CONV_CLK_32Tcy::0x001F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	411;"	d	line:411
+ADC_CONV_CLK_33Tcy::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	410;"	d	line:410
+ADC_CONV_CLK_34Tcy::0x0021	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	409;"	d	line:409
+ADC_CONV_CLK_35Tcy::0x0022	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	408;"	d	line:408
+ADC_CONV_CLK_36Tcy::0x0023	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	407;"	d	line:407
+ADC_CONV_CLK_37Tcy::0x0024	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	406;"	d	line:406
+ADC_CONV_CLK_38Tcy::0x0025	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	405;"	d	line:405
+ADC_CONV_CLK_39Tcy::0x0026	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	404;"	d	line:404
+ADC_CONV_CLK_3Tcy::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	440;"	d	line:440
+ADC_CONV_CLK_40Tcy::0x0027	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	403;"	d	line:403
+ADC_CONV_CLK_41Tcy::0x0028	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	402;"	d	line:402
+ADC_CONV_CLK_42Tcy::0x0029	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	401;"	d	line:401
+ADC_CONV_CLK_43Tcy::0x002A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	400;"	d	line:400
+ADC_CONV_CLK_44Tcy::0x002B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	399;"	d	line:399
+ADC_CONV_CLK_45Tcy::0x002C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	398;"	d	line:398
+ADC_CONV_CLK_46Tcy::0x002D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	397;"	d	line:397
+ADC_CONV_CLK_47Tcy::0x002E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	396;"	d	line:396
+ADC_CONV_CLK_48Tcy::0x002F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	395;"	d	line:395
+ADC_CONV_CLK_49Tcy::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	394;"	d	line:394
+ADC_CONV_CLK_4Tcy::0x0003	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	439;"	d	line:439
+ADC_CONV_CLK_50Tcy::0x0031	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	393;"	d	line:393
+ADC_CONV_CLK_51Tcy::0x0032	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	392;"	d	line:392
+ADC_CONV_CLK_52Tcy::0x0033	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	391;"	d	line:391
+ADC_CONV_CLK_53Tcy::0x0034	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	390;"	d	line:390
+ADC_CONV_CLK_54Tcy::0x0035	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	389;"	d	line:389
+ADC_CONV_CLK_55Tcy::0x0036	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	388;"	d	line:388
+ADC_CONV_CLK_56Tcy::0x0037	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	387;"	d	line:387
+ADC_CONV_CLK_57Tcy::0x0038	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	386;"	d	line:386
+ADC_CONV_CLK_58Tcy::0x0039	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	385;"	d	line:385
+ADC_CONV_CLK_59Tcy::0x003A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	384;"	d	line:384
+ADC_CONV_CLK_5Tcy::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	438;"	d	line:438
+ADC_CONV_CLK_60Tcy::0x003B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	383;"	d	line:383
+ADC_CONV_CLK_61Tcy::0x003C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	382;"	d	line:382
+ADC_CONV_CLK_62Tcy::0x003D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	381;"	d	line:381
+ADC_CONV_CLK_63Tcy::0x003E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	380;"	d	line:380
+ADC_CONV_CLK_64Tcy::0x003F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	379;"	d	line:379
+ADC_CONV_CLK_65Tcy::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	378;"	d	line:378
+ADC_CONV_CLK_66Tcy::0x0041	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	377;"	d	line:377
+ADC_CONV_CLK_67Tcy::0x0042	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	376;"	d	line:376
+ADC_CONV_CLK_68Tcy::0x0043	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	375;"	d	line:375
+ADC_CONV_CLK_69Tcy::0x0044	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	374;"	d	line:374
+ADC_CONV_CLK_6Tcy::0x0005	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	437;"	d	line:437
+ADC_CONV_CLK_70Tcy::0x0045	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	373;"	d	line:373
+ADC_CONV_CLK_71Tcy::0x0046	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	372;"	d	line:372
+ADC_CONV_CLK_72Tcy::0x0047	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	371;"	d	line:371
+ADC_CONV_CLK_73Tcy::0x0048	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	370;"	d	line:370
+ADC_CONV_CLK_74Tcy::0x0049	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	369;"	d	line:369
+ADC_CONV_CLK_75Tcy::0x004A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	368;"	d	line:368
+ADC_CONV_CLK_76Tcy::0x004B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	367;"	d	line:367
+ADC_CONV_CLK_77Tcy::0x004C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	366;"	d	line:366
+ADC_CONV_CLK_78Tcy::0x004D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	365;"	d	line:365
+ADC_CONV_CLK_79Tcy::0x004E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	364;"	d	line:364
+ADC_CONV_CLK_7Tcy::0x0006	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	436;"	d	line:436
+ADC_CONV_CLK_80Tcy::0x004F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	363;"	d	line:363
+ADC_CONV_CLK_81Tcy::0x0050	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	362;"	d	line:362
+ADC_CONV_CLK_82Tcy::0x0051	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	361;"	d	line:361
+ADC_CONV_CLK_83Tcy::0x0052	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	360;"	d	line:360
+ADC_CONV_CLK_84Tcy::0x0053	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	359;"	d	line:359
+ADC_CONV_CLK_85Tcy::0x0054	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	358;"	d	line:358
+ADC_CONV_CLK_86Tcy::0x0055	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	357;"	d	line:357
+ADC_CONV_CLK_87Tcy::0x0056	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	356;"	d	line:356
+ADC_CONV_CLK_88Tcy::0x0057	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	355;"	d	line:355
+ADC_CONV_CLK_89Tcy::0x0058	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	354;"	d	line:354
+ADC_CONV_CLK_8Tcy::0x0007	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	435;"	d	line:435
+ADC_CONV_CLK_90Tcy::0x0059	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	353;"	d	line:353
+ADC_CONV_CLK_91Tcy::0x005A	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	352;"	d	line:352
+ADC_CONV_CLK_92Tcy::0x005B	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	351;"	d	line:351
+ADC_CONV_CLK_93Tcy::0x005C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	350;"	d	line:350
+ADC_CONV_CLK_94Tcy::0x005D	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	349;"	d	line:349
+ADC_CONV_CLK_95Tcy::0x005E	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	348;"	d	line:348
+ADC_CONV_CLK_96Tcy::0x005F	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	347;"	d	line:347
+ADC_CONV_CLK_97Tcy::0x0060	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	346;"	d	line:346
+ADC_CONV_CLK_98Tcy::0x0061	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	345;"	d	line:345
+ADC_CONV_CLK_99Tcy::0x0062	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	344;"	d	line:344
+ADC_CONV_CLK_9Tcy::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	434;"	d	line:434
+ADC_CONV_CLK_INTERNAL_RC::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	148;"	d	line:148
+ADC_CONV_CLK_MASK::(~ADC_CONV_CLK_256Tcy)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	443;"	d	line:443
+ADC_CONV_CLK_SOURCE_MASK::(~ADC_CONV_CLK_INTERNAL_RC)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	150;"	d	line:150
+ADC_CONV_CLK_SYSTEM::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	149;"	d	line:149
+ADC_DMA_BUF_LOC_128::0x0007	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	446;"	d	line:446
+ADC_DMA_BUF_LOC_16::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	449;"	d	line:449
+ADC_DMA_BUF_LOC_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	453;"	d	line:453
+ADC_DMA_BUF_LOC_2::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	452;"	d	line:452
+ADC_DMA_BUF_LOC_32::0x0005	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	448;"	d	line:448
+ADC_DMA_BUF_LOC_4::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	451;"	d	line:451
+ADC_DMA_BUF_LOC_64::0x0006	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	447;"	d	line:447
+ADC_DMA_BUF_LOC_8::0x0003	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	450;"	d	line:450
+ADC_DMA_BUF_LOC_MASK::(~ADC_DMA_BUF_LOC_128)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	454;"	d	line:454
+ADC_FORMAT_FRACT::0x0200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	76;"	d	line:76
+ADC_FORMAT_INTG::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	78;"	d	line:78
+ADC_FORMAT_MASK::(~ADC_FORMAT_SIGN_FRACT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	79;"	d	line:79
+ADC_FORMAT_SIGN_FRACT::0x0300	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	75;"	d	line:75
+ADC_FORMAT_SIGN_INT::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	77;"	d	line:77
+ADC_IDLE_CONTINUE::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	64;"	d	line:64
+ADC_IDLE_MASK::(~ADC_IDLE_CONTINUE)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	66;"	d	line:66
+ADC_IDLE_STOP::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	65;"	d	line:65
+ADC_INTR_10_CONV::0x0024	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	124;"	d	line:124
+ADC_INTR_11_CONV::0x0028	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	125;"	d	line:125
+ADC_INTR_12_CONV::0x002C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	126;"	d	line:126
+ADC_INTR_13_CONV::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	127;"	d	line:127
+ADC_INTR_14_CONV::0x0034	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	128;"	d	line:128
+ADC_INTR_15_CONV::0x0038	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	129;"	d	line:129
+ADC_INTR_16_CONV::0x003C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	130;"	d	line:130
+ADC_INTR_2_CONV::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	116;"	d	line:116
+ADC_INTR_3_CONV::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	117;"	d	line:117
+ADC_INTR_4_CONV::0x000C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	118;"	d	line:118
+ADC_INTR_5_CONV::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	119;"	d	line:119
+ADC_INTR_6_CONV::0x0014	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	120;"	d	line:120
+ADC_INTR_7_CONV::0x0018	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	121;"	d	line:121
+ADC_INTR_8_CONV::0x001C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	122;"	d	line:122
+ADC_INTR_9_CONV::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	123;"	d	line:123
+ADC_INTR_EACH_CONV::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	115;"	d	line:115
+ADC_INTR_MASK::(~ADC_INTR_16_CONV)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	131;"	d	line:131
+ADC_INT_DISABLE::~ADC_INT_ENABLE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	594;"	d	line:594
+ADC_INT_ENABLE::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	593;"	d	line:593
+ADC_INT_PRI_0::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	582;"	d	line:582
+ADC_INT_PRI_1::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	583;"	d	line:583
+ADC_INT_PRI_2::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	584;"	d	line:584
+ADC_INT_PRI_3::0x0003	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	585;"	d	line:585
+ADC_INT_PRI_4::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	586;"	d	line:586
+ADC_INT_PRI_5::0x0005	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	587;"	d	line:587
+ADC_INT_PRI_6::0x0006	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	588;"	d	line:588
+ADC_INT_PRI_7::0x0007	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	589;"	d	line:589
+ADC_MODULE_MASK::(~ADC_MODULE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	62;"	d	line:62
+ADC_MODULE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	61;"	d	line:61
+ADC_MODULE_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	60;"	d	line:60
+ADC_SAMPLE_INDIVIDUAL::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	89;"	d	line:89
+ADC_SAMPLE_SIMULTANEOUS::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	88;"	d	line:88
+ADC_SAMPLE_TIME_0::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	152;"	d	line:152
+ADC_SAMPLE_TIME_10::0x0A00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	162;"	d	line:162
+ADC_SAMPLE_TIME_11::0x0B00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	163;"	d	line:163
+ADC_SAMPLE_TIME_12::0x0C00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	164;"	d	line:164
+ADC_SAMPLE_TIME_13::0x0D00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	165;"	d	line:165
+ADC_SAMPLE_TIME_14::0x0E00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	166;"	d	line:166
+ADC_SAMPLE_TIME_15::0x0F00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	167;"	d	line:167
+ADC_SAMPLE_TIME_16::0x1000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	168;"	d	line:168
+ADC_SAMPLE_TIME_17::0x1100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	169;"	d	line:169
+ADC_SAMPLE_TIME_18::0x1200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	170;"	d	line:170
+ADC_SAMPLE_TIME_19::0x1300	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	171;"	d	line:171
+ADC_SAMPLE_TIME_1::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	153;"	d	line:153
+ADC_SAMPLE_TIME_20::0x1400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	172;"	d	line:172
+ADC_SAMPLE_TIME_21::0x1500	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	173;"	d	line:173
+ADC_SAMPLE_TIME_22::0x1600	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	174;"	d	line:174
+ADC_SAMPLE_TIME_23::0x1700	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	175;"	d	line:175
+ADC_SAMPLE_TIME_24::0x1800	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	176;"	d	line:176
+ADC_SAMPLE_TIME_25::0x1900	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	177;"	d	line:177
+ADC_SAMPLE_TIME_26::0x1A00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	178;"	d	line:178
+ADC_SAMPLE_TIME_27::0x1B00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	179;"	d	line:179
+ADC_SAMPLE_TIME_28::0x1C00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	180;"	d	line:180
+ADC_SAMPLE_TIME_29::0x1D00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	181;"	d	line:181
+ADC_SAMPLE_TIME_2::0x0200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	154;"	d	line:154
+ADC_SAMPLE_TIME_30::0x1E00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	182;"	d	line:182
+ADC_SAMPLE_TIME_31::0x1F00	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	183;"	d	line:183
+ADC_SAMPLE_TIME_3::0x0300	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	155;"	d	line:155
+ADC_SAMPLE_TIME_4::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	156;"	d	line:156
+ADC_SAMPLE_TIME_5::0x0500	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	157;"	d	line:157
+ADC_SAMPLE_TIME_6::0x0600	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	158;"	d	line:158
+ADC_SAMPLE_TIME_7::0x0700	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	159;"	d	line:159
+ADC_SAMPLE_TIME_8::0x0800	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	160;"	d	line:160
+ADC_SAMPLE_TIME_9::0x0900	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	161;"	d	line:161
+ADC_SAMPLE_TIME_MASK::(~ADC_SAMPLE_TIME_31)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	184;"	d	line:184
+ADC_SAMP_MASK::(~ADC_SAMP_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	97;"	d	line:97
+ADC_SAMP_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	96;"	d	line:96
+ADC_SAMP_ON::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	95;"	d	line:95
+ADC_SCAN_AN0::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	543;"	d	line:543
+ADC_SCAN_AN10::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	553;"	d	line:553
+ADC_SCAN_AN11::0x0800	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	554;"	d	line:554
+ADC_SCAN_AN12::0x1000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	555;"	d	line:555
+ADC_SCAN_AN13::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	556;"	d	line:556
+ADC_SCAN_AN14::0x4000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	557;"	d	line:557
+ADC_SCAN_AN15::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	558;"	d	line:558
+ADC_SCAN_AN16::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	564;"	d	line:564
+ADC_SCAN_AN17::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	565;"	d	line:565
+ADC_SCAN_AN18::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	566;"	d	line:566
+ADC_SCAN_AN19::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	567;"	d	line:567
+ADC_SCAN_AN1::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	544;"	d	line:544
+ADC_SCAN_AN20::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	568;"	d	line:568
+ADC_SCAN_AN21::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	569;"	d	line:569
+ADC_SCAN_AN22::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	570;"	d	line:570
+ADC_SCAN_AN23::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	571;"	d	line:571
+ADC_SCAN_AN24::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	572;"	d	line:572
+ADC_SCAN_AN25::0x0200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	573;"	d	line:573
+ADC_SCAN_AN26::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	574;"	d	line:574
+ADC_SCAN_AN27::0x0800	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	575;"	d	line:575
+ADC_SCAN_AN28::0x1000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	576;"	d	line:576
+ADC_SCAN_AN29::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	577;"	d	line:577
+ADC_SCAN_AN2::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	545;"	d	line:545
+ADC_SCAN_AN30::0x4000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	578;"	d	line:578
+ADC_SCAN_AN31::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	579;"	d	line:579
+ADC_SCAN_AN3::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	546;"	d	line:546
+ADC_SCAN_AN4::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	547;"	d	line:547
+ADC_SCAN_AN5::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	548;"	d	line:548
+ADC_SCAN_AN6::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	549;"	d	line:549
+ADC_SCAN_AN7::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	550;"	d	line:550
+ADC_SCAN_AN8::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	551;"	d	line:551
+ADC_SCAN_AN9::0x0200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	552;"	d	line:552
+ADC_SCAN_MASK::(~ADC_SCAN_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	109;"	d	line:109
+ADC_SCAN_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	108;"	d	line:108
+ADC_SCAN_ON::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	107;"	d	line:107
+ADC_VREF_AVDD_AVSS::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	104;"	d	line:104
+ADC_VREF_AVDD_EXT::0x4000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	102;"	d	line:102
+ADC_VREF_EXT_AVSS::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	101;"	d	line:101
+ADC_VREF_EXT_EXT::0x6000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	103;"	d	line:103
+ADC_VREF_MASK::(~(ADC_VREF_AVDD_AVSS|ADC_VREF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	105;"	d	line:105
+ALTI2C_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	231;"	v	line:231
+ASSERT::(placeholder)(void)0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	66;"	d	line:66
+ASSERT::(test)picAssert(test,ERROR_FIL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	96;"	d	line:96
+BITS2BYTEH::(sfrBitfield)(((uint8_t*)&sfrB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	60;"	d	line:60
+BITS2BYTEL::(sfrBitfield)(((uint8_t*)&sfrB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	58;"	d	line:58
+BITS2WORD::(sfrBitfield)(*((uint16_t*)&sf	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	56;"	d	line:56
+BKBUG_OFF::0xFFFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	437;"	d	line:437	file:
+BWRP_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	459;"	v	line:459
+BWRP_WRPROTECT_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	102;"	v	line:102
+BWRP_WRPROTECT_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	262;"	v	line:262
+BWRP_WRPROTECT_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	410;"	v	line:410
+BWRP_WRPROTECT_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	488;"	v	line:488
+CLOCKTIMEOUT_MAX::200000L	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	83;"	d	line:83	file:
+CLOCK_CONFIG_INDEX::GET_CLOCK_CONFIG_INDEX(CLOCK_C	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	206;"	d	line:206
+COE_OFF::0xFFFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	440;"	d	line:440	file:
+COMPILE_ASSERT::(test,msg)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	69;"	d	line:69
+COMPILE_ASSERT::(test,msg)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	82;"	d	line:82
+CONFIG_ANx_AS_ANALOG	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	115;"	f	line:115	signature:()
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	254;"	d	line:254	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	269;"	d	line:269	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	388;"	d	line:388	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	396;"	d	line:396	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	403;"	d	line:403	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	430;"	d	line:430	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	453;"	d	line:453	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	482;"	d	line:482	file:
+CONFIG_BITS_DEFINED	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	505;"	d	line:505	file:
+CONFIG_C1OUT_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	481;"	d	line:481
+CONFIG_C1OUT_TO_RP::(pin)_RP##pin##R=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	479;"	d	line:479
+CONFIG_C1RXR_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	441;"	d	line:441
+CONFIG_C1RXR_TO_RP::(pin)_C1RXR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	439;"	d	line:439
+CONFIG_C1TX_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	589;"	d	line:589
+CONFIG_C1TX_TO_RP::(pin)_RP##pin##R=16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	587;"	d	line:587
+CONFIG_C2OUT_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	490;"	d	line:490
+CONFIG_C2OUT_TO_RP::(pin)_RP##pin##R=2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	488;"	d	line:488
+CONFIG_C2RXR_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	450;"	d	line:450
+CONFIG_C2RXR_TO_RP::(pin)_C2RXR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	448;"	d	line:448
+CONFIG_DEFAULT_CLOCK::GET_CONFIG_DEFAULT_CLOCK(CLOCK	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	211;"	d	line:211
+CONFIG_IC1_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	261;"	d	line:261
+CONFIG_IC1_TO_RP::(pin)_IC1R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	259;"	d	line:259
+CONFIG_IC2_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	270;"	d	line:270
+CONFIG_IC2_TO_RP::(pin)_IC2R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	268;"	d	line:268
+CONFIG_IC3_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	279;"	d	line:279
+CONFIG_IC3_TO_RP::(pin)_IC3R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	277;"	d	line:277
+CONFIG_IC4_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	288;"	d	line:288
+CONFIG_IC4_TO_RP::(pin)_IC4R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	286;"	d	line:286
+CONFIG_IC5_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	297;"	d	line:297
+CONFIG_IC5_TO_RP::(pin)_IC5R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	295;"	d	line:295
+CONFIG_IC6_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	306;"	d	line:306
+CONFIG_IC6_TO_RP::(pin)_IC6R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	304;"	d	line:304
+CONFIG_IC7_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	315;"	d	line:315
+CONFIG_IC7_TO_RP::(pin)_IC7R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	313;"	d	line:313
+CONFIG_IC8_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	324;"	d	line:324
+CONFIG_IC8_TO_RP::(pin)_IC8R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	322;"	d	line:322
+CONFIG_INT1_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	207;"	d	line:207
+CONFIG_INT1_TO_RP::(pin)_INT1R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	205;"	d	line:205
+CONFIG_INT2_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	216;"	d	line:216
+CONFIG_INT2_TO_RP::(pin)_INT2R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	214;"	d	line:214
+CONFIG_NULL_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	472;"	d	line:472
+CONFIG_NULL_TO_RP::(pin)_RP##pin##R=0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	470;"	d	line:470
+CONFIG_OC1_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	598;"	d	line:598
+CONFIG_OC1_TO_RP::(pin)_RP##pin##R=18	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	596;"	d	line:596
+CONFIG_OC2_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	607;"	d	line:607
+CONFIG_OC2_TO_RP::(pin)_RP##pin##R=19	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	605;"	d	line:605
+CONFIG_OC3_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	616;"	d	line:616
+CONFIG_OC3_TO_RP::(pin)_RP##pin##R=20	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	614;"	d	line:614
+CONFIG_OC4_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	625;"	d	line:625
+CONFIG_OC4_TO_RP::(pin)_RP##pin##R=21	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	623;"	d	line:623
+CONFIG_OC5_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	634;"	d	line:634
+CONFIG_OC5_TO_RP::(pin)_RP##pin##R=22	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	632;"	d	line:632
+CONFIG_OCFA_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	333;"	d	line:333
+CONFIG_OCFA_TO_RP::(pin)_OCFAR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	331;"	d	line:331
+CONFIG_OCFB_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	342;"	d	line:342
+CONFIG_OCFB_TO_RP::(pin)_OCFBR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	340;"	d	line:340
+CONFIG_RPy_AS_DIG_PIN::_PCFG=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	153;"	d	line:153
+CONFIG_Rxy_AS_DIG_INPUT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	109;"	f	line:109	signature:()
+CONFIG_Rxy_AS_DIG_OD_OUTPUT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	103;"	f	line:103	signature:()
+CONFIG_Rxy_AS_DIG_OUTPUT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	96;"	f	line:96	signature:()
+CONFIG_SCK1IN_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	396;"	d	line:396
+CONFIG_SCK1IN_TO_RP::(pin)_SCK1R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	394;"	d	line:394
+CONFIG_SCK1OUT_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	544;"	d	line:544
+CONFIG_SCK1OUT_TO_RP::(pin)_RP##pin##R=8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	542;"	d	line:542
+CONFIG_SCK2IN_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	423;"	d	line:423
+CONFIG_SCK2IN_TO_RP::(pin)_SCK2R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	421;"	d	line:421
+CONFIG_SCK2OUT_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	571;"	d	line:571
+CONFIG_SCK2OUT_TO_RP::(pin)_RP##pin##R=11	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	569;"	d	line:569
+CONFIG_SDI1_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	387;"	d	line:387
+CONFIG_SDI1_TO_RP::(pin)_SDI1R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	385;"	d	line:385
+CONFIG_SDI2_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	414;"	d	line:414
+CONFIG_SDI2_TO_RP::(pin)_SDI2R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	412;"	d	line:412
+CONFIG_SDO1_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	535;"	d	line:535
+CONFIG_SDO1_TO_RP::(pin)_RP##pin##R=7	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	533;"	d	line:533
+CONFIG_SDO2_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	562;"	d	line:562
+CONFIG_SDO2_TO_RP::(pin)_RP##pin##R=10	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	560;"	d	line:560
+CONFIG_SS1IN_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	405;"	d	line:405
+CONFIG_SS1IN_TO_RP::(pin)_SS1R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	403;"	d	line:403
+CONFIG_SS1OUT_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	553;"	d	line:553
+CONFIG_SS1OUT_TO_RP::(pin)_RP##pin##R=9	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	551;"	d	line:551
+CONFIG_SS2IN_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	432;"	d	line:432
+CONFIG_SS2IN_TO_RP::(pin)_SS2R=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	430;"	d	line:430
+CONFIG_SS2OUT_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	580;"	d	line:580
+CONFIG_SS2OUT_TO_RP::(pin)_RP##pin##R=12	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	578;"	d	line:578
+CONFIG_T2CK_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	225;"	d	line:225
+CONFIG_T2CK_TO_RP::(pin)_T2CKR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	223;"	d	line:223
+CONFIG_T3CK_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	234;"	d	line:234
+CONFIG_T3CK_TO_RP::(pin)_T3CKR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	232;"	d	line:232
+CONFIG_T4CK_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	243;"	d	line:243
+CONFIG_T4CK_TO_RP::(pin)_T4CKR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	241;"	d	line:241
+CONFIG_T5CK_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	252;"	d	line:252
+CONFIG_T5CK_TO_RP::(pin)_T5CKR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	250;"	d	line:250
+CONFIG_U1CTS_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	360;"	d	line:360
+CONFIG_U1CTS_TO_RP::(pin)_U1CTSR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	358;"	d	line:358
+CONFIG_U1RTS_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	508;"	d	line:508
+CONFIG_U1RTS_TO_RP::(pin)_RP##pin##R=4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	506;"	d	line:506
+CONFIG_U1RX_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	351;"	d	line:351
+CONFIG_U1RX_TO_RP::(pin)_U1RXR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	349;"	d	line:349
+CONFIG_U1TX_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	499;"	d	line:499
+CONFIG_U1TX_TO_RP::(pin)_RP##pin##R=3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	497;"	d	line:497
+CONFIG_U2CTS_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	378;"	d	line:378
+CONFIG_U2CTS_TO_RP::(pin)_U2CTSR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	376;"	d	line:376
+CONFIG_U2RTS_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	526;"	d	line:526
+CONFIG_U2RTS_TO_RP::(pin)_RP##pin##R=6	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	524;"	d	line:524
+CONFIG_U2RX_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	369;"	d	line:369
+CONFIG_U2RX_TO_RP::(pin)_U2RXR=pin	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	367;"	d	line:367
+CONFIG_U2TX_TO_RP::(pin)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	517;"	d	line:517
+CONFIG_U2TX_TO_RP::(pin)_RP##pin##R=5	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	515;"	d	line:515
+CYCLES_PER_MS::((uint32_t)(FCY*0.001))	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	309;"	d	line:309
+CYCLES_PER_US::((uint32_t)(FCY*0.000001))	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	315;"	d	line:315
+DEFAULT_BRGH1::DEFAULT_BRGH	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	236;"	d	line:236	file:
+DEFAULT_BRGH2::DEFAULT_BRGH	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	660;"	d	line:660	file:
+DEFAULT_BRGH3::DEFAULT_BRGH	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1084;"	d	line:1084	file:
+DEFAULT_BRGH4::DEFAULT_BRGH	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1508;"	d	line:1508	file:
+DELAY_MS::(ms)delayAndUpdateHeartbeatCou	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	72;"	d	line:72
+DELAY_US::(us)delayAndUpdateHeartbeatCou	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	78;"	d	line:78
+DISABLE_ALL_INPU_SCAN::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	561;"	d	line:561
+DISABLE_Rxy_ANALOG::_PCFGn=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	146;"	d	line:146
+DISABLE_Rxy_CN_INTERRUPT::_CNmIE=0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	185;"	d	line:185
+DISABLE_Rxy_OPENDRAIN::_ODCxy=0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	163;"	d	line:163
+DISABLE_Rxy_PULLUP::_CNmPUE=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	173;"	d	line:173
+DSWDTOSC_SOSC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	477;"	v	line:477
+ENABLE_ALL_ANA_0_15::0xFFFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	539;"	d	line:539
+ENABLE_ALL_DIG_0_15::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	540;"	d	line:540
+ENABLE_ALL_INPUT_SCAN::0xFFFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	560;"	d	line:560
+ENABLE_AN0_ANA::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	522;"	d	line:522
+ENABLE_AN10_ANA::0x0400	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	532;"	d	line:532
+ENABLE_AN11_ANA::0x0800	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	533;"	d	line:533
+ENABLE_AN12_ANA::0x1000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	534;"	d	line:534
+ENABLE_AN13_ANA::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	535;"	d	line:535
+ENABLE_AN14_ANA::0x4000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	536;"	d	line:536
+ENABLE_AN15_ANA::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	537;"	d	line:537
+ENABLE_AN1_ANA::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	523;"	d	line:523
+ENABLE_AN2_ANA::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	524;"	d	line:524
+ENABLE_AN3_ANA::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	525;"	d	line:525
+ENABLE_AN4_ANA::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	526;"	d	line:526
+ENABLE_AN5_ANA::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	527;"	d	line:527
+ENABLE_AN6_ANA::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	528;"	d	line:528
+ENABLE_AN7_ANA::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	529;"	d	line:529
+ENABLE_AN8_ANA::0x0100	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	530;"	d	line:530
+ENABLE_AN9_ANA::0x0200	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	531;"	d	line:531
+ENABLE_Rxy_ANALOG::_PCFGn=0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	140;"	d	line:140
+ENABLE_Rxy_CN_INTERRUPT::_CNmIE=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	179;"	d	line:179
+ENABLE_Rxy_OPENDRAIN::_ODCxy=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	158;"	d	line:158
+ENABLE_Rxy_PULLUP::_CNmPUE=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	168;"	d	line:168
+ERROR_FILE_LINE::(msg)"Errorin"__FILE__"line"TO	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	60;"	d	line:60
+FCY::GET_FCY(CLOCK_CONFIG)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	208;"	d	line:208
+FNOSC_SEL::GET_FNOSC_SEL(CLOCK_CONFIG)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	207;"	d	line:207
+FPWRT_PWR16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	267;"	v	line:267
+FPWRT_PWR16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	424;"	v	line:424
+FPWRT_PWR16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	500;"	v	line:500
+FRCPLL_FCY16MHz::1,FNOSC_FRCPLL,16000000L,POSCM	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	143;"	d	line:143
+FRCPLL_FCY40MHz::5,FNOSC_FRCPLL,40000000L,POSCM	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	147;"	d	line:147
+FRC_BRGH::0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	91;"	d	line:91	file:
+FRC_FCY3685KHz::4,FNOSC_FRC,3685000L,POSCMD_NO	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	146;"	d	line:146
+FRC_FCY4MHz::2,FNOSC_FRC,4000000L,POSCMD_NO	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	144;"	d	line:144
+FRC_FCY::16000000L	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	87;"	d	line:87	file:
+FRC_FCY::40000000L	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	85;"	d	line:85	file:
+GET_CLOCK_CONFIG_INDEX::(params)_GET_CLOCK_CONFIG_INDE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	186;"	d	line:186
+GET_CONFIG_DEFAULT_CLOCK::(params)_GET_CONFIG_DEFAULT_CL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	192;"	d	line:192
+GET_FCY::(params)_GET_FCY(params)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	188;"	d	line:188
+GET_FNOSC_SEL::(params)_GET_FNOSC_SEL(params)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	187;"	d	line:187
+GET_IS_SUPPORTED::(params)_GET_IS_SUPPORTED(para	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	191;"	d	line:191
+GET_OSC_SEL_BITS::(bits)_GET_OSC_SEL_BITS(bits)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	336;"	d	line:336
+GET_POSCMD_SEL::(params)_GET_POSCMD_SEL(params	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	189;"	d	line:189
+GET_POSC_FREQ::(params)_GET_POSC_FREQ(params)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	190;"	d	line:190
+GWRP_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	127;"	v	line:127
+GWRP_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	263;"	v	line:263
+GWRP_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	411;"	v	line:411
+GWRP_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	460;"	v	line:460
+GWRP_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	489;"	v	line:489
+HELLO_MSG::"	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	82;"	d	line:82
+HELLO_MSG::"*****************************	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	76;"	d	line:76
+I2C1SEL_PRI	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	473;"	v	line:473
+ICS_PGD1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	251;"	v	line:251
+ICS_PGD1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	268;"	v	line:268
+ICS_PGD1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	425;"	v	line:425
+ICS_PGD1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	501;"	v	line:501
+ICS_PGx1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	474;"	v	line:474
+IC_CAPTURE_MODE_MASK::(~IC_INTERRUPT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	322;"	d	line:322
+IC_EVERY_16_RISE_EDGE::0x0005	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	316;"	d	line:316
+IC_EVERY_4_RISE_EDGE::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	317;"	d	line:317
+IC_EVERY_EDGE::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	320;"	d	line:320
+IC_EVERY_FALL_EDGE::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	319;"	d	line:319
+IC_EVERY_RISE_EDGE::0x0003	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	318;"	d	line:318
+IC_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	302;"	d	line:302
+IC_IDLE_MASK::(~IC_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	303;"	d	line:303
+IC_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	301;"	d	line:301
+IC_INPUTCAP_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	321;"	d	line:321
+IC_INTERRUPT::0x0007	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	315;"	d	line:315
+IC_INT_1CAPTURE::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	312;"	d	line:312
+IC_INT_2CAPTURE::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	311;"	d	line:311
+IC_INT_3CAPTURE::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	310;"	d	line:310
+IC_INT_4CAPTURE::0x0060	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	309;"	d	line:309
+IC_INT_CAPTURE_MASK::(~IC_INT_4CAPTURE)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	313;"	d	line:313
+IC_TIMER2_SRC::0x0080	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	305;"	d	line:305
+IC_TIMER3_SRC::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	306;"	d	line:306
+IC_TIMER_SRC_MASK::(~IC_TIMER2_SRC)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	307;"	d	line:307
+IESO_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	148;"	v	line:148
+IESO_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	264;"	v	line:264
+IESO_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	422;"	v	line:422
+IESO_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	471;"	v	line:471
+IESO_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	490;"	v	line:490
+INTTREGBITS_last	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	133;"	v	line:133	file:
+IOL1WAY_OFF::0xFFFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	446;"	d	line:446	file:
+IS_CHAR_READY_UART1::U1STAbits.URXDA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	58;"	d	line:58
+IS_CHAR_READY_UART2::U2STAbits.URXDA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	152;"	d	line:152
+IS_CHAR_READY_UART3::U3STAbits.URXDA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	246;"	d	line:246
+IS_CHAR_READY_UART4::U4STAbits.URXDA	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	340;"	d	line:340
+IS_CLOCK_CONFIG::(clockConfig)(_GET_CLOCK_CONFI	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	330;"	d	line:330
+IS_CONVERSION_COMPLETE_ADC1::AD1CON1bits.DONE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	32;"	d	line:32
+IS_SAMPLING_ADC1::AD1CON1bits.SAMP	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	45;"	d	line:45
+IS_TRANSMIT_BUFFER_FULL_UART1::U1STAbits.UTXBF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	64;"	d	line:64
+IS_TRANSMIT_BUFFER_FULL_UART2::U2STAbits.UTXBF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	158;"	d	line:158
+IS_TRANSMIT_BUFFER_FULL_UART3::U3STAbits.UTXBF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	252;"	d	line:252
+IS_TRANSMIT_BUFFER_FULL_UART4::U4STAbits.UTXBF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	346;"	d	line:346
+IS_TRANSMIT_COMPLETE_UART1::U1STAbits.TRMT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	71;"	d	line:71
+IS_TRANSMIT_COMPLETE_UART2::U2STAbits.TRMT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	165;"	d	line:165
+IS_TRANSMIT_COMPLETE_UART3::U3STAbits.TRMT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	259;"	d	line:259
+IS_TRANSMIT_COMPLETE_UART4::U4STAbits.TRMT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	353;"	d	line:353
+MS_TO_TICKS::(ms,pre)((FCY/1000L/(pre))*ms)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	26;"	d	line:26
+OC_CONTINUE_PULSE::0x0005	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	346;"	d	line:346
+OC_HIGH_LOW::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	349;"	d	line:349
+OC_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	335;"	d	line:335
+OC_IDLE_MASK::(~OC_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	337;"	d	line:337
+OC_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	336;"	d	line:336
+OC_LOW_HIGH::0x0001	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	350;"	d	line:350
+OC_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	351;"	d	line:351
+OC_PWM_FAULT_PIN_DISABLE::0x0006	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	345;"	d	line:345
+OC_PWM_FAULT_PIN_ENABLE::0x0007	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	344;"	d	line:344
+OC_PWM_MODE_MASK::(~OC_PWM_FAULT_PIN_ENABLE)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	352;"	d	line:352
+OC_SINGLE_PULSE::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	347;"	d	line:347
+OC_TIMER2_SRC::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	340;"	d	line:340
+OC_TIMER3_SRC::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	341;"	d	line:341
+OC_TIMER_SRC_MASK::(~OC_TIMER3_SRC)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	342;"	d	line:342
+OC_TOGGLE_PULSE::0x0003	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	348;"	d	line:348
+OSCCONBITS_copy	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	185;"	l	line:185
+OSC_SEL_BITS::GET_OSC_SEL_BITS(FNOSC_SEL)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	349;"	d	line:349
+PIC24FK_DEFINED::0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	102;"	d	line:102
+PIC24FK_DEFINED::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	100;"	d	line:100
+PIC24F_DEFINED::0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	87;"	d	line:87
+PIC24F_DEFINED::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	85;"	d	line:85
+PIC24H_DEFINED::0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	92;"	d	line:92
+PIC24H_DEFINED::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	90;"	d	line:90
+PLLDIV_DIV2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	401;"	v	line:401
+POSCFREQ_HS	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	465;"	v	line:465
+POSCFREQ_LS	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	463;"	v	line:463
+POSCFREQ_MS	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	467;"	v	line:467
+POSCMD_EC::POSCMOD_EC	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	174;"	d	line:174
+POSCMD_HS::POSCMOD_HS	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	176;"	d	line:176
+POSCMD_NONE::POSCMOD_NONE	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	177;"	d	line:177
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	174;"	v	line:174
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	265;"	v	line:265
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	384;"	v	line:384
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	395;"	v	line:395
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	418;"	v	line:418
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	420;"	v	line:420
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	448;"	v	line:448
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	495;"	v	line:495
+POSCMD_SEL	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	497;"	v	line:497
+POSCMD_SEL::GET_POSCMD_SEL(CLOCK_CONFIG)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	209;"	d	line:209
+POSCMD_XT::POSCMOD_XT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	175;"	d	line:175
+POSC_FREQ::GET_POSC_FREQ(CLOCK_CONFIG)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	210;"	d	line:210
+PRIPLL_7372KHzCrystal_40MHzFCY::6,FNOSC_PRIPLL,40000000L,POSCM	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	148;"	d	line:148
+PRIPLL_8MHzCrystal_16MHzFCY::8,FNOSC_PRIPLL,16000000L,POSCM	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	150;"	d	line:150
+PRIPLL_8MHzCrystal_40MHzFCY::7,FNOSC_PRIPLL,40000000L,POSCM	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	149;"	d	line:149
+PRI_8MHzCrystal_4MHzFCY::9,FNOSC_PRI,4000000L,POSCMD_XT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	151;"	d	line:151
+PRI_NO_PLL_7372KHzCrystal::3,FNOSC_PRI,3686400L,POSCMD_XT	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	145;"	d	line:145
+PWM_PERIOD::20000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	44;"	d	line:44	file:
+REPORT_ERROR::(msg)reportError(ERROR_FILE_LI	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	69;"	d	line:69
+SET_SAMP_BIT_ADC1::AD1CON1bits.SAMP=1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	46;"	d	line:46
+SIM_CLOCK::0,-1,1000000L,POSCMD_NONE,-1,1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	142;"	d	line:142
+SWRP_WRPROTECT_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	414;"	v	line:414
+SWRP_WRPROTECT_OFF	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	492;"	v	line:492
+T1_GATE_MASK::(~T1_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	59;"	d	line:59
+T1_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	58;"	d	line:58
+T1_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	57;"	d	line:57
+T1_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	54;"	d	line:54
+T1_IDLE_MASK::(~T1_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	55;"	d	line:55
+T1_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	53;"	d	line:53
+T1_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	50;"	d	line:50
+T1_OFF_ON_MASK::(~T1_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	51;"	d	line:51
+T1_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	49;"	d	line:49
+T1_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	61;"	d	line:61
+T1_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	64;"	d	line:64
+T1_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	63;"	d	line:63
+T1_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	62;"	d	line:62
+T1_PS_MASK::(~T1_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	65;"	d	line:65
+T1_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	71;"	d	line:71
+T1_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	72;"	d	line:72
+T1_SOURCE_MASK::(~T1_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	73;"	d	line:73
+T1_SYNC_EXT_MASK::(~T1_SYNC_EXT_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	69;"	d	line:69
+T1_SYNC_EXT_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	68;"	d	line:68
+T1_SYNC_EXT_ON::0x0004	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	67;"	d	line:67
+T2_32BIT_MODE_MASK::(~T2_32BIT_MODE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	97;"	d	line:97
+T2_32BIT_MODE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	96;"	d	line:96
+T2_32BIT_MODE_ON::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	95;"	d	line:95
+T2_GATE_MASK::(~T2_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	87;"	d	line:87
+T2_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	86;"	d	line:86
+T2_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	85;"	d	line:85
+T2_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	82;"	d	line:82
+T2_IDLE_MASK::(~T2_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	83;"	d	line:83
+T2_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	81;"	d	line:81
+T2_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	78;"	d	line:78
+T2_OFF_ON_MASK::(~T2_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	79;"	d	line:79
+T2_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	77;"	d	line:77
+T2_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	89;"	d	line:89
+T2_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	92;"	d	line:92
+T2_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	91;"	d	line:91
+T2_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	90;"	d	line:90
+T2_PS_MASK::(~T2_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	93;"	d	line:93
+T2_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	99;"	d	line:99
+T2_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	100;"	d	line:100
+T2_SOURCE_MASK::(~T2_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	101;"	d	line:101
+T3_GATE_MASK::(~T3_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	116;"	d	line:116
+T3_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	115;"	d	line:115
+T3_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	114;"	d	line:114
+T3_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	111;"	d	line:111
+T3_IDLE_MASK::(~T3_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	112;"	d	line:112
+T3_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	110;"	d	line:110
+T3_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	107;"	d	line:107
+T3_OFF_ON_MASK::(~T3_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	108;"	d	line:108
+T3_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	106;"	d	line:106
+T3_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	118;"	d	line:118
+T3_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	121;"	d	line:121
+T3_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	120;"	d	line:120
+T3_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	119;"	d	line:119
+T3_PS_MASK::(~T3_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	122;"	d	line:122
+T3_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	124;"	d	line:124
+T3_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	125;"	d	line:125
+T3_SOURCE_MASK::(~T3_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	126;"	d	line:126
+T4_32BIT_MODE_MASK::(~T4_32BIT_MODE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	151;"	d	line:151
+T4_32BIT_MODE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	150;"	d	line:150
+T4_32BIT_MODE_ON::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	149;"	d	line:149
+T4_GATE_MASK::(~T4_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	141;"	d	line:141
+T4_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	140;"	d	line:140
+T4_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	139;"	d	line:139
+T4_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	136;"	d	line:136
+T4_IDLE_MASK::(~T4_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	137;"	d	line:137
+T4_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	135;"	d	line:135
+T4_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	132;"	d	line:132
+T4_OFF_ON_MASK::(~T4_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	133;"	d	line:133
+T4_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	131;"	d	line:131
+T4_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	143;"	d	line:143
+T4_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	146;"	d	line:146
+T4_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	145;"	d	line:145
+T4_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	144;"	d	line:144
+T4_PS_MASK::(~T4_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	147;"	d	line:147
+T4_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	153;"	d	line:153
+T4_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	154;"	d	line:154
+T4_SOURCE_MASK::(~T4_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	155;"	d	line:155
+T5_GATE_MASK::(~T5_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	170;"	d	line:170
+T5_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	169;"	d	line:169
+T5_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	168;"	d	line:168
+T5_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	165;"	d	line:165
+T5_IDLE_MASK::(~T5_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	166;"	d	line:166
+T5_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	164;"	d	line:164
+T5_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	161;"	d	line:161
+T5_OFF_ON_MASK::(~T5_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	162;"	d	line:162
+T5_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	160;"	d	line:160
+T5_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	172;"	d	line:172
+T5_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	175;"	d	line:175
+T5_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	174;"	d	line:174
+T5_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	173;"	d	line:173
+T5_PS_MASK::(~T5_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	176;"	d	line:176
+T5_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	178;"	d	line:178
+T5_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	179;"	d	line:179
+T5_SOURCE_MASK::(~T5_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	180;"	d	line:180
+T6_32BIT_MODE_MASK::(~T6_32BIT_MODE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	205;"	d	line:205
+T6_32BIT_MODE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	204;"	d	line:204
+T6_32BIT_MODE_ON::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	203;"	d	line:203
+T6_GATE_MASK::(~T6_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	195;"	d	line:195
+T6_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	194;"	d	line:194
+T6_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	193;"	d	line:193
+T6_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	190;"	d	line:190
+T6_IDLE_MASK::(~T6_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	191;"	d	line:191
+T6_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	189;"	d	line:189
+T6_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	186;"	d	line:186
+T6_OFF_ON_MASK::(~T6_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	187;"	d	line:187
+T6_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	185;"	d	line:185
+T6_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	197;"	d	line:197
+T6_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	200;"	d	line:200
+T6_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	199;"	d	line:199
+T6_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	198;"	d	line:198
+T6_PS_MASK::(~T6_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	201;"	d	line:201
+T6_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	207;"	d	line:207
+T6_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	208;"	d	line:208
+T6_SOURCE_MASK::(~T6_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	209;"	d	line:209
+T7_GATE_MASK::(~T7_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	224;"	d	line:224
+T7_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	223;"	d	line:223
+T7_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	222;"	d	line:222
+T7_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	219;"	d	line:219
+T7_IDLE_MASK::(~T7_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	220;"	d	line:220
+T7_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	218;"	d	line:218
+T7_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	215;"	d	line:215
+T7_OFF_ON_MASK::(~T7_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	216;"	d	line:216
+T7_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	214;"	d	line:214
+T7_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	226;"	d	line:226
+T7_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	229;"	d	line:229
+T7_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	228;"	d	line:228
+T7_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	227;"	d	line:227
+T7_PS_MASK::(~T7_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	230;"	d	line:230
+T7_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	232;"	d	line:232
+T7_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	233;"	d	line:233
+T7_SOURCE_MASK::(~T7_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	234;"	d	line:234
+T8_32BIT_MODE_MASK::(~T8_32BIT_MODE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	259;"	d	line:259
+T8_32BIT_MODE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	258;"	d	line:258
+T8_32BIT_MODE_ON::0x0008	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	257;"	d	line:257
+T8_GATE_MASK::(~T8_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	249;"	d	line:249
+T8_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	248;"	d	line:248
+T8_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	247;"	d	line:247
+T8_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	244;"	d	line:244
+T8_IDLE_MASK::(~T8_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	245;"	d	line:245
+T8_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	243;"	d	line:243
+T8_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	240;"	d	line:240
+T8_OFF_ON_MASK::(~T8_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	241;"	d	line:241
+T8_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	239;"	d	line:239
+T8_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	251;"	d	line:251
+T8_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	254;"	d	line:254
+T8_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	253;"	d	line:253
+T8_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	252;"	d	line:252
+T8_PS_MASK::(~T8_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	255;"	d	line:255
+T8_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	261;"	d	line:261
+T8_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	262;"	d	line:262
+T8_SOURCE_MASK::(~T8_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	263;"	d	line:263
+T9_GATE_MASK::(~T9_GATE_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	278;"	d	line:278
+T9_GATE_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	277;"	d	line:277
+T9_GATE_ON::0x0040	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	276;"	d	line:276
+T9_IDLE_CON::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	273;"	d	line:273
+T9_IDLE_MASK::(~T9_IDLE_STOP)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	274;"	d	line:274
+T9_IDLE_STOP::0x2000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	272;"	d	line:272
+T9_OFF::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	269;"	d	line:269
+T9_OFF_ON_MASK::(~T9_ON)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	270;"	d	line:270
+T9_ON::0x8000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	268;"	d	line:268
+T9_PS_1_1::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	280;"	d	line:280
+T9_PS_1_256::0x0030	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	283;"	d	line:283
+T9_PS_1_64::0x0020	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	282;"	d	line:282
+T9_PS_1_8::0x0010	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	281;"	d	line:281
+T9_PS_MASK::(~T9_PS_1_256)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	284;"	d	line:284
+T9_SOURCE_EXT::0x0002	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	286;"	d	line:286
+T9_SOURCE_INT::0x0000	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	287;"	d	line:287
+T9_SOURCE_MASK::(~T9_SOURCE_EXT)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	288;"	d	line:288
+TOSTRING::(x)_TOSTRING(x)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	51;"	d	line:51
+UART1_RX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	161;"	d	line:161	file:
+UART1_RX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	165;"	d	line:165	file:
+UART1_TX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	100;"	d	line:100	file:
+UART1_TX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	104;"	d	line:104	file:
+UART2_RX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	585;"	d	line:585	file:
+UART2_RX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	589;"	d	line:589	file:
+UART2_TX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	524;"	d	line:524	file:
+UART2_TX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	528;"	d	line:528	file:
+UART3_RX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1009;"	d	line:1009	file:
+UART3_RX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1013;"	d	line:1013	file:
+UART3_TX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	948;"	d	line:948	file:
+UART3_TX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	952;"	d	line:952	file:
+UART4_RX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1433;"	d	line:1433	file:
+UART4_RX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1437;"	d	line:1437	file:
+UART4_TX_FIFO_SIZE::32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1372;"	d	line:1372	file:
+UART4_TX_INTERRUPT_PRIORITY::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1376;"	d	line:1376	file:
+UxBRG	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	96;"	l	line:96
+WAIT_UNTIL_CONVERSION_COMPLETE_ADC1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	35;"	f	line:35	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	74;"	f	line:74	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	168;"	f	line:168	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	262;"	f	line:262	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	356;"	f	line:356	signature:()
+WDTPOST_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	211;"	v	line:211
+WDTPOST_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	266;"	v	line:266
+WDTPOST_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	423;"	v	line:423
+WDTPOST_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	499;"	v	line:499
+WDTPS_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	336;"	v	line:336
+WDTPS_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	394;"	v	line:394
+WDTPS_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	400;"	v	line:400
+WDTPS_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	443;"	v	line:443
+WDTPS_PS512	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	472;"	v	line:472
+_COMPILE_ASSERT_SYMBOL::(line,msg)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	68;"	d	line:68
+_COMPILE_ASSERT_SYMBOL::(line,msg)_COMPILE_ASSERT_SYMB	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	86;"	d	line:86
+_COMPILE_ASSERT_SYMBOL_INNER::(line,msg)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	67;"	d	line:67
+_COMPILE_ASSERT_SYMBOL_INNER::(line,msg)__COMPILE_ASSERT_##l	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	84;"	d	line:84
+_DefaultInterrupt	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	149;"	f	line:149	signature:(void)
+_GET_CLOCK_CONFIG_INDEX::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	196;"	d	line:196
+_GET_CONFIG_DEFAULT_CLOCK::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	202;"	d	line:202
+_GET_FCY::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	198;"	d	line:198
+_GET_FNOSC_SEL::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	197;"	d	line:197
+_GET_IS_SUPPORTED::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	201;"	d	line:201
+_GET_OSC_SEL_BITS::(bits)((bits>>0)&0x07)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	339;"	d	line:339
+_GET_OSC_SEL_BITS::(bits)((bits>>8)&0x07)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	341;"	d	line:341
+_GET_POSCMD_SEL::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	199;"	d	line:199
+_GET_POSC_FREQ::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	200;"	d	line:200
+_PIC24_ADC_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	11;"	d	line:11
+_PIC24_ALL_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_all.h	40;"	d	line:40
+_PIC24_CLOCKFREQ_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	73;"	d	line:73
+_PIC24_DELAY_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	39;"	d	line:39
+_PIC24_PORTS_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	32;"	d	line:32
+_PIC24_SERIAL_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	42;"	d	line:42
+_PIC24_TIMER_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	11;"	d	line:11
+_PIC24_UART1_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	32;"	d	line:32
+_PIC24_UART2_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	126;"	d	line:126
+_PIC24_UART3_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	220;"	d	line:220
+_PIC24_UART4_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	314;"	d	line:314
+_PIC24_UNITTEST_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	40;"	d	line:40
+_PIC24_UTIL_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	40;"	d	line:40
+_STDINT_H_	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	39;"	d	line:39
+_T2Interrupt	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	70;"	f	line:70	signature:(void)
+_TOSTRING::(x)#x	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	53;"	d	line:53
+_U1RXInterrupt	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	191;"	f	line:191	signature:(void)
+_U1TXInterrupt	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	129;"	f	line:129	signature:(void)
+au8_rxFifo1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	168;"	v	line:168
+au8_txFifo1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	107;"	v	line:107
+bool_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	87;"	t	line:87
+checkClockTimeout	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	146;"	f	line:146	file:	signature:(void)
+checkClockTimeout	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	74;"	f	line:74	signature:(void)
+checkDeviceAndRevision	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	195;"	f	line:195	signature:(void)
+checkDeviceAndRevision	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	87;"	p	line:87	signature:(void)
+checkOscOption	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	266;"	f	line:266	signature:(void)
+checkOscOption	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	88;"	p	line:88	signature:(void)
+checkRxErrorUART1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	75;"	f	line:75	signature:(void)
+checkRxErrorUART1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	83;"	p	line:83	signature:(void)
+checkRxErrorUART2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	177;"	p	line:177	signature:(void)
+checkRxErrorUART3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	271;"	p	line:271	signature:(void)
+checkRxErrorUART4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	365;"	p	line:365	signature:(void)
+computeDeltaTicks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	35;"	p	line:35	signature:(uint16_t u16_start, uint16_t u16_end, uint16_t u16_tmrPR)
+computeDeltaTicksLong	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	34;"	p	line:34	signature:(uint16_t u16_start, uint16_t u16_end, uint16_t u16_tmrPR, uint16_t u16_oflows)
+configADC1_AutoHalfScanIrqCH0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	197;"	f	line:197	signature:(uint16_t u16_ch0ScanMask, \ uint8_t u8_autoSampleTime, \ uint8_t u8_use12bit)
+configADC1_AutoHalfScanIrqCH0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	24;"	p	line:24	signature:(uint16 u16_ch0ScanMask,uint8 u8_autoSampleTime,uint8 u8_12bit)
+configADC1_AutoScanIrqCH0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	132;"	f	line:132	signature:(uint16_t u16_ch0ScanMask, \ uint8_t u8_autoSampleTime, \ uint8_t u8_use12bit)
+configADC1_AutoScanIrqCH0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	23;"	p	line:23	signature:(uint16 u16_ch0ScanMask,uint8 u8_autoSampleTime,uint8 u8_12bit)
+configADC1_ManualCH0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	84;"	f	line:84	signature:(uint16_t u16_ch0PositiveMask, \ uint8_t u8_autoSampleTime, \ uint8_t u8_use12bit)
+configADC1_ManualCH0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	22;"	p	line:22	signature:(uint16 u16_Ch0PositiveMask,uint8 u8_autoSampleTime,uint8 u8_Use12bits)
+configADC1_Simul4ChanIrq	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	269;"	f	line:269	signature:(uint8_t u8_ch0Select, \ uint16_t u16_ch123SelectMask, \ uint16_t u16_numTcyMask )
+configADC1_Simul4ChanIrq	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	25;"	p	line:25	signature:(uint8 u8_ch0Select, uint16 u16_ch123SelectMask, uint16 u16_numTcyMask)
+configBasic	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	501;"	f	line:501	signature:(const char* sz_helloMsg)
+configBasic	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	91;"	p	line:91	signature:(const char* psz_helloMsg)
+configClock	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	415;"	f	line:415	signature:()
+configClockFRCPLL_FCY16MHz	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	374;"	p	line:374	signature:(void)
+configClockFRCPLL_FCY40MHz	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	390;"	p	line:390	signature:(void)
+configClockFRC_FCY3685KHz	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	386;"	p	line:386	signature:(void)
+configClockFRC_FCY4MHz	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	378;"	p	line:378	signature:(void)
+configClockPRIPLL_7372KHzCrystal_40MHzFCY	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	394;"	p	line:394	signature:(void)
+configClockPRIPLL_8MHzCrystal_16MHzFCY	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	402;"	p	line:402	signature:(void)
+configClockPRIPLL_8MHzCrystal_40MHzFCY	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	398;"	p	line:398	signature:(void)
+configClockPRI_8MHzCrystal_4MHzFCY	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	406;"	p	line:406	signature:(void)
+configClockPRI_NO_PLL_7372KHzCrystal	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	382;"	p	line:382	signature:(void)
+configClockSim	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	370;"	p	line:370	signature:(void)
+configDefaultUART	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	345;"	f	line:345	signature:(uint32_t u32_baudRate)
+configDefaultUART	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	70;"	p	line:70	signature:(uint32_t u32_baudRate)
+configFrcUART	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	94;"	f	line:94	file:	signature:(void)
+configHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	49;"	f	line:49	signature:(void)
+configHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	81;"	f	line:81	signature:(void)
+configHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	101;"	p	line:101	signature:(void)
+configOutputCapture1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	60;"	f	line:60	signature:(void)
+configPinsForLowPower	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	427;"	f	line:427	signature:(void)
+configPinsForLowPower	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	487;"	f	line:487	signature:(void)
+configPinsForLowPower	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	90;"	p	line:90	signature:(void)
+configTimer2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	47;"	f	line:47	signature:(void)
+configUART1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	252;"	f	line:252	signature:(uint32_t u32_baudRate)
+configUART1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	81;"	p	line:81	signature:(uint32_t u32_baudRate)
+configUART2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	175;"	p	line:175	signature:(uint32_t u32_baudRate)
+configUART3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	269;"	p	line:269	signature:(uint32_t u32_baudRate)
+configUART4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	363;"	p	line:363	signature:(uint32_t u32_baudRate)
+convertADC1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	55;"	f	line:55	signature:(void)
+convertADC1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_adc.h	21;"	p	line:21	signature:(void)
+delayAndUpdateHeartbeatCount	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	56;"	f	line:56	signature:(uint32_t u32_cyc)
+doHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	52;"	f	line:52	signature:(void)
+doHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	97;"	f	line:97	signature:(void)
+doHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	102;"	p	line:102	signature:(void)
+dsPIC33F_DEFINED::0	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	97;"	d	line:97
+dsPIC33F_DEFINED::1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	95;"	d	line:95
+f_brg	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	95;"	l	line:95
+f_ticks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_timer.c	58;"	l	line:58
+getTimerPrescale::(TxCONbits)getTimerPrescaleBit	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	24;"	d	line:24
+getTimerPrescaleBits	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	30;"	p	line:30	signature:(uint8_t u8_TCKPS)
+inChar	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	275;"	f	line:275	signature:(void)
+inChar	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	56;"	p	line:56	signature:(void)
+inChar1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	183;"	f	line:183	signature:(void)
+inChar1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	219;"	f	line:219	signature:(void)
+inChar1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	80;"	p	line:80	signature:(void)
+inChar2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	174;"	p	line:174	signature:(void)
+inChar3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	268;"	p	line:268	signature:(void)
+inChar4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	362;"	p	line:362	signature:(void)
+inCharEcho	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	303;"	f	line:303	signature:(void)
+inCharEcho	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	69;"	p	line:69	signature:(void)
+inString	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	138;"	f	line:138	signature:(char *psz_buff, int16_t u16_maxCount)
+inString	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	58;"	p	line:58	signature:(char *psz_buff, int16_t u16_maxCount)
+inStringEcho	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	145;"	f	line:145	signature:(char *psz_buff, int16_t u16_maxCount)
+inStringEcho	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	59;"	p	line:59	signature:(char *psz_buff, int16_t u16_maxCount)
+inStringInternal	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	110;"	f	line:110	file:	signature:(char *psz_buff, uint16_t u16_maxCount, uint8_t echoFlag)
+int16_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	64;"	t	line:64
+int32_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	68;"	t	line:68
+int64_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	72;"	t	line:72
+int8_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	60;"	t	line:60
+int_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	81;"	t	line:81
+intptr_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	75;"	t	line:75
+isCharReady	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	314;"	f	line:314	signature:(void)
+isCharReady	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	67;"	p	line:67	signature:(void)
+isCharReady1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	175;"	f	line:175	signature:(void)
+isCharReady1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	211;"	f	line:211	signature:(void)
+isCharReady1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	82;"	p	line:82	signature:(void)
+isCharReady2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	176;"	p	line:176	signature:(void)
+isCharReady3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	270;"	p	line:270	signature:(void)
+isCharReady4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	364;"	p	line:364	signature:(void)
+main	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	82;"	f	line:82	signature:(void)
+msToU16Ticks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_timer.c	56;"	f	line:56	signature:(uint16_t u16_ms, uint16_t u16_pre)
+msToU16Ticks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	27;"	p	line:27	signature:(uint16_t u16_ms, uint16_t u16_pre)
+outChar	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	56;"	f	line:56	signature:(uint8_t u8_c)
+outChar	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	60;"	p	line:60	signature:(uint8_t u8_c)
+outChar1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	115;"	f	line:115	signature:(uint8_t u8_c)
+outChar1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	150;"	f	line:150	signature:(uint8_t u8_c)
+outChar1	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	79;"	p	line:79	signature:(uint8_t u8_c)
+outChar2	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	173;"	p	line:173	signature:(uint8_t u8_c)
+outChar3	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	267;"	p	line:267	signature:(uint8_t u8_c)
+outChar4	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	361;"	p	line:361	signature:(uint8_t u8_c)
+outChar::esos_PutUint8ToCommOut	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	47;"	d	line:47	file:
+outString	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	88;"	f	line:88	signature:(const char* psz_s)
+outString	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	57;"	p	line:57	signature:(const char* psz_s)
+outUint16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	174;"	f	line:174	signature:(uint16_t u16_x)
+outUint16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	63;"	p	line:63	signature:(uint16_t u16_x)
+outUint16Decimal	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	240;"	f	line:240	signature:( uint16_t u16_x )
+outUint16Decimal	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	66;"	p	line:66	signature:(uint16_t u16_x)
+outUint32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	188;"	f	line:188	signature:(uint32_t u32_x)
+outUint32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	64;"	p	line:64	signature:(uint32_t u32_x)
+outUint8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	165;"	f	line:165	signature:(uint8_t u8_x)
+outUint8	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	62;"	p	line:62	signature:(uint8_t u8_x)
+outUint8Decimal	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	205;"	f	line:205	signature:( uint8_t u8_x )
+outUint8Decimal	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	65;"	p	line:65	signature:(uint8_t u8_x)
+outUint8NoLeader	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	150;"	f	line:150	signature:(uint8_t u8_x)
+outUint8NoLeader	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	61;"	p	line:61	signature:(uint8_t u8_x)
+picAssert	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	106;"	f	line:106	signature:(uint8_t test, const char* message)
+printResetCause	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	313;"	f	line:313	signature:(void)
+printResetCause	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	89;"	p	line:89	signature:(void)
+psz_out	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	209;"	l	line:209
+psz_out	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	248;"	l	line:248
+readProgramMemory	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	183;"	f	line:183	signature:(uint32_t u32_address)
+readProgramMemory	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	86;"	p	line:86	signature:(uint32_t u32_address)
+reportError	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	170;"	f	line:170	signature:(const char* sz_errorMessage)
+reportError	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	46;"	p	line:46	signature:(const char* message)
+reportError	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	85;"	p	line:85	signature:(const char* szErrorMessage)
+roundFloatToUint16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	526;"	f	line:526	signature:(float f_x)
+roundFloatToUint16	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	93;"	p	line:93	signature:(float f_x)
+roundFloatToUint32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	514;"	f	line:514	signature:(float f_x)
+roundFloatToUint32	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	92;"	p	line:92	signature:(float f_x)
+snprintf	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	92;"	p	line:92	signature:( char *buffer, int buff_size, const char *format, ... )
+switchClock	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	182;"	f	line:182	signature:(uint8_t u8_source)
+switchClock	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	432;"	p	line:432	signature:(uint8_t u8_source)
+sz_lastError	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	119;"	v	line:119	file:
+sz_lastTimeoutError	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	123;"	v	line:123
+ticksToMs	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	31;"	p	line:31	signature:(uint32_t u32_ticks, uint16_t u16_tmrPre)
+ticksToNs	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	33;"	p	line:33	signature:(uint32_t u32_ticks, uint16_t u16_tmrPre)
+ticksToUs	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	32;"	p	line:32	signature:(uint32_t u32_ticks, uint16_t u16_tmrPre)
+toggleHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	109;"	f	line:109	signature:(void)
+toggleHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	55;"	f	line:55	signature:(void)
+toggleHeartbeat	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	103;"	p	line:103	signature:(void)
+u16_INTTREGlast	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	141;"	v	line:141	file:
+u16_INTTREGlast::BITS2WORD(INTTREGBITS_last)	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	139;"	d	line:139	file:
+u16_d	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	241;"	l	line:241	file:
+u16_destroy	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	247;"	l	line:247
+u16_i	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	112;"	l	line:112
+u16_mask	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	136;"	l	line:136
+u16_mask	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	201;"	l	line:201
+u16_offset	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	184;"	l	line:184
+u16_rxFifo1Head	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	169;"	v	line:169
+u16_rxFifo1Tail	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	170;"	v	line:170
+u16_ticks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_timer.c	59;"	l	line:59
+u16_tmp	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	116;"	l	line:116
+u16_txFifo1Head	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	108;"	v	line:108
+u16_txFifo1Tail	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	109;"	v	line:109
+u16_y	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	527;"	l	line:527
+u32_brg	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	254;"	l	line:254
+u32_heartbeatCount	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	70;"	v	line:70
+u32_heartbeatMax	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	74;"	v	line:74	file:
+u32_pw	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	83;"	l	line:83
+u32_temp	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\chap12\ledpwm_pic24f.c	71;"	l	line:71
+u32_timeoutCount	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	147;"	l	line:147	file:
+u32_y	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	515;"	l	line:515
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	111;"	l	line:111
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	151;"	l	line:151
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	175;"	l	line:175
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	189;"	l	line:189
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	304;"	l	line:304
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	192;"	l	line:192
+u8_c	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	76;"	l	line:76
+u8_d	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	206;"	l	line:206	file:
+u8_destroy	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	210;"	l	line:210
+u8_f	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	207;"	l	line:207	file:
+u8_f	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	244;"	l	line:244	file:
+u8_i	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	135;"	l	line:135
+u8_i	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	200;"	l	line:200
+u8_i	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	210;"	l	line:210
+u8_i	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	246;"	l	line:246
+u8_nChannels	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	135;"	l	line:135
+u8_nChannels	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	200;"	l	line:200
+u8_resetIdentified	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	314;"	l	line:314
+u8_wdtState	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_adc.c	56;"	l	line:56
+u8_x	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	267;"	l	line:267
+uint16_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	47;"	t	line:47
+uint32_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	51;"	t	line:51
+uint64_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	55;"	t	line:55
+uint8_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	43;"	t	line:43
+uint_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	84;"	t	line:84
+uintptr_t	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	78;"	t	line:78
+usToU16Ticks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	28;"	p	line:28	signature:(uint16_t u16_us, uint16_t u16_pre)
+usToU32Ticks	D:\Electronics\ALL PIC\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	29;"	p	line:29	signature:(uint32_t u32_us, uint16_t u16_pre)

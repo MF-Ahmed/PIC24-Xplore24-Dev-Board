@@ -1,0 +1,785 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ALTI2C_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	231;"	v	line:231
+ASSERT::(placeholder)(void)0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	66;"	d	line:66
+ASSERT::(test)picAssert(test,ERROR_FIL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	96;"	d	line:96
+BITS2BYTEH::(sfrBitfield)(((uint8_t*)&sfrB	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	60;"	d	line:60
+BITS2BYTEL::(sfrBitfield)(((uint8_t*)&sfrB	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	58;"	d	line:58
+BITS2WORD::(sfrBitfield)(*((uint16_t*)&sf	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	56;"	d	line:56
+BKBUG_OFF::0xFFFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	437;"	d	line:437	file:
+BLKSIZE::(64)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	39;"	d	line:39	file:
+BWRP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	459;"	v	line:459
+BWRP_WRPROTECT_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	102;"	v	line:102
+BWRP_WRPROTECT_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	262;"	v	line:262
+BWRP_WRPROTECT_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	410;"	v	line:410
+BWRP_WRPROTECT_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	488;"	v	line:488
+CLOCKTIMEOUT_MAX::200000L	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	83;"	d	line:83	file:
+CLOCK_CONFIG_INDEX::GET_CLOCK_CONFIG_INDEX(CLOCK_C	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	206;"	d	line:206
+COE_OFF::0xFFFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	440;"	d	line:440	file:
+COMPILE_ASSERT::(test,msg)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	69;"	d	line:69
+COMPILE_ASSERT::(test,msg)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	82;"	d	line:82
+CONFIG_ANx_AS_ANALOG	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	115;"	f	line:115	signature:()
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	254;"	d	line:254	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	269;"	d	line:269	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	388;"	d	line:388	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	396;"	d	line:396	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	403;"	d	line:403	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	430;"	d	line:430	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	453;"	d	line:453	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	482;"	d	line:482	file:
+CONFIG_BITS_DEFINED	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	505;"	d	line:505	file:
+CONFIG_C1OUT_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	481;"	d	line:481
+CONFIG_C1OUT_TO_RP::(pin)_RP##pin##R=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	479;"	d	line:479
+CONFIG_C1RXR_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	441;"	d	line:441
+CONFIG_C1RXR_TO_RP::(pin)_C1RXR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	439;"	d	line:439
+CONFIG_C1TX_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	589;"	d	line:589
+CONFIG_C1TX_TO_RP::(pin)_RP##pin##R=16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	587;"	d	line:587
+CONFIG_C2OUT_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	490;"	d	line:490
+CONFIG_C2OUT_TO_RP::(pin)_RP##pin##R=2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	488;"	d	line:488
+CONFIG_C2RXR_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	450;"	d	line:450
+CONFIG_C2RXR_TO_RP::(pin)_C2RXR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	448;"	d	line:448
+CONFIG_DEFAULT_CLOCK::GET_CONFIG_DEFAULT_CLOCK(CLOCK	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	211;"	d	line:211
+CONFIG_IC1_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	261;"	d	line:261
+CONFIG_IC1_TO_RP::(pin)_IC1R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	259;"	d	line:259
+CONFIG_IC2_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	270;"	d	line:270
+CONFIG_IC2_TO_RP::(pin)_IC2R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	268;"	d	line:268
+CONFIG_IC3_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	279;"	d	line:279
+CONFIG_IC3_TO_RP::(pin)_IC3R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	277;"	d	line:277
+CONFIG_IC4_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	288;"	d	line:288
+CONFIG_IC4_TO_RP::(pin)_IC4R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	286;"	d	line:286
+CONFIG_IC5_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	297;"	d	line:297
+CONFIG_IC5_TO_RP::(pin)_IC5R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	295;"	d	line:295
+CONFIG_IC6_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	306;"	d	line:306
+CONFIG_IC6_TO_RP::(pin)_IC6R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	304;"	d	line:304
+CONFIG_IC7_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	315;"	d	line:315
+CONFIG_IC7_TO_RP::(pin)_IC7R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	313;"	d	line:313
+CONFIG_IC8_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	324;"	d	line:324
+CONFIG_IC8_TO_RP::(pin)_IC8R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	322;"	d	line:322
+CONFIG_INT1_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	207;"	d	line:207
+CONFIG_INT1_TO_RP::(pin)_INT1R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	205;"	d	line:205
+CONFIG_INT2_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	216;"	d	line:216
+CONFIG_INT2_TO_RP::(pin)_INT2R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	214;"	d	line:214
+CONFIG_NULL_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	472;"	d	line:472
+CONFIG_NULL_TO_RP::(pin)_RP##pin##R=0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	470;"	d	line:470
+CONFIG_OC1_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	598;"	d	line:598
+CONFIG_OC1_TO_RP::(pin)_RP##pin##R=18	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	596;"	d	line:596
+CONFIG_OC2_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	607;"	d	line:607
+CONFIG_OC2_TO_RP::(pin)_RP##pin##R=19	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	605;"	d	line:605
+CONFIG_OC3_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	616;"	d	line:616
+CONFIG_OC3_TO_RP::(pin)_RP##pin##R=20	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	614;"	d	line:614
+CONFIG_OC4_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	625;"	d	line:625
+CONFIG_OC4_TO_RP::(pin)_RP##pin##R=21	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	623;"	d	line:623
+CONFIG_OC5_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	634;"	d	line:634
+CONFIG_OC5_TO_RP::(pin)_RP##pin##R=22	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	632;"	d	line:632
+CONFIG_OCFA_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	333;"	d	line:333
+CONFIG_OCFA_TO_RP::(pin)_OCFAR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	331;"	d	line:331
+CONFIG_OCFB_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	342;"	d	line:342
+CONFIG_OCFB_TO_RP::(pin)_OCFBR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	340;"	d	line:340
+CONFIG_RPy_AS_DIG_PIN::_PCFG=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	153;"	d	line:153
+CONFIG_Rxy_AS_DIG_INPUT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	109;"	f	line:109	signature:()
+CONFIG_Rxy_AS_DIG_OD_OUTPUT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	103;"	f	line:103	signature:()
+CONFIG_Rxy_AS_DIG_OUTPUT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	96;"	f	line:96	signature:()
+CONFIG_SCK1IN_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	396;"	d	line:396
+CONFIG_SCK1IN_TO_RP::(pin)_SCK1R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	394;"	d	line:394
+CONFIG_SCK1OUT_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	544;"	d	line:544
+CONFIG_SCK1OUT_TO_RP::(pin)_RP##pin##R=8	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	542;"	d	line:542
+CONFIG_SCK2IN_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	423;"	d	line:423
+CONFIG_SCK2IN_TO_RP::(pin)_SCK2R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	421;"	d	line:421
+CONFIG_SCK2OUT_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	571;"	d	line:571
+CONFIG_SCK2OUT_TO_RP::(pin)_RP##pin##R=11	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	569;"	d	line:569
+CONFIG_SDI1_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	387;"	d	line:387
+CONFIG_SDI1_TO_RP::(pin)_SDI1R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	385;"	d	line:385
+CONFIG_SDI2_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	414;"	d	line:414
+CONFIG_SDI2_TO_RP::(pin)_SDI2R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	412;"	d	line:412
+CONFIG_SDO1_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	535;"	d	line:535
+CONFIG_SDO1_TO_RP::(pin)_RP##pin##R=7	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	533;"	d	line:533
+CONFIG_SDO2_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	562;"	d	line:562
+CONFIG_SDO2_TO_RP::(pin)_RP##pin##R=10	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	560;"	d	line:560
+CONFIG_SS1IN_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	405;"	d	line:405
+CONFIG_SS1IN_TO_RP::(pin)_SS1R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	403;"	d	line:403
+CONFIG_SS1OUT_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	553;"	d	line:553
+CONFIG_SS1OUT_TO_RP::(pin)_RP##pin##R=9	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	551;"	d	line:551
+CONFIG_SS2IN_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	432;"	d	line:432
+CONFIG_SS2IN_TO_RP::(pin)_SS2R=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	430;"	d	line:430
+CONFIG_SS2OUT_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	580;"	d	line:580
+CONFIG_SS2OUT_TO_RP::(pin)_RP##pin##R=12	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	578;"	d	line:578
+CONFIG_T2CK_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	225;"	d	line:225
+CONFIG_T2CK_TO_RP::(pin)_T2CKR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	223;"	d	line:223
+CONFIG_T3CK_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	234;"	d	line:234
+CONFIG_T3CK_TO_RP::(pin)_T3CKR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	232;"	d	line:232
+CONFIG_T4CK_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	243;"	d	line:243
+CONFIG_T4CK_TO_RP::(pin)_T4CKR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	241;"	d	line:241
+CONFIG_T5CK_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	252;"	d	line:252
+CONFIG_T5CK_TO_RP::(pin)_T5CKR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	250;"	d	line:250
+CONFIG_U1CTS_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	360;"	d	line:360
+CONFIG_U1CTS_TO_RP::(pin)_U1CTSR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	358;"	d	line:358
+CONFIG_U1RTS_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	508;"	d	line:508
+CONFIG_U1RTS_TO_RP::(pin)_RP##pin##R=4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	506;"	d	line:506
+CONFIG_U1RX_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	351;"	d	line:351
+CONFIG_U1RX_TO_RP::(pin)_U1RXR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	349;"	d	line:349
+CONFIG_U1TX_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	499;"	d	line:499
+CONFIG_U1TX_TO_RP::(pin)_RP##pin##R=3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	497;"	d	line:497
+CONFIG_U2CTS_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	378;"	d	line:378
+CONFIG_U2CTS_TO_RP::(pin)_U2CTSR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	376;"	d	line:376
+CONFIG_U2RTS_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	526;"	d	line:526
+CONFIG_U2RTS_TO_RP::(pin)_RP##pin##R=6	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	524;"	d	line:524
+CONFIG_U2RX_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	369;"	d	line:369
+CONFIG_U2RX_TO_RP::(pin)_U2RXR=pin	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	367;"	d	line:367
+CONFIG_U2TX_TO_RP::(pin)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	517;"	d	line:517
+CONFIG_U2TX_TO_RP::(pin)_RP##pin##R=5	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	515;"	d	line:515
+CYCLES_PER_MS::((uint32_t)(FCY*0.001))	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	309;"	d	line:309
+CYCLES_PER_US::((uint32_t)(FCY*0.000001))	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	315;"	d	line:315
+DEFAULT_BRGH1::DEFAULT_BRGH	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	236;"	d	line:236	file:
+DEFAULT_BRGH2::DEFAULT_BRGH	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	660;"	d	line:660	file:
+DEFAULT_BRGH3::DEFAULT_BRGH	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1084;"	d	line:1084	file:
+DEFAULT_BRGH4::DEFAULT_BRGH	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1508;"	d	line:1508	file:
+DELAY_MS::(ms)delayAndUpdateHeartbeatCou	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	72;"	d	line:72
+DELAY_US::(us)delayAndUpdateHeartbeatCou	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	78;"	d	line:78
+DISABLE_Rxy_ANALOG::_PCFGn=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	146;"	d	line:146
+DISABLE_Rxy_CN_INTERRUPT::_CNmIE=0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	185;"	d	line:185
+DISABLE_Rxy_OPENDRAIN::_ODCxy=0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	163;"	d	line:163
+DISABLE_Rxy_PULLUP::_CNmPUE=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	173;"	d	line:173
+DSWDTOSC_SOSC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	477;"	v	line:477
+EEPROM::0xA0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	38;"	d	line:38	file:
+ENABLE_Rxy_ANALOG::_PCFGn=0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	140;"	d	line:140
+ENABLE_Rxy_CN_INTERRUPT::_CNmIE=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	179;"	d	line:179
+ENABLE_Rxy_OPENDRAIN::_ODCxy=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	158;"	d	line:158
+ENABLE_Rxy_PULLUP::_CNmPUE=1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	168;"	d	line:168
+ERROR_FILE_LINE::(msg)"Errorin"__FILE__"line"TO	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	60;"	d	line:60
+FCY::GET_FCY(CLOCK_CONFIG)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	208;"	d	line:208
+FNOSC_SEL::GET_FNOSC_SEL(CLOCK_CONFIG)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	207;"	d	line:207
+FPWRT_PWR16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	267;"	v	line:267
+FPWRT_PWR16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	424;"	v	line:424
+FPWRT_PWR16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	500;"	v	line:500
+FRCPLL_FCY16MHz::1,FNOSC_FRCPLL,16000000L,POSCM	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	143;"	d	line:143
+FRCPLL_FCY40MHz::5,FNOSC_FRCPLL,40000000L,POSCM	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	147;"	d	line:147
+FRC_BRGH::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	91;"	d	line:91	file:
+FRC_FCY3685KHz::4,FNOSC_FRC,3685000L,POSCMD_NO	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	146;"	d	line:146
+FRC_FCY4MHz::2,FNOSC_FRC,4000000L,POSCMD_NO	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	144;"	d	line:144
+FRC_FCY::16000000L	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	87;"	d	line:87	file:
+FRC_FCY::40000000L	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	85;"	d	line:85	file:
+GET_CLOCK_CONFIG_INDEX::(params)_GET_CLOCK_CONFIG_INDE	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	186;"	d	line:186
+GET_CONFIG_DEFAULT_CLOCK::(params)_GET_CONFIG_DEFAULT_CL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	192;"	d	line:192
+GET_FCY::(params)_GET_FCY(params)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	188;"	d	line:188
+GET_FNOSC_SEL::(params)_GET_FNOSC_SEL(params)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	187;"	d	line:187
+GET_IS_SUPPORTED::(params)_GET_IS_SUPPORTED(para	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	191;"	d	line:191
+GET_OSC_SEL_BITS::(bits)_GET_OSC_SEL_BITS(bits)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	336;"	d	line:336
+GET_POSCMD_SEL::(params)_GET_POSCMD_SEL(params	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	189;"	d	line:189
+GET_POSC_FREQ::(params)_GET_POSC_FREQ(params)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	190;"	d	line:190
+GWRP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	127;"	v	line:127
+GWRP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	263;"	v	line:263
+GWRP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	411;"	v	line:411
+GWRP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	460;"	v	line:460
+GWRP_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	489;"	v	line:489
+HELLO_MSG::"	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	82;"	d	line:82
+HELLO_MSG::"*****************************	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	76;"	d	line:76
+I2C1SEL_PRI	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	473;"	v	line:473
+I2C_ACK::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	147;"	d	line:147
+I2C_ACK::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	57;"	d	line:57
+I2C_NAK::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	150;"	d	line:150
+I2C_NAK::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	60;"	d	line:60
+I2C_RADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	222;"	p	line:222	file:
+I2C_RADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	235;"	p	line:235	file:
+I2C_RADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	250;"	p	line:250	file:
+I2C_RADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	493;"	p	line:493	file:
+I2C_RADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	506;"	p	line:506	file:
+I2C_RADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	521;"	p	line:521	file:
+I2C_RADDR::(x)(x|0x01)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	154;"	d	line:154
+I2C_RADDR::(x)(x|0x01)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	64;"	d	line:64
+I2C_WADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	180;"	p	line:180	file:
+I2C_WADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	192;"	p	line:192	file:
+I2C_WADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	207;"	p	line:207	file:
+I2C_WADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	451;"	p	line:451	file:
+I2C_WADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	463;"	p	line:463	file:
+I2C_WADDR	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	478;"	p	line:478	file:
+I2C_WADDR::(x)(x&0xFE)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	153;"	d	line:153
+I2C_WADDR::(x)(x&0xFE)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	63;"	d	line:63
+ICS_PGD1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	251;"	v	line:251
+ICS_PGD1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	268;"	v	line:268
+ICS_PGD1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	425;"	v	line:425
+ICS_PGD1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	501;"	v	line:501
+ICS_PGx1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	474;"	v	line:474
+IC_CAPTURE_MODE_MASK::(~IC_INTERRUPT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	322;"	d	line:322
+IC_EVERY_16_RISE_EDGE::0x0005	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	316;"	d	line:316
+IC_EVERY_4_RISE_EDGE::0x0004	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	317;"	d	line:317
+IC_EVERY_EDGE::0x0001	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	320;"	d	line:320
+IC_EVERY_FALL_EDGE::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	319;"	d	line:319
+IC_EVERY_RISE_EDGE::0x0003	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	318;"	d	line:318
+IC_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	302;"	d	line:302
+IC_IDLE_MASK::(~IC_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	303;"	d	line:303
+IC_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	301;"	d	line:301
+IC_INPUTCAP_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	321;"	d	line:321
+IC_INTERRUPT::0x0007	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	315;"	d	line:315
+IC_INT_1CAPTURE::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	312;"	d	line:312
+IC_INT_2CAPTURE::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	311;"	d	line:311
+IC_INT_3CAPTURE::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	310;"	d	line:310
+IC_INT_4CAPTURE::0x0060	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	309;"	d	line:309
+IC_INT_CAPTURE_MASK::(~IC_INT_4CAPTURE)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	313;"	d	line:313
+IC_TIMER2_SRC::0x0080	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	305;"	d	line:305
+IC_TIMER3_SRC::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	306;"	d	line:306
+IC_TIMER_SRC_MASK::(~IC_TIMER2_SRC)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	307;"	d	line:307
+IESO_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	148;"	v	line:148
+IESO_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	264;"	v	line:264
+IESO_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	422;"	v	line:422
+IESO_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	471;"	v	line:471
+IESO_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	490;"	v	line:490
+INTTREGBITS_last	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	133;"	v	line:133	file:
+IOL1WAY_OFF::0xFFFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	446;"	d	line:446	file:
+IS_CHAR_READY_UART1::U1STAbits.URXDA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	58;"	d	line:58
+IS_CHAR_READY_UART2::U2STAbits.URXDA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	152;"	d	line:152
+IS_CHAR_READY_UART3::U3STAbits.URXDA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	246;"	d	line:246
+IS_CHAR_READY_UART4::U4STAbits.URXDA	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	340;"	d	line:340
+IS_CLOCK_CONFIG::(clockConfig)(_GET_CLOCK_CONFI	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	330;"	d	line:330
+IS_TRANSMIT_BUFFER_FULL_UART1::U1STAbits.UTXBF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	64;"	d	line:64
+IS_TRANSMIT_BUFFER_FULL_UART2::U2STAbits.UTXBF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	158;"	d	line:158
+IS_TRANSMIT_BUFFER_FULL_UART3::U3STAbits.UTXBF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	252;"	d	line:252
+IS_TRANSMIT_BUFFER_FULL_UART4::U4STAbits.UTXBF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	346;"	d	line:346
+IS_TRANSMIT_COMPLETE_UART1::U1STAbits.TRMT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	71;"	d	line:71
+IS_TRANSMIT_COMPLETE_UART2::U2STAbits.TRMT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	165;"	d	line:165
+IS_TRANSMIT_COMPLETE_UART3::U3STAbits.TRMT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	259;"	d	line:259
+IS_TRANSMIT_COMPLETE_UART4::U4STAbits.TRMT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	353;"	d	line:353
+MS_TO_TICKS::(ms,pre)((FCY/1000L/(pre))*ms)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	26;"	d	line:26
+OC_CONTINUE_PULSE::0x0005	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	346;"	d	line:346
+OC_HIGH_LOW::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	349;"	d	line:349
+OC_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	335;"	d	line:335
+OC_IDLE_MASK::(~OC_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	337;"	d	line:337
+OC_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	336;"	d	line:336
+OC_LOW_HIGH::0x0001	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	350;"	d	line:350
+OC_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	351;"	d	line:351
+OC_PWM_FAULT_PIN_DISABLE::0x0006	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	345;"	d	line:345
+OC_PWM_FAULT_PIN_ENABLE::0x0007	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	344;"	d	line:344
+OC_PWM_MODE_MASK::(~OC_PWM_FAULT_PIN_ENABLE)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	352;"	d	line:352
+OC_SINGLE_PULSE::0x0004	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	347;"	d	line:347
+OC_TIMER2_SRC::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	340;"	d	line:340
+OC_TIMER3_SRC::0x0008	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	341;"	d	line:341
+OC_TIMER_SRC_MASK::(~OC_TIMER3_SRC)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	342;"	d	line:342
+OC_TOGGLE_PULSE::0x0003	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	348;"	d	line:348
+OSCCONBITS_copy	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	185;"	l	line:185
+OSC_SEL_BITS::GET_OSC_SEL_BITS(FNOSC_SEL)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	349;"	d	line:349
+PIC24FK_DEFINED::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	102;"	d	line:102
+PIC24FK_DEFINED::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	100;"	d	line:100
+PIC24F_DEFINED::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	87;"	d	line:87
+PIC24F_DEFINED::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	85;"	d	line:85
+PIC24H_DEFINED::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	92;"	d	line:92
+PIC24H_DEFINED::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	90;"	d	line:90
+PLLDIV_DIV2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	401;"	v	line:401
+POSCFREQ_HS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	465;"	v	line:465
+POSCFREQ_LS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	463;"	v	line:463
+POSCFREQ_MS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	467;"	v	line:467
+POSCMD_EC::POSCMOD_EC	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	174;"	d	line:174
+POSCMD_HS::POSCMOD_HS	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	176;"	d	line:176
+POSCMD_NONE::POSCMOD_NONE	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	177;"	d	line:177
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	174;"	v	line:174
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	265;"	v	line:265
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	384;"	v	line:384
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	395;"	v	line:395
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	418;"	v	line:418
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	420;"	v	line:420
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	448;"	v	line:448
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	495;"	v	line:495
+POSCMD_SEL	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	497;"	v	line:497
+POSCMD_SEL::GET_POSCMD_SEL(CLOCK_CONFIG)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	209;"	d	line:209
+POSCMD_XT::POSCMOD_XT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	175;"	d	line:175
+POSC_FREQ::GET_POSC_FREQ(CLOCK_CONFIG)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	210;"	d	line:210
+PRIPLL_7372KHzCrystal_40MHzFCY::6,FNOSC_PRIPLL,40000000L,POSCM	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	148;"	d	line:148
+PRIPLL_8MHzCrystal_16MHzFCY::8,FNOSC_PRIPLL,16000000L,POSCM	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	150;"	d	line:150
+PRIPLL_8MHzCrystal_40MHzFCY::7,FNOSC_PRIPLL,40000000L,POSCM	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	149;"	d	line:149
+PRI_8MHzCrystal_4MHzFCY::9,FNOSC_PRI,4000000L,POSCMD_XT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	151;"	d	line:151
+PRI_NO_PLL_7372KHzCrystal::3,FNOSC_PRI,3686400L,POSCMD_XT	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	145;"	d	line:145
+REPORT_ERROR::(msg)reportError(ERROR_FILE_LI	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	69;"	d	line:69
+SIM_CLOCK::0,-1,1000000L,POSCMD_NONE,-1,1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	142;"	d	line:142
+SWRP_WRPROTECT_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	414;"	v	line:414
+SWRP_WRPROTECT_OFF	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	492;"	v	line:492
+T1_GATE_MASK::(~T1_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	59;"	d	line:59
+T1_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	58;"	d	line:58
+T1_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	57;"	d	line:57
+T1_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	54;"	d	line:54
+T1_IDLE_MASK::(~T1_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	55;"	d	line:55
+T1_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	53;"	d	line:53
+T1_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	50;"	d	line:50
+T1_OFF_ON_MASK::(~T1_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	51;"	d	line:51
+T1_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	49;"	d	line:49
+T1_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	61;"	d	line:61
+T1_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	64;"	d	line:64
+T1_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	63;"	d	line:63
+T1_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	62;"	d	line:62
+T1_PS_MASK::(~T1_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	65;"	d	line:65
+T1_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	71;"	d	line:71
+T1_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	72;"	d	line:72
+T1_SOURCE_MASK::(~T1_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	73;"	d	line:73
+T1_SYNC_EXT_MASK::(~T1_SYNC_EXT_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	69;"	d	line:69
+T1_SYNC_EXT_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	68;"	d	line:68
+T1_SYNC_EXT_ON::0x0004	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	67;"	d	line:67
+T2_32BIT_MODE_MASK::(~T2_32BIT_MODE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	97;"	d	line:97
+T2_32BIT_MODE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	96;"	d	line:96
+T2_32BIT_MODE_ON::0x0008	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	95;"	d	line:95
+T2_GATE_MASK::(~T2_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	87;"	d	line:87
+T2_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	86;"	d	line:86
+T2_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	85;"	d	line:85
+T2_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	82;"	d	line:82
+T2_IDLE_MASK::(~T2_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	83;"	d	line:83
+T2_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	81;"	d	line:81
+T2_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	78;"	d	line:78
+T2_OFF_ON_MASK::(~T2_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	79;"	d	line:79
+T2_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	77;"	d	line:77
+T2_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	89;"	d	line:89
+T2_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	92;"	d	line:92
+T2_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	91;"	d	line:91
+T2_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	90;"	d	line:90
+T2_PS_MASK::(~T2_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	93;"	d	line:93
+T2_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	99;"	d	line:99
+T2_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	100;"	d	line:100
+T2_SOURCE_MASK::(~T2_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	101;"	d	line:101
+T3_GATE_MASK::(~T3_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	116;"	d	line:116
+T3_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	115;"	d	line:115
+T3_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	114;"	d	line:114
+T3_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	111;"	d	line:111
+T3_IDLE_MASK::(~T3_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	112;"	d	line:112
+T3_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	110;"	d	line:110
+T3_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	107;"	d	line:107
+T3_OFF_ON_MASK::(~T3_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	108;"	d	line:108
+T3_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	106;"	d	line:106
+T3_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	118;"	d	line:118
+T3_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	121;"	d	line:121
+T3_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	120;"	d	line:120
+T3_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	119;"	d	line:119
+T3_PS_MASK::(~T3_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	122;"	d	line:122
+T3_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	124;"	d	line:124
+T3_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	125;"	d	line:125
+T3_SOURCE_MASK::(~T3_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	126;"	d	line:126
+T4_32BIT_MODE_MASK::(~T4_32BIT_MODE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	151;"	d	line:151
+T4_32BIT_MODE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	150;"	d	line:150
+T4_32BIT_MODE_ON::0x0008	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	149;"	d	line:149
+T4_GATE_MASK::(~T4_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	141;"	d	line:141
+T4_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	140;"	d	line:140
+T4_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	139;"	d	line:139
+T4_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	136;"	d	line:136
+T4_IDLE_MASK::(~T4_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	137;"	d	line:137
+T4_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	135;"	d	line:135
+T4_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	132;"	d	line:132
+T4_OFF_ON_MASK::(~T4_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	133;"	d	line:133
+T4_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	131;"	d	line:131
+T4_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	143;"	d	line:143
+T4_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	146;"	d	line:146
+T4_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	145;"	d	line:145
+T4_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	144;"	d	line:144
+T4_PS_MASK::(~T4_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	147;"	d	line:147
+T4_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	153;"	d	line:153
+T4_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	154;"	d	line:154
+T4_SOURCE_MASK::(~T4_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	155;"	d	line:155
+T5_GATE_MASK::(~T5_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	170;"	d	line:170
+T5_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	169;"	d	line:169
+T5_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	168;"	d	line:168
+T5_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	165;"	d	line:165
+T5_IDLE_MASK::(~T5_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	166;"	d	line:166
+T5_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	164;"	d	line:164
+T5_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	161;"	d	line:161
+T5_OFF_ON_MASK::(~T5_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	162;"	d	line:162
+T5_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	160;"	d	line:160
+T5_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	172;"	d	line:172
+T5_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	175;"	d	line:175
+T5_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	174;"	d	line:174
+T5_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	173;"	d	line:173
+T5_PS_MASK::(~T5_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	176;"	d	line:176
+T5_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	178;"	d	line:178
+T5_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	179;"	d	line:179
+T5_SOURCE_MASK::(~T5_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	180;"	d	line:180
+T6_32BIT_MODE_MASK::(~T6_32BIT_MODE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	205;"	d	line:205
+T6_32BIT_MODE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	204;"	d	line:204
+T6_32BIT_MODE_ON::0x0008	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	203;"	d	line:203
+T6_GATE_MASK::(~T6_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	195;"	d	line:195
+T6_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	194;"	d	line:194
+T6_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	193;"	d	line:193
+T6_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	190;"	d	line:190
+T6_IDLE_MASK::(~T6_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	191;"	d	line:191
+T6_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	189;"	d	line:189
+T6_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	186;"	d	line:186
+T6_OFF_ON_MASK::(~T6_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	187;"	d	line:187
+T6_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	185;"	d	line:185
+T6_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	197;"	d	line:197
+T6_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	200;"	d	line:200
+T6_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	199;"	d	line:199
+T6_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	198;"	d	line:198
+T6_PS_MASK::(~T6_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	201;"	d	line:201
+T6_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	207;"	d	line:207
+T6_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	208;"	d	line:208
+T6_SOURCE_MASK::(~T6_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	209;"	d	line:209
+T7_GATE_MASK::(~T7_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	224;"	d	line:224
+T7_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	223;"	d	line:223
+T7_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	222;"	d	line:222
+T7_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	219;"	d	line:219
+T7_IDLE_MASK::(~T7_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	220;"	d	line:220
+T7_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	218;"	d	line:218
+T7_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	215;"	d	line:215
+T7_OFF_ON_MASK::(~T7_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	216;"	d	line:216
+T7_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	214;"	d	line:214
+T7_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	226;"	d	line:226
+T7_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	229;"	d	line:229
+T7_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	228;"	d	line:228
+T7_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	227;"	d	line:227
+T7_PS_MASK::(~T7_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	230;"	d	line:230
+T7_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	232;"	d	line:232
+T7_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	233;"	d	line:233
+T7_SOURCE_MASK::(~T7_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	234;"	d	line:234
+T8_32BIT_MODE_MASK::(~T8_32BIT_MODE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	259;"	d	line:259
+T8_32BIT_MODE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	258;"	d	line:258
+T8_32BIT_MODE_ON::0x0008	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	257;"	d	line:257
+T8_GATE_MASK::(~T8_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	249;"	d	line:249
+T8_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	248;"	d	line:248
+T8_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	247;"	d	line:247
+T8_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	244;"	d	line:244
+T8_IDLE_MASK::(~T8_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	245;"	d	line:245
+T8_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	243;"	d	line:243
+T8_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	240;"	d	line:240
+T8_OFF_ON_MASK::(~T8_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	241;"	d	line:241
+T8_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	239;"	d	line:239
+T8_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	251;"	d	line:251
+T8_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	254;"	d	line:254
+T8_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	253;"	d	line:253
+T8_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	252;"	d	line:252
+T8_PS_MASK::(~T8_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	255;"	d	line:255
+T8_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	261;"	d	line:261
+T8_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	262;"	d	line:262
+T8_SOURCE_MASK::(~T8_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	263;"	d	line:263
+T9_GATE_MASK::(~T9_GATE_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	278;"	d	line:278
+T9_GATE_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	277;"	d	line:277
+T9_GATE_ON::0x0040	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	276;"	d	line:276
+T9_IDLE_CON::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	273;"	d	line:273
+T9_IDLE_MASK::(~T9_IDLE_STOP)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	274;"	d	line:274
+T9_IDLE_STOP::0x2000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	272;"	d	line:272
+T9_OFF::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	269;"	d	line:269
+T9_OFF_ON_MASK::(~T9_ON)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	270;"	d	line:270
+T9_ON::0x8000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	268;"	d	line:268
+T9_PS_1_1::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	280;"	d	line:280
+T9_PS_1_256::0x0030	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	283;"	d	line:283
+T9_PS_1_64::0x0020	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	282;"	d	line:282
+T9_PS_1_8::0x0010	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	281;"	d	line:281
+T9_PS_MASK::(~T9_PS_1_256)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	284;"	d	line:284
+T9_SOURCE_EXT::0x0002	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	286;"	d	line:286
+T9_SOURCE_INT::0x0000	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	287;"	d	line:287
+T9_SOURCE_MASK::(~T9_SOURCE_EXT)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	288;"	d	line:288
+TOSTRING::(x)_TOSTRING(x)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	51;"	d	line:51
+UART1_RX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	161;"	d	line:161	file:
+UART1_RX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	165;"	d	line:165	file:
+UART1_TX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	100;"	d	line:100	file:
+UART1_TX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	104;"	d	line:104	file:
+UART2_RX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	585;"	d	line:585	file:
+UART2_RX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	589;"	d	line:589	file:
+UART2_TX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	524;"	d	line:524	file:
+UART2_TX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	528;"	d	line:528	file:
+UART3_RX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1009;"	d	line:1009	file:
+UART3_RX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1013;"	d	line:1013	file:
+UART3_TX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	948;"	d	line:948	file:
+UART3_TX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	952;"	d	line:952	file:
+UART4_RX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1433;"	d	line:1433	file:
+UART4_RX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1437;"	d	line:1437	file:
+UART4_TX_FIFO_SIZE::32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1372;"	d	line:1372	file:
+UART4_TX_INTERRUPT_PRIORITY::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	1376;"	d	line:1376	file:
+UxBRG	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	96;"	l	line:96
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	74;"	f	line:74	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	168;"	f	line:168	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	262;"	f	line:262	signature:()
+WAIT_UNTIL_TRANSMIT_COMPLETE_UART4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	356;"	f	line:356	signature:()
+WDTPOST_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	211;"	v	line:211
+WDTPOST_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	266;"	v	line:266
+WDTPOST_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	423;"	v	line:423
+WDTPOST_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	499;"	v	line:499
+WDTPS_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	336;"	v	line:336
+WDTPS_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	394;"	v	line:394
+WDTPS_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	400;"	v	line:400
+WDTPS_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	443;"	v	line:443
+WDTPS_PS512	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_configbits.c	472;"	v	line:472
+_COMPILE_ASSERT_SYMBOL::(line,msg)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	68;"	d	line:68
+_COMPILE_ASSERT_SYMBOL::(line,msg)_COMPILE_ASSERT_SYMB	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	86;"	d	line:86
+_COMPILE_ASSERT_SYMBOL_INNER::(line,msg)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	67;"	d	line:67
+_COMPILE_ASSERT_SYMBOL_INNER::(line,msg)__COMPILE_ASSERT_##l	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	84;"	d	line:84
+_DefaultInterrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	149;"	f	line:149	signature:(void)
+_GET_CLOCK_CONFIG_INDEX::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	196;"	d	line:196
+_GET_CONFIG_DEFAULT_CLOCK::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	202;"	d	line:202
+_GET_FCY::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	198;"	d	line:198
+_GET_FNOSC_SEL::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	197;"	d	line:197
+_GET_IS_SUPPORTED::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	201;"	d	line:201
+_GET_OSC_SEL_BITS::(bits)((bits>>0)&0x07)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	339;"	d	line:339
+_GET_OSC_SEL_BITS::(bits)((bits>>8)&0x07)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	341;"	d	line:341
+_GET_POSCMD_SEL::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	199;"	d	line:199
+_GET_POSC_FREQ::(ndx,oscSel,Fcy,posCmdSel,posc	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	200;"	d	line:200
+_PIC24_ALL_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_all.h	40;"	d	line:40
+_PIC24_CLOCKFREQ_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	73;"	d	line:73
+_PIC24_DELAY_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	39;"	d	line:39
+_PIC24_I2C1_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	31;"	d	line:31
+_PIC24_I2C2_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	121;"	d	line:121
+_PIC24_PORTS_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_ports.h	32;"	d	line:32
+_PIC24_SERIAL_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	42;"	d	line:42
+_PIC24_TIMER_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	11;"	d	line:11
+_PIC24_UART1_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	32;"	d	line:32
+_PIC24_UART2_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	126;"	d	line:126
+_PIC24_UART3_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	220;"	d	line:220
+_PIC24_UART4_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	314;"	d	line:314
+_PIC24_UNITTEST_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	40;"	d	line:40
+_PIC24_UTIL_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	40;"	d	line:40
+_STDINT_H_	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	39;"	d	line:39
+_TOSTRING::(x)#x	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	53;"	d	line:53
+_U1RXInterrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	191;"	f	line:191	signature:(void)
+_U1TXInterrupt	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	129;"	f	line:129	signature:(void)
+au8_buf	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	91;"	l	line:91
+au8_rxFifo1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	168;"	v	line:168
+au8_txFifo1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	107;"	v	line:107
+bool_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	87;"	t	line:87
+checkClockTimeout	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	146;"	f	line:146	file:	signature:(void)
+checkClockTimeout	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	74;"	f	line:74	signature:(void)
+checkDeviceAndRevision	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	195;"	f	line:195	signature:(void)
+checkDeviceAndRevision	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	87;"	p	line:87	signature:(void)
+checkOscOption	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	266;"	f	line:266	signature:(void)
+checkOscOption	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	88;"	p	line:88	signature:(void)
+checkRxErrorUART1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	75;"	f	line:75	signature:(void)
+checkRxErrorUART1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	83;"	p	line:83	signature:(void)
+checkRxErrorUART2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	177;"	p	line:177	signature:(void)
+checkRxErrorUART3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	271;"	p	line:271	signature:(void)
+checkRxErrorUART4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	365;"	p	line:365	signature:(void)
+computeDeltaTicks	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	35;"	p	line:35	signature:(uint16_t u16_start, uint16_t u16_end, uint16_t u16_tmrPR)
+computeDeltaTicksLong	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	34;"	p	line:34	signature:(uint16_t u16_start, uint16_t u16_end, uint16_t u16_tmrPR, uint16_t u16_oflows)
+configBasic	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	501;"	f	line:501	signature:(const char* sz_helloMsg)
+configBasic	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	91;"	p	line:91	signature:(const char* psz_helloMsg)
+configClock	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	415;"	f	line:415	signature:()
+configClockFRCPLL_FCY16MHz	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	374;"	p	line:374	signature:(void)
+configClockFRCPLL_FCY40MHz	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	390;"	p	line:390	signature:(void)
+configClockFRC_FCY3685KHz	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	386;"	p	line:386	signature:(void)
+configClockFRC_FCY4MHz	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	378;"	p	line:378	signature:(void)
+configClockPRIPLL_7372KHzCrystal_40MHzFCY	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	394;"	p	line:394	signature:(void)
+configClockPRIPLL_8MHzCrystal_16MHzFCY	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	402;"	p	line:402	signature:(void)
+configClockPRIPLL_8MHzCrystal_40MHzFCY	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	398;"	p	line:398	signature:(void)
+configClockPRI_8MHzCrystal_4MHzFCY	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	406;"	p	line:406	signature:(void)
+configClockPRI_NO_PLL_7372KHzCrystal	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	382;"	p	line:382	signature:(void)
+configClockSim	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	370;"	p	line:370	signature:(void)
+configDefaultUART	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	345;"	f	line:345	signature:(uint32_t u32_baudRate)
+configDefaultUART	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	70;"	p	line:70	signature:(uint32_t u32_baudRate)
+configFrcUART	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	94;"	f	line:94	file:	signature:(void)
+configHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	49;"	f	line:49	signature:(void)
+configHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	81;"	f	line:81	signature:(void)
+configHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	101;"	p	line:101	signature:(void)
+configI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	51;"	f	line:51	signature:(uint16_t u16_FkHZ)
+configI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	68;"	p	line:68	signature:(uint16_t u16_FkHZ)
+configI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	322;"	f	line:322	signature:(uint16_t u16_FkHZ)
+configI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	158;"	p	line:158	signature:(uint16_t u16_FkHZ)
+configPinsForLowPower	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	427;"	f	line:427	signature:(void)
+configPinsForLowPower	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	487;"	f	line:487	signature:(void)
+configPinsForLowPower	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	90;"	p	line:90	signature:(void)
+configUART1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	252;"	f	line:252	signature:(uint32_t u32_baudRate)
+configUART1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	81;"	p	line:81	signature:(uint32_t u32_baudRate)
+configUART2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	175;"	p	line:175	signature:(uint32_t u32_baudRate)
+configUART3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	269;"	p	line:269	signature:(uint32_t u32_baudRate)
+configUART4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	363;"	p	line:363	signature:(uint32_t u32_baudRate)
+delayAndUpdateHeartbeatCount	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_delay.h	56;"	f	line:56	signature:(uint32_t u32_cyc)
+doHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	52;"	f	line:52	signature:(void)
+doHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	97;"	f	line:97	signature:(void)
+doHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	102;"	p	line:102	signature:(void)
+dsPIC33F_DEFINED::0	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	97;"	d	line:97
+dsPIC33F_DEFINED::1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	95;"	d	line:95
+f_brg	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	95;"	l	line:95
+getI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	152;"	f	line:152	signature:(uint8_t u8_ack2Send)
+getI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	74;"	p	line:74	signature:(uint8_t u8_ack2Send)
+getI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	423;"	f	line:423	signature:(uint8_t u8_ack2Send)
+getI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	164;"	p	line:164	signature:(uint8_t u8_ack2Send)
+getTimerPrescale::(TxCONbits)getTimerPrescaleBit	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	24;"	d	line:24
+getTimerPrescaleBits	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	30;"	p	line:30	signature:(uint8_t u8_TCKPS)
+inChar	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	275;"	f	line:275	signature:(void)
+inChar	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	56;"	p	line:56	signature:(void)
+inChar1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	183;"	f	line:183	signature:(void)
+inChar1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	219;"	f	line:219	signature:(void)
+inChar1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	80;"	p	line:80	signature:(void)
+inChar2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	174;"	p	line:174	signature:(void)
+inChar3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	268;"	p	line:268	signature:(void)
+inChar4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	362;"	p	line:362	signature:(void)
+inCharEcho	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	303;"	f	line:303	signature:(void)
+inCharEcho	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	69;"	p	line:69	signature:(void)
+inString	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	138;"	f	line:138	signature:(char *psz_buff, int16_t u16_maxCount)
+inString	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	58;"	p	line:58	signature:(char *psz_buff, int16_t u16_maxCount)
+inStringEcho	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	145;"	f	line:145	signature:(char *psz_buff, int16_t u16_maxCount)
+inStringEcho	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	59;"	p	line:59	signature:(char *psz_buff, int16_t u16_maxCount)
+inStringInternal	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	110;"	f	line:110	file:	signature:(char *psz_buff, uint16_t u16_maxCount, uint8_t echoFlag)
+int16_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	64;"	t	line:64
+int32_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	68;"	t	line:68
+int64_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	72;"	t	line:72
+int8_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	60;"	t	line:60
+int_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	81;"	t	line:81
+intptr_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	75;"	t	line:75
+isCharReady	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	314;"	f	line:314	signature:(void)
+isCharReady	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	67;"	p	line:67	signature:(void)
+isCharReady1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	175;"	f	line:175	signature:(void)
+isCharReady1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	211;"	f	line:211	signature:(void)
+isCharReady1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	82;"	p	line:82	signature:(void)
+isCharReady2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	176;"	p	line:176	signature:(void)
+isCharReady3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	270;"	p	line:270	signature:(void)
+isCharReady4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	364;"	p	line:364	signature:(void)
+main	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	90;"	f	line:90	signature:(void)
+memReadLC515	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	71;"	f	line:71	signature:(uint8_t u8_i2cAddr, uint16_t u16_MemAddr, uint8_t *pu8_buf)
+memWriteLC515	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	55;"	f	line:55	signature:(uint8_t u8_i2cAddr, uint16_t u16_MemAddr, uint8_t *pu8_buf)
+msToU16Ticks	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	27;"	p	line:27	signature:(uint16_t u16_ms, uint16_t u16_pre)
+outChar	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	56;"	f	line:56	signature:(uint8_t u8_c)
+outChar	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	60;"	p	line:60	signature:(uint8_t u8_c)
+outChar1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	115;"	f	line:115	signature:(uint8_t u8_c)
+outChar1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	150;"	f	line:150	signature:(uint8_t u8_c)
+outChar1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	79;"	p	line:79	signature:(uint8_t u8_c)
+outChar2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	173;"	p	line:173	signature:(uint8_t u8_c)
+outChar3	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	267;"	p	line:267	signature:(uint8_t u8_c)
+outChar4	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_uart.h	361;"	p	line:361	signature:(uint8_t u8_c)
+outChar::esos_PutUint8ToCommOut	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	47;"	d	line:47	file:
+outString	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	88;"	f	line:88	signature:(const char* psz_s)
+outString	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	57;"	p	line:57	signature:(const char* psz_s)
+outUint16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	174;"	f	line:174	signature:(uint16_t u16_x)
+outUint16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	63;"	p	line:63	signature:(uint16_t u16_x)
+outUint16Decimal	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	240;"	f	line:240	signature:( uint16_t u16_x )
+outUint16Decimal	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	66;"	p	line:66	signature:(uint16_t u16_x)
+outUint32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	188;"	f	line:188	signature:(uint32_t u32_x)
+outUint32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	64;"	p	line:64	signature:(uint32_t u32_x)
+outUint8	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	165;"	f	line:165	signature:(uint8_t u8_x)
+outUint8	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	62;"	p	line:62	signature:(uint8_t u8_x)
+outUint8Decimal	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	205;"	f	line:205	signature:( uint8_t u8_x )
+outUint8Decimal	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	65;"	p	line:65	signature:(uint8_t u8_x)
+outUint8NoLeader	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	150;"	f	line:150	signature:(uint8_t u8_x)
+outUint8NoLeader	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_serial.h	61;"	p	line:61	signature:(uint8_t u8_x)
+picAssert	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	106;"	f	line:106	signature:(uint8_t test, const char* message)
+printResetCause	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	313;"	f	line:313	signature:(void)
+printResetCause	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	89;"	p	line:89	signature:(void)
+psz_out	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	209;"	l	line:209
+psz_out	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	248;"	l	line:248
+putI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	112;"	f	line:112	signature:(uint8_t u8_val)
+putI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	72;"	p	line:72	signature:(uint8_t u8_val)
+putI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	383;"	f	line:383	signature:(uint8_t u8_val)
+putI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	162;"	p	line:162	signature:(uint8_t u8_val)
+putNoAckCheckI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	134;"	f	line:134	signature:(uint8_t u8_val)
+putNoAckCheckI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	73;"	p	line:73	signature:(uint8_t u8_val)
+putNoAckCheckI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	405;"	f	line:405	signature:(uint8_t u8_val)
+putNoAckCheckI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	163;"	p	line:163	signature:(uint8_t u8_val)
+read1I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	220;"	f	line:220	signature:(uint8_t u8_addr,uint8_t* pu8_d1)
+read1I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	80;"	p	line:80	signature:(uint8_t u8_addr,uint8_t* pu8_d1)
+read1I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	491;"	f	line:491	signature:(uint8_t u8_addr,uint8_t* pu8_d1)
+read1I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	170;"	p	line:170	signature:(uint8_t u8_addr,uint8_t* pu8_d1)
+read2I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	233;"	f	line:233	signature:(uint8_t u8_addr,uint8_t* pu8_d1, uint8_t* pu8_d2)
+read2I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	81;"	p	line:81	signature:(uint8_t u8_addr,uint8_t* pu8_d1, uint8_t* pu8_d2)
+read2I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	504;"	f	line:504	signature:(uint8_t u8_addr,uint8_t* pu8_d1, uint8_t* pu8_d2)
+read2I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	171;"	p	line:171	signature:(uint8_t u8_addr,uint8_t* pu8_d1, uint8_t* pu8_d2)
+readNI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	247;"	f	line:247	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+readNI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	82;"	p	line:82	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+readNI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	518;"	f	line:518	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+readNI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	172;"	p	line:172	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+readProgramMemory	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	183;"	f	line:183	signature:(uint32_t u32_address)
+readProgramMemory	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	86;"	p	line:86	signature:(uint32_t u32_address)
+reportError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	170;"	f	line:170	signature:(const char* sz_errorMessage)
+reportError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_unittest.h	46;"	p	line:46	signature:(const char* message)
+reportError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	85;"	p	line:85	signature:(const char* szErrorMessage)
+roundFloatToUint16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	526;"	f	line:526	signature:(float f_x)
+roundFloatToUint16	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	93;"	p	line:93	signature:(float f_x)
+roundFloatToUint32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	514;"	f	line:514	signature:(float f_x)
+roundFloatToUint32	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	92;"	p	line:92	signature:(float f_x)
+rstartI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	79;"	f	line:79	signature:(void)
+rstartI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	70;"	p	line:70	signature:(void)
+rstartI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	350;"	f	line:350	signature:(void)
+rstartI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	160;"	p	line:160	signature:(void)
+snprintf	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	92;"	p	line:92	signature:( char *buffer, int buff_size, const char *format, ... )
+startI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	63;"	f	line:63	signature:(void)
+startI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	69;"	p	line:69	signature:(void)
+startI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	334;"	f	line:334	signature:(void)
+startI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	159;"	p	line:159	signature:(void)
+stopI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	95;"	f	line:95	signature:(void)
+stopI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	71;"	p	line:71	signature:(void)
+stopI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	366;"	f	line:366	signature:(void)
+stopI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	161;"	p	line:161	signature:(void)
+switchClock	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	182;"	f	line:182	signature:(uint8_t u8_source)
+switchClock	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_clockfreq.h	432;"	p	line:432	signature:(uint8_t u8_source)
+sz_lastError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	119;"	v	line:119	file:
+sz_lastTimeoutError	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	123;"	v	line:123
+ticksToMs	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	31;"	p	line:31	signature:(uint32_t u32_ticks, uint16_t u16_tmrPre)
+ticksToNs	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	33;"	p	line:33	signature:(uint32_t u32_ticks, uint16_t u16_tmrPre)
+ticksToUs	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	32;"	p	line:32	signature:(uint32_t u32_ticks, uint16_t u16_tmrPre)
+toggleHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	109;"	f	line:109	signature:(void)
+toggleHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	55;"	f	line:55	signature:(void)
+toggleHeartbeat	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_util.h	103;"	p	line:103	signature:(void)
+u16_INTTREGlast	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	141;"	v	line:141	file:
+u16_INTTREGlast::BITS2WORD(INTTREGBITS_last)	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	139;"	d	line:139	file:
+u16_MemAddr	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	92;"	l	line:92
+u16_d	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	241;"	l	line:241	file:
+u16_destroy	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	247;"	l	line:247
+u16_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	205;"	l	line:205
+u16_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	248;"	l	line:248
+u16_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	476;"	l	line:476
+u16_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	519;"	l	line:519
+u16_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	112;"	l	line:112
+u16_offset	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	184;"	l	line:184
+u16_rxFifo1Head	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	169;"	v	line:169
+u16_rxFifo1Tail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	170;"	v	line:170
+u16_tmp	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	116;"	l	line:116
+u16_txFifo1Head	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	108;"	v	line:108
+u16_txFifo1Tail	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	109;"	v	line:109
+u16_y	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	527;"	l	line:527
+u32_brg	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	254;"	l	line:254
+u32_heartbeatCount	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	70;"	v	line:70
+u32_heartbeatMax	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	74;"	v	line:74	file:
+u32_temp	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	323;"	l	line:323
+u32_temp	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	52;"	l	line:52
+u32_timeoutCount	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_clockfreq.c	147;"	l	line:147	file:
+u32_y	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	515;"	l	line:515
+u8_AddrHi	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	56;"	l	line:56
+u8_AddrHi	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	73;"	l	line:73
+u8_AddrLo	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	56;"	l	line:56
+u8_AddrLo	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	73;"	l	line:73
+u8_Mode	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	93;"	l	line:93
+u8_ack	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	43;"	l	line:43
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	111;"	l	line:111
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	151;"	l	line:151
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	175;"	l	line:175
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	189;"	l	line:189
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	304;"	l	line:304
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	192;"	l	line:192
+u8_c	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_uart.c	76;"	l	line:76
+u8_d	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	206;"	l	line:206	file:
+u8_destroy	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	210;"	l	line:210
+u8_f	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	207;"	l	line:207	file:
+u8_f	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	244;"	l	line:244	file:
+u8_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	102;"	l	line:102
+u8_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	210;"	l	line:210
+u8_i	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_serial.c	246;"	l	line:246
+u8_inByte	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	154;"	l	line:154
+u8_inByte	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	425;"	l	line:425
+u8_resetIdentified	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	314;"	l	line:314
+u8_savedSWDTEN	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	43;"	l	line:43
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	113;"	l	line:113
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	135;"	l	line:135
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	153;"	l	line:153
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	335;"	l	line:335
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	351;"	l	line:351
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	367;"	l	line:367
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	384;"	l	line:384
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	406;"	l	line:406
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	424;"	l	line:424
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	64;"	l	line:64
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	80;"	l	line:80
+u8_wdtState	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	96;"	l	line:96
+u8_x	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_util.c	267;"	l	line:267
+uint16_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	47;"	t	line:47
+uint32_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	51;"	t	line:51
+uint64_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	55;"	t	line:55
+uint8_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	43;"	t	line:43
+uint_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	84;"	t	line:84
+uintptr_t	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\stdint.h	78;"	t	line:78
+usToU16Ticks	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	28;"	p	line:28	signature:(uint16_t u16_us, uint16_t u16_pre)
+usToU32Ticks	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_timer.h	29;"	p	line:29	signature:(uint32_t u32_us, uint16_t u16_pre)
+waitForWriteCompletion	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\chap10\mcp24lc515_i2c_eeprom.c	42;"	f	line:42	signature:(uint8_t u8_i2cAddr)
+write1I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	178;"	f	line:178	signature:(uint8_t u8_addr,uint8_t u8_d1)
+write1I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	77;"	p	line:77	signature:(uint8_t u8_addr,uint8_t u8_d1)
+write1I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	449;"	f	line:449	signature:(uint8_t u8_addr,uint8_t u8_d1)
+write1I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	167;"	p	line:167	signature:(uint8_t u8_addr,uint8_t u8_d1)
+write2I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	190;"	f	line:190	signature:(uint8_t u8_addr,uint8_t u8_d1, uint8_t u8_d2)
+write2I2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	78;"	p	line:78	signature:(uint8_t u8_addr,uint8_t u8_d1, uint8_t u8_d2)
+write2I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	461;"	f	line:461	signature:(uint8_t u8_addr,uint8_t u8_d1, uint8_t u8_d2)
+write2I2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	168;"	p	line:168	signature:(uint8_t u8_addr,uint8_t u8_d1, uint8_t u8_d2)
+writeNI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	204;"	f	line:204	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+writeNI2C1	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	79;"	p	line:79	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+writeNI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\common\pic24_i2c.c	475;"	f	line:475	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)
+writeNI2C2	D:\Electronics\My Projects\Xplore24-A Projects\Projects\PIC24F New Codes\pic24_code_examples\lib\include\pic24_i2c.h	169;"	p	line:169	signature:(uint8_t u8_addr,uint8_t* pu8_data, uint16_t u16_cnt)

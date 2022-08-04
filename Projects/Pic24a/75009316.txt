@@ -1,0 +1,389 @@
+US B O N -THE -G O: A TUTO RI AL 
+Philips Semiconductors 
+January 2002 
+© Koninklijke Philips Electronics N.V. 2002
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+T A BLE O F C O NT EN T 
+Introduction .............................................................................................................................................................................................3Ubiquitous USB.......................................................................................................................................................................................3USB On-The-Go (OTG).......................................................................................................................................................................4Point-to-Point Connectivity ............................................................................................................................................................4Simplified Cabling, More Connectivity Options.........................................................................................................................6Limited Power Sourcing Requirements........................................................................................................................................6Session Request Protocol ................................................................................................................................................................6Supported Operation Speeds .........................................................................................................................................................7Targeted Peripheral List...................................................................................................................................................................7Host Negotiation Protocol (HNP)................................................................................................................................................7No Silent Failures...............................................................................................................................................................................7Hub Support........................................................................................................................................................................................7Target OTG Applications.....................................................................................................................................................................7USB OTG Supplement Status..............................................................................................................................................................8USB OTG and Philips Semiconductors.............................................................................................................................................8Conclusion ...............................................................................................................................................................................................8Sources/References................................................................................................................................................................................9
+© Koninklijke Philips Electronics N.V. 2002 2
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+INTRODUCTION 
+Today, an increasing number of mobile consumer electronics products—portable digital assistants (PDAs), mobile 
+phones, digital cameras, portable storage devices, etc.—use the USB interface to exchange data with host PCs. 
+While increased user convenience and functionality could be achieved if these products communicated with each 
+other directly, at present certain aspects of the USB 2.0 Specification make this difficult to achieve. 
+The popular USB standard was recently enhanced to include ‘On-The-Go’ (OTG) functionality enabling point-to-
+point data exchange between mobile products. New products compliant with OTG specifications may support 
+both traditional host-based (PC) and device-to-device connectivity. In addition, by specifying additional cables, connectors, 
+and adapters, the USB OTG enhancements will simplify physical connectivity while increasing mobile device 
+functionality. 
+This paper overviews the user benefits of USB OTG, summarizes the features of the OTG Rev 1.0 Supplement to 
+the USB 2.0 Standard, and highlights the efforts of Philips Semiconductors in bringing USB OTG to market. 
+UBIQUITOUS USB 
+In the few years since its introduction, USB has become a de facto industry standard for connecting peripherals to 
+PCs and laptops for data exchange. As a result of quick acceptance by manufacturers, over 1 billion USB-enabled 
+products—PCs, PC peripherals, cable set-top boxes, home gateways, portable consumer appliances, etc.—are now 
+in the installed base1. USB is inexpensive, reliable, provides good performance, and delivers on its promise to provide 
+a ‘plug-and-play’ interface backed by compliance testing. 
+800 
+DESKTOPLAPTOP 
+700
+USB-Equipped PCs (millions)
+USB Peripherals (millions) 
+600 
+600 
+00 
+400 
+400
+300
+200
+200
+100 
+1999 2000 2001 2002 2003 1999 2000 2001 2002 2003 2004 
+Figure 1: Installed base of USB-equipped PCs (left) and USB peripherals (right) shipped 1999-2004.1
+(Source: Cahners In-Stat Group, 2000)
+USB is also gaining wide acceptance as the interface of choice for smaller, more portable or mobile consumer electronics 
+devices—such as cell phones, digital cameras, PDAs, MP3 players, and more—for data exchange with a PC 
+host. Yet as these devices increase in number, sophistication, and portability, there is a growing need to connect 
+them with each other when a PC is not available. For example, many USB digital cameras can download data to a 
+PC-based application, but cannot connect directly to a USB printer or CD burner to print or store the photos. 
+PDAs can exchange data with a host PC, but cannot print, store, or upload files when a PC is not present. Some of 
+these data exchange requirements are met today with removable memory devices, a viable solution but only for 
+specific products such as a digital camera and printer designed to support the same brand of memory. 
+The latest release of the USB Standard, Rev 2.0., does not support peer-to-peer communication. It is a hostcontrolled 
+standard, that is, communication takes place between a host and a peripheral over a host-initiated connection. 
+So why not just equip portable devices to act as hosts? To function as a USB 2.0 host (PC), a device must 
+include adequate storage for a large number of device drivers, be capable of sourcing a large current, and provide a 
+Series A host connector receptacle. For many portable and almost all mobile devices, it is neither practical nor 
+necessary to support these features. 
+1 
+Cahners In-Stat Group, 2000. 
+© Koninklijke Philips Electronics N.V. 2002 3 
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+HUB 
+HUB 
+MOUSEPDA 
+MONITOR/ 
+KEYBOARD CAMERA 
+PC/ROOT HUB 
+Figure 2: Traditional, host-based USB architecture does not support point-to-point device communication. 
+U SB ON-T H E -GO (O TG ) 
+In December 2001, the USB Implementers Forum (USB-IF) announced a long-awaited OTG Rev 1.0 Supplement to 
+the USB 2.0 Standard to address this need. The changes incorporated in the OTG Supplement aim primarily to 
+extend usage of USB by including more practical specifications and user-friendly features for mobile devices. In 
+particular, OTG supports point-to-point connectivity for data exchange, improves power efficiency and thus extends 
+battery life, simplifies cabling, and refines some of the USB 2.0 specifications to minimize deviations from core spec. 
+Point-to-Point Connectivity 
+The OTG Supplement extends the USB standard to enable point-to-point communication between two USB devices: 
+one OTG device and another OTG or traditional USB device. Because the two devices still maintain the roles of 
+host and peripheral, OTG point-to-point communication is not to be confused with peer-to-peer. Unlike traditional 
+USB, OTG allows only one peripheral at a time to be connected to the device acting as host. OTG devices do support 
+USB hubs, a traditional way of enabling multiple USB peripherals to share a single USB host connection. However, 
+some OTG functionality such as swapping host/peripheral roles and peripheral session requests are not supported 
+across today’s USB hubs. 
+USB OTG device types range from battery-powered handheld products to non-portable peripherals. While initial 
+device roles (host/peripheral) are defined by how they are cabled together, some OTG devices can switch roles 
+through the host negotiation protocol (HNP) without changing the cabling. 
+PDA 
+PDA (host) to 
+PHONEKEYBOARD 
+PDAphone (host) to 
+keyboard (peripheral) PDA (peripheral) 
+HARD DISK 
+camera (host) to 
+printer (peripheral) 
+PRINTER MP3 PLAYER CAMERA 
+audio player (host) to 
+hard disk (peripheral) 
+Figure 3: OTG enables point-to-point connectivity between peripherals without a traditional PC host. 
+© Koninklijke Philips Electronics N.V. 2002 4 
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+To better understand how new OTG devices and features add to existing USB functionality, a quick review of USB 
+device terminology follows. 
+> The A-device is the default host at the start of a session. It supplies power to VBUS. 
+> The B-device is the default peripheral at the start of a session. 
+To these, the OTG Supplement adds the OTG device and defines two types: a dual-role device and a peripheralonly 
+device. 
+> An OTG dual-role device can act as either a host to select USB or OTG peripherals or as a peripheral to standard 
+USB or OTG dual-role hosts. It can switch roles (with another OTG dual-role device) through the HNP. 
+To facilitate power efficiency, a dual-role device can initiate (peripheral) or respond (host) to the Session Request 
+Protocol (SRP) (discussed later). An OTG dual-role device can be identified by the presence of a Mini-AB 
+receptacle, a new feature of the OTG Supplement. 
+In the context of this new OTG dual-role device, the definition of the A- and B-devices can now be expanded. If 
+the A-device is dual-role, it may relinquish the role of host to a dual-role B-device through the HNP. If the Bdevice 
+is dual role, it may be granted the role of host from the A-device through the HNP. 
+Unlike a traditional host, a dual-role device has limited host capability. It is not required to support some of the 
+functions of a traditional USB PC/host and is not required to be capable of hosting all possible types of USB devices. 
+The OTG dual-role device manufacturer may choose which devices or classes of devices the dual-role 
+product will support when acting as the host. The details of these supported peripherals are maintained in the 
+device’s targeted peripheral list. As a limited host, the dual-role device must be capable of sourcing a minimum of 
+eight mA; as a peripheral it can sink up to eight mA. 
+> An OTG peripheral-only device benefits from the smaller cabling/connectivity and power efficiency of OTG, but 
+cannot assume the limited host role. It can consume a maximum of eight mA and can initiate SRP to wake up the 
+host. It has a Mini-B receptacle or tethered Mini-A plug. 
+PRINTER 
+HARD DISK 
+PRINTER 
+HOST 
+PERIPHERAL 
+HOST 
+KEYBOARD 
+Standard USB peripheral 
+PDA 
+Dual-role peripheral 
+Standard USB peripheral 
+MP3 PLAYER 
+CAMERA 
+OTG DUAL-ROLE STANDARD USB 
+Dual-role peripheral 
+OTG peripheral 
+OTG peripheral 
+OTG peripheral 
+Figure 4: As a host, an OTG dual-role device can connect to standard USB peripherals or OTG peripherals. 
+As a peripheral, a dual-role device can connect to standard USB or OTG dual-role hosts. 
+© Koninklijke Philips Electronics N.V. 2002 5 
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+Simplified Cabling, More Connectivity Options 
+USB has helped to simplify the cabling complexities of PC-centric peripherals, yet there are dozens of proprietary 
+communications protocols, interfaces, even types of cables for small mobile/portable devices. Today the average 
+consumer with a mobile phone, digital camera, and PDA needs at least four different cable types and a PC to interconnect 
+these devices. 
+In addition to supporting the connectors and cable assemblies defined in the USB 2.0 Specification, the OTG Supplement 
+defines new, smaller cables and connectors to better suit mobile form factors and adapters to enable use 
+with traditional USB connectors and cables. Table 1 summarizes all plugs, receptacles, adapters, and cable combinations 
+supported by both USB 2.0 and by the new OTG Supplement, Rev 1.0. 
+> 
+> i> Captii> le 
+> le 
+> Mile 
+i> Mii> Mi> Captiii> Mile 
+> MilMii> Mil> 
+i>Mii>Mi>Mii>Mil>ini-A 
+CABLE ASSEMBLIES CONNECTORS ADAPTERS COMPLIANT COMBINATIONS 
+USB 2.0 Standard-A plug to Standard-B plug 
+Standard-A plug to Mni-B plug 
+ve cable wth Standard-A plug 
+Standard-A plug and receptac(for the host) 
+Standard-B plug and receptac(for the peripheral) 
+ni-B plug and receptac(alternatve for peripheral) 
+New in the 
+OTG 1.0 
+Supplement 
+ni-A plug to Mni-B plug 
+ni-A plug to Standard-B plug 
+ve cable wth Mni-A plug 
+ni-A plug and receptacni-AB receptace (accepts 
+ni-A or Mni-B plug) 
+ni-A receptace to 
+Standard-A plug 
+Standard-A receptacle 
+to Mni-A plug 
+ni-A plug to Mni-B plug cable 
+ni-A plug to Standard-B plug 
+cable 
+ni-A plug to captve cable 
+ni-A receptace to Standard-A 
+plug adapter 
+Standard-A receptacle to Mplug adapter 
+Table 1: USB 2.0 & OTG Compliant Connectors & Cabling Options 
+OTG introduces a new smaller Mini-AB receptacle that accepts both Mini-A and Mini-B plugs. Since a dual-role 
+device must have only one Mini-AB receptacle, and this is the only approved use for this receptacle type, its presence 
+serves to clearly identify a OTG dual-role device. Since each dual-role device maintains a unique targeted 
+peripheral list for which it will act as host, the presence of a Mini-AB receptacle does not, however, imply 100% 
+compatibility with all USB devices. 
+USB connectors are keyed to ensure correct topologies and are differentiated through the shape of the plug 
+overmold and color coding for plugs and receptacles. The USB 2.0 Specification limits the maximum size of the 
+overmold for the Mini-B plug on the Standard-A to Mini-B cable, but it does not define the shape of the overmold. 
+The OTG Supplement constrains the size and the shape of the overmold for the Mini-A plug. The Supplement also 
+constrains the size and shape of the Mini-B plug overmold if used on new OTG cables. 
+For detailed technical drawings of plugs, receptacles, overmolds, adapters and cabling options, refer to Chapter 4 
+of the OTG Rev 1.0 Supplement. 
+Limited Power Sourcing Requirements 
+A traditional USB host must be capable of sourcing up to 500 mA of current to traditional USB peripherals. Since a 
+dual-role device can act in a limited-host capacity, it must be able to source power on the VBUS as well. But supplying 
+the power requirements of some traditional peripherals is not practical for many battery-powered products. 
+Thus the OTG Supplement allows dual-role devices to supply as little as eight mA to meet the needs of peripherals 
+supported by the dual-role device. Note, too, that the maximum current an OTG device (whether dual-role or 
+peripheral-only) can consume from the USB cable is a corresponding eight mA. 
+Session Request Protocol 
+Portable USB devices normally power down their USB bus and transceivers when not in use to conserve battery 
+charge. The OTG Supplement defines a Session Request Protocol (SRP) enabling the A-device (initial host) to do 
+the same when there is no bus activity. SRP enables the B-device (initial peripheral) to then initiate bus activity by 
+prompting the host to power up the VBUS when it is ready to begin a session. 
+© Koninklijke Philips Electronics N.V. 2002 6 
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+Any A-device, whether a traditional USB host (PC, laptop) or OTG host can respond to SRP. Any B-device, 
+whether a standard USB or OTG peripheral can be designed such that it can initiate SRP. A dual-role device must 
+be capable of initiating and responding to SRP. 
+The OTG Supplement defines two SRP signaling methods (data-line pulsing and VBUS pulsing) for use by the B-device 
+to allow maximum latitude in the design of A-devices. Each A-device is only required to respond to one of the two 
+signaling methods. A B-device initiates SRP using both methods to ensure that the A-device responds. 
+Supported Operation Speeds 
+OTG dual-role devices must support both limited-host and peripheral modes. For peripheral mode, full-speed operation 
+is required, high speed is optional. In limited host mode, full speed operation is required, low and high 
+speeds are optional. 
+Targeted Peripheral List 
+When acting as host, a dual-role device is not required to support operation with all other types of USB peripherals. 
+The peripherals supported by the device are determined by its manufacturer and identified in its ‘targeted peripheral 
+list.’ This may be as simple as the name, manufacturer, device type, and model number of supported peripherals, 
+or it may contain OTG peripheral ‘types,’ such as ‘OTG keyboard’ or ‘OTG camera’, etc. A device 
+manufacturer may choose, for example, to support only devices running a specific OS or peripherals compliant 
+with a particular device-class specification. OTG peripheral types must conform to specific characteristics currently 
+being defined by the OTG Device Working Group. 
+Host Negotiation Protocol (HNP) 
+By definition, the role of host is assumed by the A-device at the beginning of a session. The HNP allows the role of 
+host be transferred back and forth between dual-role devices any number of times during a connectivity session. 
+This eliminates the need for the user to manually switch the cable connections to accomplish this role reversal. 
+HNP will typically be initiated in response to user input or by an application on the dual-role B-device. 
+No Silent Failures 
+On occasion, USB products can be connected yet do not 
+support the type of communication requested by the user. 
+The OTG Supplement now requires that the dual-role 
+device involved in such a situation send understandable and, 
+if possible, self-explanatory messages to inform the user of 
+the problem and guide them to corrective action without 
+the need a reference manual or similar support materials. 
+Hub Support 
+Today many USB peripherals share USB host ports through 
+use of USB hubs. While OTG dual-role devices support USB 
+hubs, standard USB hubs do not support the signaling 
+methods used for the SRP and HNP. Thus, when an OTG 
+dual-role A-device is directly connected to a standard USB 
+hub, it cannot issue a command that would enable a 
+downstream B-device to expect or initiate HNP. 
+TAR G ET OT G A PPLIC ATIO N S 
+OTG simplifies data exchange in a variety of applications by 
+allowing direct communication between two devices when a 
+PC is not available. By enabling point-to-point connectivity 
+between and formerly peripheral-only devices, OTG opens 
+up a range of new applications in the mobile/portable space 
+from battery-powered handheld products to non-portable 
+peripherals. See Table 2 for a list of some of the many data 
+exchange tasks made possible by OTG capabilities. Table 2: USB On-The-Go Applications 
+iPDA PDA illfiles/
+iilliiPDA ililiiliiSpeakers Pli/
+DigitaliliiiiOTG HOST 
+PERIPHERAL 
+(traditonal & OTG) TASK 
+Exchange fes 
+Mobie phone Surf web, send e-mail, load 
+contact information 
+Digital camera Exchange pictures 
+Keyboard, Mouse User interface 
+Printer Print files, pctures 
+Portable storage Store/retrieve data files 
+Portable audio player Load/storemusc files 
+Scanner Scan pictures 
+GPS Get directions, maps 
+Mobie phone Mobie phone Exchange drectories, contact 
+nfo, messages, songs 
+Digital camera 
+Digital audio player 
+MP3 player 
+Card scanner 
+Exchange fes, surf web 
+Upload pctures to web 
+Exchange songs 
+Upload/downoad musc files 
+Scan busness cards 
+Digital camera Digital camera 
+Mobie phone 
+Printer 
+Mass storage 
+Exchange pictures 
+Upload pctures to web, e-mail 
+Prnt pictures 
+Store/archive pictures 
+Digital audio 
+player 
+Digital audio player 
+CD player 
+Storage 
+Exchange songs 
+Upload songs 
+ay songs 
+Retrevestore songs 
+Portable storage Digital audio player 
+Digital camera 
+video camera 
+Store songs 
+Store pictures 
+Store vdeo cps 
+Printer Digital camera 
+Scanner 
+Mass storage 
+Prnt pictures 
+Prnt scanned pictures 
+Print stored/archved files 
+© Koninklijke Philips Electronics N.V. 2002 7 
+
+USB ON-THE-GO: A TUTORIAL PHILIPS SEMICONDUCTORS 
+USB OTG SUPPLEMENT STATUS 
+The OTG Supplement to the USB 2.0 Specification Rev 1.0 was formally released on December 18, 2001 by the 
+USB Implementers Forum (USB-IF), a non-profit corporation founded by the group of companies that developed 
+the USB Specification. Developed by the USB On-The-Go Committee working under the auspices of the USB 2.0 
+Promoter Group, the OTG Supplement details the functional, mechanical, electrical, software specifications, and 
+goals for OTG devices. Contributors to the Supplement’s development include companies that build consumer and 
+business products and manufacturers of connectors, cables, embedded controllers, and software. They include 
+Advanced-Connectek (ACON), Cypress, Ericsson, Hewlett-Packard, InSilicon, Intel, MCCI, Microsoft, Motorola, 
+Molex, Inc., NEC, Nokia, Onspec, Palm, Philips, SoftConnex, Texas Instruments, and TransDimension.2 
+To download a copy of the complete USB OTG Supplement, visit: www.usb.org/developers/onthego/. 
+USB OTG AND PHILIPS SEMICONDUCTORS 
+Philips Semiconductors has a long history of involvement with the USB-IF. Its USB ICs have been proven in a wide 
+range of computer-related products including PCs, keyboards, printers, monitors, and scanners and are popular in 
+consumer audio/video products such as MP3 players, digital cameras, set-top boxes, mobile phones, and PDAs. In 
+addition to marketing a growing range of ICs and systems with embedded USB functionality, Philips Semiconductors 
+provides extensive design-in support and a large portfolio of reference designs and kits for companies developing 
+USB-based consumer and computing products. 
+As a core member of USB-IF and an active member of the OTG working group, Philips Semiconductors spearheaded 
+the new initiative for point-to-point connectivity within the USB community now known as OTG. In 2001, 
+Philips released the ISP1161—the first single-chip, integrated host and peripheral controller conforming to the USB 
+Specification Revision 1.1. Before the OTG Supplement could be formally announced, the USB-IF required proof of 
+a working prototype board. Philips was the first to demonstrate this with a working ISP1161-based prototype. 
+First in a complete roadmap of Philips On-The-Go solutions, the Philips ISP1362 is a single-chip USB OTG controller 
+based on its proven ISP1161 predecessor. Announced in January 2002, the ISP1362 integrates an advanced 
+host controller, a peripheral controller and an OTG transceiver. It is optimized for embedded systems and incorporates 
+many innovative patent-pending architectural enhancements that reduce processor overhead and maximize 
+utilization of the USB 2.0 12 Mb/s full-speed bandwidth. The ISP1362 is targeted for development of OTG products 
+that are fully compliant with USB Specification Rev. 2.0 and the OTG Supplement Rev 1.0. 
+CONCLUSION 
+USB is one of the most successful technologies introduced in recent years with over a billion units shipped to date. 
+Sales of new USB products leveraging enhanced OTG functionality have the potential to dwarf even those numbers 
+very quickly. Increased consumer product functionality and convenience made possible by OTG should only improve 
+consumer acceptance of USB products. Semiconductor and consumer electronics manufacturers alike can 
+benefit from this opportunity to deliver fresh, useful features in their next generation products. 
+Source: OTG Supplement, Rev 1.0. 
+© Koninklijke Philips Electronics N.V. 2002 8 
+
+SO U R CE S/RE FE RE NC E S 
+Executive Comment: The future of mobile connectivity lies in USB On-The-Go / David Murray and Terry Remple / EBN / November, 13 2001 
+USB OTG Spec Signals Developers to Proceed with a New Generation of Mobile Products Capable of Point to Point Data Exchange / USB-IF Press Release / 
+Dec ember18, 2001 
+USB On-The-Go: P-to-P Communications in Mobile Devices / Kosta Koeman and David Murray / Electronic News / August 27, 2001 
+OTG Supplement to the USB 2.0 Specification, Rev 1.0 / Dec. 18, 2001 
+PH I L I P S SE M I CO N D UCT O RS 
+Philips Semiconductors is a worldwide company with over 100 sales offices in more than 50 countries. For a 
+complete up-to-date list of sales offices please e-mail sales addresses@www.semiconductors.philips.com. A 
+complete list will be sent automatically. You can also visit www.semiconductors.philips.com/sales/ or contact 
+any of the following sales offices by phone or mail: 
+North America Europe, Africa, Middle East and South America Asia Pacific Japan 
+Philips Semiconductors C.R.M. Center Philips Semiconductors International Philips Semiconductors Asia Pacific Philips Semiconductors 
+2800 Wells Branch Parkway Fulfillment and Sales Support Center Market Response Management Center Philips Building 13-37 
+Mailstop P-411 P.O. Box 366 P.O. Box 68115 Kohnan 2-chome 
+Austin, Texas 78728 2700 AJ Zoetermeer Kowloon East Post Office Minato-ku, 
+United States The Netherlands Hong Kong Tokyo 108-8507 
+Tel: +1 800 234 7381 Tel: +81 3 3740 5130 
+Fax: +1 800 943 0087 Fax: +31 79 3685126 Fax: +852 2756 8271 Fax: +81 3 3740 5057 
+E-mail: P411webinq.smi@harte-hanks.com 
+© Koninklijke Philips Electronics N.V. 2002 
+All rights reserved. Reproduction in whole or in part is prohibited without the prior written consent of the copyright owner. The information presented in this document does not form part 
+of any quotation or contract, is believed to be accurate and reliable and may be changed without notice. No liability will be accepted by the publisher for any consequence of its use. Publication 
+thereof does not convey nor imply any license under patent – or other industrial or intellectual property rights. 
+Printed in the USA Date of release, January 2002 Document order number: 9397 750 09316 
+

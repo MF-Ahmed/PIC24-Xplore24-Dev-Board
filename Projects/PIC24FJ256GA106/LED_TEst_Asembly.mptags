@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BANKSEL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	15;"	l	line:15
+BANKSEL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	18;"	l	line:18
+BANKSEL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	21;"	l	line:21
+BANKSEL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	24;"	l	line:24
+BANKSEL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	31;"	l	line:31
+BANKSEL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	40;"	l	line:40
+BSF	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	27;"	l	line:27
+BTFSS	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	32;"	l	line:32
+BTFSS	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	41;"	l	line:41
+CALL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	28;"	l	line:28
+CALL	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	44;"	l	line:44
+Delay	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	47;"	l	line:47
+GOTO	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	42;"	l	line:42
+LIST	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	2;"	l	line:2
+MOVFP	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	35;"	l	line:35
+MOVLW	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	16;"	l	line:16
+MOVLW	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	19;"	l	line:19
+MOVLW	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	22;"	l	line:22
+MOVLW	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	25;"	l	line:25
+MOVWF	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	17;"	l	line:17
+MOVWF	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	20;"	l	line:20
+MOVWF	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	23;"	l	line:23
+MOVWF	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	26;"	l	line:26
+MOVWF	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	43;"	l	line:43
+RETURN	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	45;"	l	line:45
+b	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	52;"	l	line:52
+call	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	36;"	l	line:36
+call	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	37;"	l	line:37
+count_1	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	6;"	q	line:6
+count_2	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	7;"	q	line:7
+count_3	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	8;"	q	line:8
+decfsz	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	53;"	l	line:53
+decfsz	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	55;"	l	line:55
+decfsz	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	57;"	l	line:57
+goto	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	33;"	l	line:33
+goto	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	38;"	l	line:38
+goto	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	54;"	l	line:54
+goto	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	56;"	l	line:56
+goto	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	58;"	l	line:58
+initialize	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	14;"	l	line:14
+movlw	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	48;"	l	line:48
+movlw	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	51;"	l	line:51
+movwf	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	49;"	l	line:49
+movwf	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	50;"	l	line:50
+org	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	13;"	l	line:13
+receive	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	30;"	l	line:30
+return	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	59;"	l	line:59
+transmit	D:\Electronics\ALL PIC\PIC24FJ256GA106\LED_TEst_Asembly.s	39;"	l	line:39

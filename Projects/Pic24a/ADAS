@@ -1,0 +1,50 @@
+
+[Serial number]
+Value (Low)=0
+Value (High)=0
+Type=0
+Length (Bytes)=0
+Device Address=0
+Storage=2
+Increment=1
+Direction=0
+Site dependent SN Address=0
+Site dependent SN OnOff=0
+
+[Options]
+Auto Device Checksum=0
+Ignore Serial Number=0
+Auto Pre-Test=0
+Force Margin Verify=0
+Manual Verify Type=1
+
+[Emulator]
+Status=0
+Comms base=0
+IRQ base=0
+Local Echo=1
+
+[Buffer]
+Size=262144
+
+[Device]
+Database=0
+Manufacturer=AMD
+Device Option=0
+Device Package=0
+Set Mode=0
+Last View=-1
+
+[File Operations]
+Low Window=0
+High Window=-1
+Buffer Address=0
+Load File Format=4
+Load Inc Value=0
+Buffer Inc Value=0
+PreFill=1
+PreFill Value=255
+PreFill Length=0
+Auto Swap Bytes=0
+Auto Swap Words=0
+Password=0

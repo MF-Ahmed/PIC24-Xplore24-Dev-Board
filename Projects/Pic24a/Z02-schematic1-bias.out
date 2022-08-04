@@ -1,0 +1,36 @@
+
+**** 05/18/07 09:24:32 ********* PSpice 9.2 (Oct 2000) ******** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Bias"  [ C:\My Documents\z02-schematic1-bias.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "z02-schematic1-bias.sim.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Program Files\Orcad\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.OP
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+.INC ".\Z02-SCHEMATIC1.net" 
+
+
+
+**** INCLUDING Z02-SCHEMATIC1.net ****
+* source Z02
+
+**** RESUMING z02-schematic1-bias.sim.cir ****
+.END
+
+WARNING -- There are no devices in this circuit

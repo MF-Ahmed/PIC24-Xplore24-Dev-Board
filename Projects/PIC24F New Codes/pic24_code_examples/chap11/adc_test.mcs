@@ -1,0 +1,31 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=F:\ALL PIC\PIC24F New Codes\pic24_code_examples\chap11\pic24_clockfreq.o
+Folder=Intermediary
+DeviceName=PIC24FJ256GA106
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\lib\common\pic24_clockfreq.c|..\lib\common\pic24_configbits.c|..\lib\common\pic24_util.c|..\lib\common\pic24_uart.c|..\lib\common\pic24_serial.c|..\lib\common\pic24_timer.c|..\lib\common\pic24_spi.c|..\lib\common\pic24_adc.c|adc_test.c||<obj>||<lib>||<lkr>|..\lib\lkr\p24HJ32GP202_bootldr.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=F:\ALL PIC\PIC24F New Codes\pic24_code_examples\chap11\pic24_configbits.o
+Folder=Intermediary
+DeviceName=PIC24FJ256GA106
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\lib\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\lib\common\pic24_clockfreq.c|..\lib\common\pic24_configbits.c|..\lib\common\pic24_util.c|..\lib\common\pic24_uart.c|..\lib\common\pic24_serial.c|..\lib\common\pic24_timer.c|..\lib\common\pic24_spi.c|..\lib\common\pic24_adc.c|adc_test.c||<obj>||<lib>||<lkr>|..\lib\lkr\p24HJ32GP202_bootldr.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
