@@ -1,0 +1,20 @@
+for full edition the "general form" of key is:
+
+XXXA-CXXX-XXXA-AUSI
+
+replace "X" with char from "A" to "Z"
+
+you can confirm if you look at the edition.txt
+it must says: The Full Edition libraries for the MPLAB C32 C Compiler have been installed.
+
+----------------------------------
+If I understand it correctly, you can replace "X" with any character from "A" to "Z"
+
+example:
+XXXA-CXXX-XXXA-AUSI
+
+replaced "X" then:
+
+BCDA-CFGH-WRTA-AUSI
+
+Somebody tried it and confirmed it works?

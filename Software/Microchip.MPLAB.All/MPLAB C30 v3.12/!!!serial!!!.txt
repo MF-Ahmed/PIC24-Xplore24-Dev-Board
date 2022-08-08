@@ -1,0 +1,31 @@
+MTI044340412
+MTI074042127
+----------------------------------
+Mplab c30 Password
+
+You will be required to enter the following 
+Serial# MTI030340303 during the installation
+of the dsPIC Language Tools, v1.20. 
+
+---------------------------------
+I found these 2 serials separately, just thought they may be useful.
+
+---------------------------------
+Four years ago I disassembled C30 and came to this conclusion regarding serial numbers:
+
+Use included license manager (pic30-lm.exe) with the following switches:
+-ix=DDMMYYYY : make demo last to date MM/DD-YYYY
+-iu=XXX : make demo last XXX days
+
+or finally make it full version
+-uMTIxxyy4zzzz (where xx=01-04, yy=01-53, zzzz=0001-9999)
+
+(example: -uMTI035248989 is a valid licensenumber)
+
+According to these findings MTI074042127 would be an invalid serial. There were some date checks, but if I recall correctly I chose xx=01-04 to be on the safe side.
+Try using the example above and see if it works better.
+
+The latest version as of today available to download is:
+http://ww1.microchip.com/downloads/en/DeviceDoc/MPLAB_C_ComboFull_v3_11.exe
+
+Tried making the examplefiles using serial MTI074042127 and they failed. Using serial MTI035248989 everything was ok.
