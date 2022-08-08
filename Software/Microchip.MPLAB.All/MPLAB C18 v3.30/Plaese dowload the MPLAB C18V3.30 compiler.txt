@@ -1,0 +1,2 @@
+Plaese dowload the MPLAB C18V3.30 compiler
+or contact the ownwer of this repo..
